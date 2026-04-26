@@ -347,25 +347,47 @@
     nav.classList.toggle('scrolled', window.scrollY > 60);
   }, {passive:true});
 
-  // Form submission
+  // Form submission — salva no painel admin (localStorage)
   document.querySelector('.cotacao-form').addEventListener('submit', function(e){
     e.preventDefault();
     var btn = this.querySelector('[type=submit]');
     var orig = btn.innerHTML;
     btn.innerHTML = '⏳ Enviando...';
     btn.disabled = true;
-    
+
+    // Captura os dados do formulário
+    var dados = {
+      id: Date.now(),
+      nome:     document.getElementById('nome').value.trim(),
+      email:    document.getElementById('email').value.trim(),
+      telefone: document.getElementById('telefone').value.trim(),
+      empresa:  document.getElementById('empresa').value.trim(),
+      produto:  document.getElementById('tipo-produto').value,
+      volume:   document.getElementById('volume').value,
+      material: document.getElementById('material').value,
+      mensagem: document.getElementById('mensagem').value.trim(),
+      date:     new Date().toISOString(),
+      status:   'new'
+    };
+
+    // Salva no localStorage (acessível pelo painel /admin/)
+    try {
+      var existentes = JSON.parse(localStorage.getItem('alm_cotacoes') || '[]');
+      existentes.push(dados);
+      localStorage.setItem('alm_cotacoes', JSON.stringify(existentes));
+    } catch(err) { console.warn('localStorage indisponível:', err); }
+
     setTimeout(function(){
-      btn.innerHTML = '✓ Cotação solicitada com sucesso!';
+      btn.innerHTML = '✅ Cotação enviada com sucesso!';
       btn.style.background = '#16a34a';
       document.querySelector('.cotacao-form').reset();
-      
+
       setTimeout(function(){
         btn.innerHTML = orig;
         btn.style.background = '';
         btn.disabled = false;
-      }, 5000);
-    }, 1400);
+      }, 6000);
+    }, 1200);
   });
 </script>
 
