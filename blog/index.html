@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog Almofada de Ar | Artigos sobre Embalagem e Proteção</title>
+  <meta name="description" content="Blog com artigos sobre almofada de ar, embalagem profissional, proteção de produtos e soluções de logística. Dicas e tendências do mercado.">
+  <meta name="keywords" content="blog embalagem, artigos almofada ar, dicas proteção produtos, tendências logística">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.almofadadear.com.br/blog">
+
+  <!-- Schema: BreadcrumbList -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.almofadadear.com.br" },
+      { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.almofadadear.com.br/blog" }
+    ]
+  }
+  </script>
+
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --accent:      #1a56db;
+      --accent-dark: #1040b0;
+      --accent-bg:   #eef3ff;
+      --text:        #1c1c1c;
+      --text-2:      #4c4c4c;
+      --border:      #e6e6e2;
+      --bg-2:        #f7f7f5;
+      --max:         1080px;
+      --prose:       750px;
+      --r:           12px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Inter', system-ui, -apple-system, sans-serif; color: var(--text); line-height: 1.6; background: #fff; }
+
+    .wrap { max-width: var(--max); margin: 0 auto; padding: 0 24px; }
+    .section { padding: 88px 0; }
+    .section--alt { background: var(--bg-2); }
+
+    h1, h2, h3 { font-weight: 800; letter-spacing: -.025em; line-height: 1.15; color: var(--text); }
+    h1 { font-size: clamp(2.2rem, 5vw, 3.8rem); margin-bottom: 24px; }
+    h2 { font-size: clamp(1.8rem, 3.5vw, 2.6rem); margin-bottom: 20px; }
+    h3 { font-size: clamp(1.2rem, 2vw, 1.5rem); margin-bottom: 16px; }
+
+    p { font-size: 1.05rem; line-height: 1.8; color: var(--text-2); margin-bottom: 16px; }
+    .tag { display: inline-block; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .1em; color: var(--accent); margin-bottom: 14px; }
+
+    /* NAV */
+    .nav { position: fixed; top: 0; left: 0; right: 0; z-index: 999; transition: all .3s; padding: 15px 0; }
+    .nav.scrolled { background: rgba(255,255,255,0.95); backdrop-filter: blur(10px); border-bottom: 1px solid var(--border); padding: 10px 0; }
+    .nav-inner { display: flex; align-items: center; justify-content: space-between; }
+    .nav-logo { font-weight: 800; font-size: 1.2rem; color: var(--text); text-decoration: none; }
+    .nav-links { display: flex; gap: 24px; list-style: none; align-items: center; }
+    .nav-links a { text-decoration: none; color: var(--text-2); font-weight: 600; font-size: 0.95rem; transition: color .2s; }
+    .nav-links a:hover { color: var(--accent); }
+    .nav-cta { background: var(--accent); color: #fff !important; padding: 8px 18px; border-radius: 8px; }
+
+    /* HERO */
+    .hero { background: linear-gradient(135deg, #0f1522 0%, #1a2a4e 100%); color: #fff; padding: 100px 0 60px; text-align: center; }
+    .hero h1 { color: #fff; margin-bottom: 16px; }
+    .hero p { color: rgba(255,255,255,.7); max-width: var(--prose); margin: 0 auto; }
+
+    /* BLOG GRID */
+    .blog-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; margin-top: 48px; }
+    .blog-card { background: #fff; border: 1px solid var(--border); border-radius: var(--r); overflow: hidden; transition: all .3s; }
+    .blog-card:hover { border-color: var(--accent); box-shadow: 0 12px 40px rgba(26,86,219,.15); transform: translateY(-4px); }
+    .blog-card-image { width: 100%; height: 200px; background: linear-gradient(135deg, var(--accent-bg), #e0e7ff); display: flex; align-items: center; justify-content: center; font-size: 3rem; }
+    .blog-card-content { padding: 24px; }
+    .blog-card-tag { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .1em; color: var(--accent); margin-bottom: 12px; }
+    .blog-card h3 { margin-bottom: 12px; font-size: 1.2rem; }
+    .blog-card p { font-size: 0.95rem; color: var(--text-2); margin-bottom: 16px; }
+    .blog-card-link { display: inline-block; color: var(--accent); text-decoration: none; font-weight: 700; transition: color .2s; }
+    .blog-card-link:hover { color: var(--accent-dark); }
+
+    /* FOOTER */
+    .footer { background: #0f172a; color: #fff; padding: 60px 0 30px; }
+    .footer-inner { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 40px; }
+    .footer-col h4 { color: #fff; margin-bottom: 20px; font-size: 1.1rem; }
+    .footer-col ul { list-style: none; }
+    .footer-col li { margin-bottom: 12px; }
+    .footer-col a { color: #94a3b8; text-decoration: none; transition: color .2s; font-size: 0.95rem; }
+    .footer-col a:hover { color: #fff; }
+
+    /* REVEAL */
+    .reveal { opacity: 0; transform: translateY(24px); transition: opacity .7s ease, transform .7s ease; }
+    .reveal.on { opacity: 1; transform: none; }
+
+    /* RESPONSIVE */
+    @media (max-width: 1024px) {
+      .blog-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+    @media (max-width: 768px) {
+      .section { padding: 60px 0; }
+      .hero { padding: 80px 0 40px; }
+      .nav-links { display: none; }
+      .blog-grid { grid-template-columns: 1fr; }
+      .footer-inner { flex-direction: column; }
+    }
+  </style>
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.almofadadear.com.br/blog">
+  <meta property="og:title" content="Blog Almofada de Ar | Artigos sobre Embalagem e Proteção">
+  <meta property="og:description" content="Artigos especializados sobre almofada de ar, embalagem profissional, proteção de produtos e soluções de logística para e-commerce e indústria.">
+  <meta property="og:image" content="https://www.almofadadear.com.br/air_cushion_in_box_ecommerce.jpg">
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:site_name" content="Almofada de Ar">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Blog Almofada de Ar | Artigos sobre Embalagem e Proteção">
+  <meta name="twitter:description" content="Artigos especializados sobre almofada de ar, embalagem profissional, proteção de produtos e soluções de logística para e-commerce e indústria.">
+  <meta name="twitter:image" content="https://www.almofadadear.com.br/air_cushion_in_box_ecommerce.jpg">
+</head>
+<body>
+
+<!-- NAVBAR -->
+<nav class="nav" id="nav" role="navigation">
+  <div class="wrap nav-inner">
+    <a href="../index.html" class="nav-logo">almofadadear.com.br</a>
+    <ul class="nav-links">
+      <li><a href="../index.html#o-que-e">O que é</a></li>
+      <li><a href="../aplicacoes/index.html">Aplicações</a></li>
+      <li><a href="../para-ecommerce/index.html">E-commerce</a></li>
+      <li><a href="../para-industria/index.html">Indústria</a></li>
+      <li><a href="index.html" style="color: var(--accent);">Blog</a></li>
+      <li><a href="../cotacao/index.html" class="nav-cta">Solicitar Cotação</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="wrap">
+    <h1>Blog Almofada de Ar</h1>
+    <p>Artigos, dicas e tendências sobre embalagem profissional, proteção de produtos e soluções de logística.</p>
+  </div>
+</section>
+
+<!-- BLOG POSTS -->
+<section class="section">
+  <div class="wrap">
+    <h2 style="margin-bottom: 48px;">Artigos Recentes</h2>
+
+    <div class="blog-grid">
+      <!-- Post 1 -->
+      <div class="blog-card reveal">
+        <div class="blog-card-image">📦</div>
+        <div class="blog-card-content">
+          <p class="blog-card-tag">Materiais</p>
+          <h3>O que é Almofada de Ar?</h3>
+          <p>Descubra como a almofada de ar funciona, seus benefícios e por que é a melhor solução para embalagem.</p>
+          <a href="o-que-e-almofada-de-ar/index.html" class="blog-card-link">Ler artigo →</a>
+        </div>
+      </div>
+
+      <!-- Post 2 -->
+      <div class="blog-card reveal" style="transition-delay:.1s">
+        <div class="blog-card-image">🆚</div>
+        <div class="blog-card-content">
+          <p class="blog-card-tag">Comparação</p>
+          <h3>Almofada de Ar vs Plástico Bolha</h3>
+          <p>Comparação completa entre almofada de ar e plástico bolha. Qual é melhor para sua operação?</p>
+          <a href="almofada-de-ar-vs-plastico-bolha/index.html" class="blog-card-link">Ler artigo →</a>
+        </div>
+      </div>
+
+      <!-- Post 3 -->
+      <div class="blog-card reveal" style="transition-delay:.2s">
+        <div class="blog-card-image">🏠</div>
+        <div class="blog-card-content">
+          <p class="blog-card-tag">Comparação</p>
+          <h3>Almofada de Ar vs Isopor</h3>
+          <p>Por que almofada de ar é superior ao isopor? Análise de custo, sustentabilidade e eficácia.</p>
+          <a href="almofada-de-ar-vs-isopor/index.html" class="blog-card-link">Ler artigo →</a>
+        </div>
+      </div>
+
+      <!-- Post 4 -->
+      <div class="blog-card reveal" style="transition-delay:.3s">
+        <div class="blog-card-image">⚙️</div>
+        <div class="blog-card-content">
+          <p class="blog-card-tag">Tecnologia</p>
+          <h3>Como Funciona a Máquina de Almofada de Ar</h3>
+          <p>Entenda o funcionamento das máquinas insufladoras e como elas revolucionam a embalagem.</p>
+          <a href="como-funciona-maquina-almofada-de-ar/index.html" class="blog-card-link">Ler artigo →</a>
+        </div>
+      </div>
+
+      <!-- Post 5 -->
+      <div class="blog-card reveal" style="transition-delay:.4s">
+        <div class="blog-card-image">🛍️</div>
+        <div class="blog-card-content">
+          <p class="blog-card-tag">E-commerce</p>
+          <h3>Embalagem Inflável para E-commerce</h3>
+          <p>Soluções de embalagem inflável que melhoram a experiência de unboxing e reduzem devoluções.</p>
+          <a href="embalagem-inflavel-ecommerce/index.html" class="blog-card-link">Ler artigo →</a>
+        </div>
+      </div>
+
+      <!-- Post 6 -->
+      <div class="blog-card reveal" style="transition-delay:.5s">
+        <div class="blog-card-image">💰</div>
+        <div class="blog-card-content">
+          <p class="blog-card-tag">Economia</p>
+          <h3>Custo de Embalagem por Pedido</h3>
+          <p>Análise detalhada dos custos de embalagem e como reduzir gastos sem comprometer qualidade.</p>
+          <a href="custo-embalagem-por-pedido/index.html" class="blog-card-link">Ler artigo →</a>
+        </div>
+      </div>
+
+      <!-- Post 7 -->
+      <div class="blog-card reveal" style="transition-delay:.6s">
+        <div class="blog-card-image">🌍</div>
+        <div class="blog-card-content">
+          <p class="blog-card-tag">Sustentabilidade</p>
+          <h3>Embalagem Sustentável: Alternativa ao Isopor</h3>
+          <p>Descubra opções de embalagem ecológicas que protegem o planeta e seus produtos.</p>
+          <a href="embalagem-sustentavel-alternativa-isopor/index.html" class="blog-card-link">Ler artigo →</a>
+        </div>
+      </div>
+
+      <!-- Post 8 -->
+      <div class="blog-card reveal" style="transition-delay:.7s">
+        <div class="blog-card-image">🚚</div>
+        <div class="blog-card-content">
+          <p class="blog-card-tag">Logística</p>
+          <h3>Como Reduzir Avarias no Transporte</h3>
+          <p>Estratégias comprovadas para reduzir danos durante o transporte e aumentar satisfação do cliente.</p>
+          <a href="como-reduzir-avarias-transporte/index.html" class="blog-card-link">Ler artigo →</a>
+        </div>
+      </div>
+
+      <!-- Post 9 -->
+      <div class="blog-card reveal" style="transition-delay:.8s">
+        <div class="blog-card-image">🔷</div>
+        <div class="blog-card-content">
+          <p class="blog-card-tag">Materiais</p>
+          <h3>Colmeia Plástica: Aplicações e Benefícios</h3>
+          <p>Conheça a colmeia plástica e como ela oferece proteção em 360° para seus produtos.</p>
+          <a href="colmeia-plastica-aplicacoes/index.html" class="blog-card-link">Ler artigo →</a>
+        </div>
+      </div>
+
+      <!-- Post 10 -->
+      <div class="blog-card reveal" style="transition-delay:.9s">
+        <div class="blog-card-image">🛡️</div>
+        <div class="blog-card-content">
+          <p class="blog-card-tag">Materiais</p>
+          <h3>Manta de Proteção para Embalagem</h3>
+          <p>Saiba como a manta de proteção combina absorção de impactos com preenchimento eficiente.</p>
+          <a href="manta-protecao-embalagem/index.html" class="blog-card-link">Ler artigo →</a>
+        </div>
+      </div>
+
+      <!-- Post 11 -->
+      <div class="blog-card reveal" style="transition-delay:1s">
+        <div class="blog-card-image">👟</div>
+        <div class="blog-card-content">
+          <p class="blog-card-tag">Aplicações</p>
+          <h3>Preenchimento de Calçados</h3>
+          <p>Técnicas profissionais para proteger calçados durante o transporte com almofada de ar.</p>
+          <a href="preenchimento-calcados/index.html" class="blog-card-link">Ler artigo →</a>
+        </div>
+      </div>
+
+      <!-- Post 12 -->
+      <div class="blog-card reveal" style="transition-delay:1.1s">
+        <div class="blog-card-image">👜</div>
+        <div class="blog-card-content">
+          <p class="blog-card-tag">Aplicações</p>
+          <h3>Proteção de Bolsas e Acessórios</h3>
+          <p>Embalagem profissional para bolsas, malas e acessórios de moda com proteção máxima.</p>
+          <a href="protecao-bolsas-acessorios/index.html" class="blog-card-link">Ler artigo →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="wrap">
+    <div class="footer-inner">
+      <div class="footer-col">
+        <h4>Almofada de Ar</h4>
+        <ul>
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="../aplicacoes/index.html">Aplicações</a></li>
+          <li><a href="../para-ecommerce/index.html">E-commerce</a></li>
+          <li><a href="../para-industria/index.html">Indústria</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Recursos</h4>
+        <ul>
+          <li><a href="index.html">Blog</a></li>
+          <li><a href="../cotacao/index.html">Solicitar Cotação</a></li>
+          <li><a href="tel:+5511963073163">Ligar</a></li>
+          <li><a href="https://wa.me/5511963073163" target="_blank" rel="noopener">WhatsApp</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Contato</h4>
+        <ul>
+          <li><a href="tel:+5511963073163">(11) 96307-3163</a></li>
+          <li><a href="https://wa.me/5511963073163" target="_blank" rel="noopener">WhatsApp</a></li>
+          <li>São Paulo, Brasil</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  // Navbar scroll effect
+  var nav = document.getElementById('nav');
+  window.addEventListener('scroll', function(){
+    nav.classList.toggle('scrolled', window.scrollY > 60);
+  }, {passive:true});
+
+  // Reveal on scroll
+  var reveals = document.querySelectorAll('.reveal');
+  var obs = new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if(e.isIntersecting){ e.target.classList.add('on'); obs.unobserve(e.target); }
+    });
+  }, {threshold: 0.1, rootMargin:'0px 0px -40px 0px'});
+  reveals.forEach(function(r){ obs.observe(r); });
+</script>
+
+</body>
+</html>

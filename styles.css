@@ -1,0 +1,79 @@
+:root {
+  --accent:      #1a56db;
+  --accent-dark: #1040b0;
+  --accent-bg:   #eef3ff;
+  --green:       #16a34a;
+  --green-dark:  #15803d;
+  --text:        #1c1c1c;
+  --text-2:      #4c4c4c;
+  --text-3:      #858585;
+  --border:      #e6e6e2;
+  --bg-2:        #f7f7f5;
+  --white:       #ffffff;
+  --max:         1080px;
+  --prose:       750px;
+  --r:           12px;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Inter', system-ui, -apple-system, sans-serif; color: var(--text); line-height: 1.6; background: #fff; -webkit-font-smoothing: antialiased; }
+
+.wrap { max-width: var(--max); margin: 0 auto; padding: 0 24px; }
+.section { padding: 88px 0; }
+.section--alt { background: var(--bg-2); }
+
+h1, h2, h3, h4 { font-weight: 800; letter-spacing: -.025em; line-height: 1.15; color: var(--text); }
+h1 { font-size: clamp(2.2rem, 5vw, 3.8rem); margin-bottom: 24px; }
+h2 { font-size: clamp(1.8rem, 3.5vw, 2.6rem); margin-bottom: 20px; }
+h3 { font-size: clamp(1.2rem, 2vw, 1.5rem); margin-bottom: 16px; }
+
+p { font-size: 1.05rem; line-height: 1.8; color: var(--text-2); margin-bottom: 16px; }
+.tag { display: inline-block; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .1em; color: var(--accent); margin-bottom: 14px; }
+
+/* BUTTONS */
+.btn { display: inline-flex; align-items: center; gap: 8px; padding: 14px 28px; border-radius: 10px; font-size: 1rem; font-weight: 700; transition: all .25s; border: 2px solid transparent; cursor: pointer; text-decoration: none; }
+.btn-primary { background: var(--accent); color: #fff; }
+.btn-primary:hover { background: var(--accent-dark); transform: translateY(-2px); box-shadow: 0 8px 25px rgba(26,86,219,.3); }
+.btn-outline { border-color: var(--accent); color: var(--accent); }
+.btn-outline:hover { background: var(--accent); color: #fff; }
+.btn-wa { background: #25d366; color: #fff; }
+.btn-wa:hover { background: #1eb358; transform: translateY(-2px); box-shadow: 0 8px 25px rgba(37,211,102,.3); }
+
+/* NAV */
+.nav { position: fixed; top: 0; left: 0; right: 0; z-index: 999; transition: all .3s; padding: 15px 0; }
+.nav.scrolled { background: rgba(255,255,255,0.95); backdrop-filter: blur(10px); border-bottom: 1px solid var(--border); padding: 10px 0; }
+.nav-inner { display: flex; align-items: center; justify-content: space-between; }
+.nav-logo { font-weight: 800; font-size: 1.2rem; color: var(--text); text-decoration: none; }
+.nav-links { display: flex; gap: 24px; list-style: none; align-items: center; }
+.nav-links a { text-decoration: none; color: var(--text-2); font-weight: 600; font-size: 0.95rem; transition: color .2s; }
+.nav-links a:hover { color: var(--accent); }
+.nav-cta { background: var(--accent); color: #fff !important; padding: 8px 18px; border-radius: 8px; }
+
+/* BLOG POST CONTENT */
+.post-content { max-width: var(--prose); margin: 0 auto; padding: 60px 0; }
+.post-header { text-align: center; margin-bottom: 48px; }
+.post-body h2 { margin-top: 48px; margin-bottom: 24px; }
+.post-body h3 { margin-top: 32px; margin-bottom: 16px; }
+.post-body ul, .post-body ol { margin-bottom: 24px; padding-left: 24px; }
+.post-body li { margin-bottom: 12px; font-size: 1.05rem; color: var(--text-2); }
+.post-image { width: 100%; border-radius: var(--r); margin: 32px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.05); }
+
+/* FOOTER */
+.footer { background: #0f172a; color: #fff; padding: 60px 0 30px; }
+.footer-inner { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 40px; }
+.footer-col h4 { color: #fff; margin-bottom: 20px; font-size: 1.1rem; }
+.footer-col ul { list-style: none; }
+.footer-col li { margin-bottom: 12px; }
+.footer-col a { color: #94a3b8; text-decoration: none; transition: color .2s; font-size: 0.95rem; }
+.footer-col a:hover { color: #fff; }
+.footer-bottom { margin-top: 60px; padding-top: 30px; border-top: 1px solid #1e293b; text-align: center; color: #64748b; font-size: 0.85rem; }
+
+/* UTILS */
+.text-center { text-align: center; }
+.mt-40 { margin-top: 40px; }
+.mb-40 { margin-bottom: 40px; }
+
+@media (max-width: 768px) {
+  .nav-links { display: none; }
+  .footer-inner { flex-direction: column; }
+}

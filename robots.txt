@@ -1,8 +1,22 @@
 User-agent: *
 Allow: /
-
 Disallow: /admin/
 Disallow: /wp-admin/
 Disallow: /cdn-cgi/
+Disallow: /private/
+Disallow: /temp/
 
 Sitemap: https://www.almofadadear.com.br/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
+
+# Specific rules for Googlebot
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Specific rules for Bingbot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
