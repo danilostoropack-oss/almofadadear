@@ -1,23 +1,89 @@
+# ===========================================================
+# robots.txt — Almofada de Ar (almofadadear.com.br)
+# Nao vendemos embalagem. Vendemos seguranca, conforto & praticidade.
+# ===========================================================
+
+# ---------- Regra padrao para qualquer crawler ----------
 User-agent: *
 Allow: /
+Allow: /img/
+Allow: /para-ecommerce/
+Allow: /para-industria/
+Allow: /para-autopecas/
+Allow: /para-eletronicos/
+Allow: /aplicacoes/
+Allow: /exemplos-aplicacoes/
+Allow: /blog/
+Allow: /cotacao/
+Allow: /contato/
+Allow: /sobre/
+
+# Areas privadas / tecnicas
 Disallow: /admin/
 Disallow: /wp-admin/
 Disallow: /cdn-cgi/
 Disallow: /private/
 Disallow: /temp/
+Disallow: /*?utm_*
+Disallow: /*?ref=
+Disallow: /*?fbclid=
+Disallow: /*?gclid=
 
-Sitemap: https://www.almofadadear.com.br/sitemap.xml
-
-# Crawl delay
-Crawl-delay: 1
-
-# Specific rules for Googlebot
+# ---------- Googlebot (sem crawl-delay para indexacao plena) ----------
 User-agent: Googlebot
 Allow: /
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.webp$
+Allow: /*.svg$
 Disallow: /admin/
-Crawl-delay: 0
 
-# Specific rules for Bingbot
+# ---------- Googlebot Image (libera acesso completo as imagens) ----------
+User-agent: Googlebot-Image
+Allow: /
+Allow: /img/
+Allow: /para-ecommerce/
+Allow: /para-industria/
+Allow: /para-autopecas/
+Allow: /para-eletronicos/
+Disallow: /admin/
+
+# ---------- Bingbot ----------
 User-agent: Bingbot
 Allow: /
+Disallow: /admin/
 Crawl-delay: 1
+
+# ---------- Yandex / DuckDuckBot / Outros ----------
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /admin/
+
+User-agent: Yandex
+Allow: /
+Disallow: /admin/
+Crawl-delay: 2
+
+User-agent: Slurp
+Allow: /
+Disallow: /admin/
+Crawl-delay: 2
+
+# ---------- Bloqueio de bots agressivos / scrapers ----------
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+# ---------- Sitemap (deve aparecer por ultimo, fora de blocos) ----------
+Sitemap: https://www.almofadadear.com.br/sitemap.xml

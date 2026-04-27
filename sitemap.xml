@@ -1,167 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
-  <!-- HOME -->
+  <!-- ========== HOME ========== -->
   <url>
     <loc>https://www.almofadadear.com.br/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.almofadadear.com.br/"/>
+    <image:image>
+      <image:loc>https://www.almofadadear.com.br/unboxing.png</image:loc>
+      <image:title>Almofada de Ar para Embalagem Profissional</image:title>
+      <image:caption>Almofada de ar, colmeia plastica e manta de protecao para e-commerce e industria.</image:caption>
+    </image:image>
   </url>
 
-  <!-- APLICAÇÕES -->
+  <!-- ========== PAGINAS DE PRODUTO/APLICACOES ========== -->
   <url>
-    <loc>https://www.almofadadear.com.br/aplicacoes</loc>
+    <loc>https://www.almofadadear.com.br/aplicacoes/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://www.almofadadear.com.br/img/aplicacao-calcados.jpg</image:loc>
+      <image:title>Aplicacoes de almofada de ar, colmeia e manta</image:title>
+    </image:image>
   </url>
   <url>
-    <loc>https://www.almofadadear.com.br/exemplos-aplicacoes</loc>
+    <loc>https://www.almofadadear.com.br/exemplos-aplicacoes/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.almofadadear.com.br/img/aplicacao-eletronicos.jpg</image:loc>
+      <image:title>Exemplos visuais de aplicacoes de embalagem profissional</image:title>
+    </image:image>
   </url>
 
-  <!-- SEGMENTAÇÕES -->
+  <!-- ========== SEGMENTOS (LANDING PAGES POR PUBLICO) ========== -->
   <url>
-    <loc>https://www.almofadadear.com.br/para-ecommerce</loc>
+    <loc>https://www.almofadadear.com.br/para-ecommerce/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.92</priority>
+    <image:image>
+      <image:loc>https://www.almofadadear.com.br/para-ecommerce/calcados%20e%20bolsas.png</image:loc>
+      <image:title>Embalagem para e-commerce - calcados, bolsas e moda</image:title>
+    </image:image>
   </url>
   <url>
-    <loc>https://www.almofadadear.com.br/para-industria</loc>
+    <loc>https://www.almofadadear.com.br/para-industria/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.92</priority>
   </url>
   <url>
-    <loc>https://www.almofadadear.com.br/para-autopecas</loc>
+    <loc>https://www.almofadadear.com.br/para-autopecas/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.almofadadear.com.br/para-eletronicos</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- COTAÇÃO -->
-  <url>
-    <loc>https://www.almofadadear.com.br/cotacao</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.95</priority>
-  </url>
-
-  <!-- BLOG -->
-  <url>
-    <loc>https://www.almofadadear.com.br/blog</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://www.almofadadear.com.br/blog/o-que-e-almofada-de-ar</loc>
+    <loc>https://www.almofadadear.com.br/para-eletronicos/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.almofadadear.com.br/blog/almofada-de-ar-vs-plastico-bolha</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.almofadadear.com.br/blog/almofada-de-ar-vs-isopor</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.almofadadear.com.br/blog/como-funciona-maquina-almofada-de-ar</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.almofadadear.com.br/blog/embalagem-inflavel-ecommerce</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.almofadadear.com.br/blog/custo-embalagem-por-pedido</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.almofadadear.com.br/blog/embalagem-sustentavel-alternativa-isopor</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.almofadadear.com.br/blog/como-reduzir-avarias-transporte</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.almofadadear.com.br/blog/colmeia-plastica-aplicacoes</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.almofadadear.com.br/blog/manta-protecao-embalagem</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.almofadadear.com.br/blog/preenchimento-calcados</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://www.almofadadear.com.br/blog/protecao-bolsas-acessorios</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
+    <priority>0.85</priority>
   </url>
 
-  <!-- PÁGINAS AUXILIARES -->
+  <!-- ========== CONVERSAO (CTA PAGES) ========== -->
   <url>
-    <loc>https://www.almofadadear.com.br/sobre</loc>
+    <loc>https://www.almofadadear.com.br/cotacao/</loc>
     <lastmod>2026-04-26</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.98</priority>
   </url>
   <url>
-    <loc>https://www.almofadadear.com.br/contato</loc>
+    <loc>https://www.almofadadear.com.br/contato/</loc>
     <lastmod>2026-04-26</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- ========== BLOG (HUB DE CONTEUDO) ========== -->
+  <url>
+    <loc>https://www.almofadadear.com.br/blog/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Blog: pillar posts -->
+  <url>
+    <loc>https://www.almofadadear.com.br/blog/o-que-e-almofada-de-ar/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.92</priority>
   </url>
   <url>
-    <loc>https://www.almofadadear.com.br/politica-privacidade</loc>
+    <loc>https://www.almofadadear.com.br/blog/almofada-de-ar-vs-plastico-bolha/</loc>
     <lastmod>2026-04-26</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.almofadadear.com.br/termos-servico</loc>
+    <loc>https://www.almofadadear.com.br/blog/almofada-de-ar-vs-isopor/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.almofadadear.com.br/blog/embalagem-inflavel-ecommerce/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.almofadadear.com.br/blog/custo-embalagem-por-pedido/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.almofadadear.com.br/blog/como-reduzir-avarias-transporte/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.almofadadear.com.br/blog/embalagem-sustentavel-alternativa-isopor/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.almofadadear.com.br/blog/como-funciona-maquina-almofada-de-ar/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.almofadadear.com.br/blog/colmeia-plastica-aplicacoes/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+  </url>
+  <url>
+    <loc>https://www.almofadadear.com.br/blog/manta-protecao-embalagem/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+  </url>
+  <url>
+    <loc>https://www.almofadadear.com.br/blog/preenchimento-calcados/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.78</priority>
+  </url>
+  <url>
+    <loc>https://www.almofadadear.com.br/blog/protecao-bolsas-acessorios/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.78</priority>
+  </url>
+
+  <!-- ========== INSTITUCIONAL ========== -->
+  <url>
+    <loc>https://www.almofadadear.com.br/sobre/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.almofadadear.com.br/politica-privacidade/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.almofadadear.com.br/termos-servico/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
 
 </urlset>
