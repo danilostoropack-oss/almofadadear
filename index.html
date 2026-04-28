@@ -122,7 +122,7 @@
     .como-steps{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:52px;position:relative;}
     .como-steps::before{content:'';position:absolute;top:100px;left:16.6%;right:16.6%;height:2px;background:linear-gradient(to right,var(--blue),var(--blue));opacity:.3;z-index:0;}
     .step{background:var(--card);border:1px solid var(--card-border);border-radius:16px;overflow:hidden;position:relative;z-index:1;}
-    .step-photo{width:100%;height:180px;object-fit:cover;object-position:center;display:block;}
+    .step-photo{width:100%;height:300px;object-fit:cover;object-position:center;display:block;}
     .step-body{text-align:center;padding:28px 22px 32px;}
     .step:not(:last-child)::after{content:'→';position:absolute;right:-20px;top:90px;font-size:1.4rem;color:var(--blue-light);opacity:.5;z-index:2;}
     .step-num{width:48px;height:48px;background:var(--blue);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:1.1rem;font-weight:900;color:#fff;margin:0 auto 16px;}
@@ -230,9 +230,10 @@
     .footer-bottom a:hover{color:var(--muted);}
 
     /* ── WA FLOAT ── */
-    .wa-float{position:fixed;bottom:24px;left:24px;z-index:999;width:52px;height:52px;background:#22c55e;border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 20px rgba(0,0,0,.35);transition:transform .2s;}
-    .wa-float:hover{transform:scale(1.1);}
-    .wa-float svg{width:27px;height:27px;fill:#fff;}
+    .wa-float{position:fixed;bottom:24px;left:24px;z-index:999;background:#22c55e;border-radius:100px;display:inline-flex;align-items:center;gap:10px;padding:13px 22px;box-shadow:0 4px 24px rgba(34,197,94,.45);transition:all .2s;color:#fff;font-weight:700;font-size:.88rem;white-space:nowrap;}
+    .wa-float:hover{background:#16a34a;transform:translateY(-3px);box-shadow:0 8px 32px rgba(34,197,94,.55);}
+    .wa-float svg{width:22px;height:22px;fill:#fff;flex-shrink:0;}
+    @media(max-width:520px){.wa-float span{display:none;}.wa-float{padding:13px;border-radius:50%;}}
 
     /* ── RESPONSIVE ── */
     @media(max-width:960px){
@@ -253,7 +254,7 @@
       .mat-grid{grid-template-columns:1fr;}
       .como-steps{grid-template-columns:1fr;gap:12px;}
       .como-steps::before{display:none;}
-      .step-photo{height:140px;}
+      .step-photo{height:180px;}
       .step:not(:last-child)::after{content:'↓';right:auto;left:50%;top:auto;bottom:-18px;}
       .aplic-mosaic{grid-template-columns:1fr 1fr;}
       .aplic-tall{grid-row:span 1;}
@@ -262,6 +263,30 @@
       .comp-table{font-size:.78rem;}
       .comp-table th,.comp-table td{padding:10px 12px;}
     }
+
+    /* ── MODAL ── */
+    .modal-bg{position:fixed;inset:0;background:rgba(0,0,0,.7);z-index:9999;display:none;align-items:center;justify-content:center;padding:20px;backdrop-filter:blur(4px);}
+    .modal-bg.open{display:flex;}
+    .modal-box{background:#0f1e3d;border:1px solid rgba(255,255,255,.12);border-radius:18px;padding:40px 36px;width:100%;max-width:480px;position:relative;box-shadow:0 32px 80px rgba(0,0,0,.6);}
+    .modal-close{position:absolute;top:16px;right:18px;background:none;border:none;color:rgba(255,255,255,.4);font-size:1.4rem;cursor:pointer;line-height:1;transition:color .2s;}
+    .modal-close:hover{color:#fff;}
+    .modal-tag{display:inline-block;background:rgba(26,86,219,.25);border:1px solid rgba(26,86,219,.35);color:#7eb3ff;font-size:.7rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:4px 14px;border-radius:100px;margin-bottom:16px;}
+    .modal-box h2{font-size:1.35rem;font-weight:900;color:#fff;margin-bottom:6px;line-height:1.2;}
+    .modal-box p{font-size:.85rem;color:rgba(255,255,255,.5);margin-bottom:28px;}
+    .mfield{margin-bottom:16px;}
+    .mfield label{display:block;font-size:.75rem;font-weight:700;color:rgba(255,255,255,.5);letter-spacing:.06em;text-transform:uppercase;margin-bottom:8px;}
+    .mfield input,.mfield select,.mfield textarea{width:100%;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);border-radius:9px;padding:12px 14px;color:#fff;font-size:.93rem;outline:none;transition:border .2s;font-family:inherit;}
+    .mfield input::placeholder,.mfield textarea::placeholder{color:rgba(255,255,255,.25);}
+    .mfield input:focus,.mfield select:focus,.mfield textarea:focus{border-color:#1a56db;background:rgba(26,86,219,.08);}
+    .mfield select option{background:#0f1e3d;color:#fff;}
+    .mfield textarea{resize:vertical;min-height:80px;}
+    .modal-row{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
+    .btn-modal-send{width:100%;background:#1a56db;color:#fff;border:none;border-radius:10px;padding:14px;font-weight:800;font-size:.97rem;cursor:pointer;margin-top:8px;transition:all .2s;box-shadow:0 6px 20px rgba(26,86,219,.4);}
+    .btn-modal-send:hover{background:#2563eb;transform:translateY(-2px);}
+    .modal-success{display:none;text-align:center;padding:20px 0;}
+    .modal-success .check{font-size:3rem;margin-bottom:16px;}
+    .modal-success h3{color:#fff;font-size:1.2rem;font-weight:900;margin-bottom:10px;}
+    .modal-success p{color:rgba(255,255,255,.55);font-size:.9rem;}
   </style>
 </head>
 <body>
@@ -281,7 +306,7 @@
     <span class="nav-site-label">Conteúdo educativo gratuito</span>
     <div class="nav-right">
       <a href="tel:+5511963073163" class="nav-tel">&#128222; <em>(11) 96307-3163</em></a>
-      <a href="../cotacao/index.html" class="btn-nav">Solicitar Análise</a>
+      <button class="btn-nav" onclick="openModal()">Solicitar Análise</button>
     </div>
   </div>
 </nav>
@@ -306,15 +331,15 @@
       </div>
       <div class="hero-grid">
         <div class="hg-img">
-          <img src="../img/prod-colmeia-multiprodutos.jpg" alt="Caixa com colmeia separando múltiplos produtos para transporte" style="object-position:center center;">
+          <img src="../img/prod-colmeia-multiprodutos.webp" alt="Caixa com colmeia separando múltiplos produtos para transporte" style="object-position:center center;">
           <span>Colmeia</span>
         </div>
         <div class="hg-img">
-          <img src="../img/prod-moda-almofada.jpg" alt="Bolsa e calçados protegidos com almofada de ar" style="object-position:center top;">
+          <img src="../img/prod-moda-almofada.png" alt="Bolsa e calçados protegidos com almofada de ar" style="object-position:center top;">
           <span>E-commerce</span>
         </div>
         <div class="hg-img">
-          <img src="../img/prod-manta-eletronicos.jpg" alt="Eletrônicos protegidos com manta de ar nas laterais da caixa" style="object-position:center center;">
+          <img src="../img/prod-manta-eletronicos.png" alt="Eletrônicos protegidos com manta de ar nas laterais da caixa" style="object-position:center center;">
           <span>Manta</span>
         </div>
       </div>
@@ -351,7 +376,7 @@
   <div class="wrap">
     <div class="consultor-inner">
       <div class="consultor-img">
-        <img src="../operacao.png" alt="Operação de embalagem com almofada de ar">
+        <img src="../img/operacao-galpao.png" alt="Operação logística em centro de distribuição com proteção de embalagem">
       </div>
       <div class="consultor-text">
         <span class="tag-inline">Sobre o consultor</span>
@@ -396,30 +421,27 @@
     </div>
     <div class="como-steps">
       <div class="step">
-        <img src="../img/prod-calcados-almofada.jpg" alt="Bobina de filme plástico para almofada de ar" class="step-photo">
+        <img src="../img/bobina.webp" alt="Bobina de filme plástico compacta no estoque" class="step-photo">
         <div class="step-body">
           <div class="step-num">1</div>
-          <div class="step-icon"><svg viewBox="0 0 24 24" fill="none" stroke="var(--blue-light)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.29 7 12 12 20.71 7"/><line x1="12" y1="22" x2="12" y2="12"/></svg></div>
           <h3>Bobina compacta no estoque</h3>
           <p>O filme técnico é armazenado em bobinas vazias. Uma prateleira comporta o equivalente a centenas de metros de plástico bolha — 97% menos espaço.</p>
         </div>
       </div>
       <div class="step">
-        <img src="../img/prod-almofada-spray.jpg" alt="Insuflador gerando almofadas de ar sob demanda" class="step-photo">
+        <img src="../img/producao.webp" alt="Insuflador gerando almofadas de ar sob demanda" class="step-photo">
         <div class="step-body">
           <div class="step-num">2</div>
-          <div class="step-icon"><svg viewBox="0 0 24 24" fill="none" stroke="var(--blue-light)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/><path d="M6 11h4"/><path d="M14 11h4"/></svg></div>
           <h3>Almofadas geradas sob demanda</h3>
-          <p>O insuflador infla e sela as almofadas automaticamente no ritmo da operação — até 12 metros por minuto, sem desperdício de material.</p>
+          <p>O equipamento infla e sela as almofadas automaticamente no ritmo da operação — até 12 metros por minuto, sem desperdício de material.</p>
         </div>
       </div>
       <div class="step">
-        <img src="../img/prod-manta-eletronicos.jpg" alt="Produto seguro dentro da caixa com almofada de ar" class="step-photo">
+        <img src="../img/pronto.png" alt="Bolsa e calçado chegando sem marcas ou dobras" class="step-photo">
         <div class="step-body">
           <div class="step-num">3</div>
-          <div class="step-icon"><svg viewBox="0 0 24 24" fill="none" stroke="var(--blue-light)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 8h14"/><path d="M5 12h14"/><path d="M5 16h6"/><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M16 16l2 2 4-4"/></svg></div>
           <h3>Produto seguro até o destino</h3>
-          <p>As almofadas preenchem os espaços vazios e imobilizam o produto dentro da caixa. Zero movimentação, zero avaria, cliente satisfeito.</p>
+          <p>A almofada de ar protege sem pressão direta: o couro não marca, a bolsa não dobra, o acabamento chega intacto. O cliente recebe exatamente o que comprou.</p>
         </div>
       </div>
     </div>
@@ -436,7 +458,7 @@
     </div>
     <div class="mat-grid">
       <div class="mat-card">
-        <img src="../img/prod-almofada-spray.jpg" alt="Almofada de ar protegendo produto em caixa" class="mat-card-img">
+        <img src="../img/prod-almofada-spray.png" alt="Almofada de ar protegendo produto em caixa" class="mat-card-img">
         <div class="mat-card-body">
           <h3>Almofada de Ar</h3>
           <p>Produção sob demanda, máxima eficiência de espaço e proteção versátil para preenchimento e imobilização.</p>
@@ -449,7 +471,7 @@
         </div>
       </div>
       <div class="mat-card">
-        <img src="../img/prod-colmeia-multiprodutos.jpg" alt="Colmeia plástica separando múltiplos produtos em caixa" class="mat-card-img">
+        <img src="../img/prod-colmeia-multiprodutos.webp" alt="Colmeia plástica separando múltiplos produtos em caixa" class="mat-card-img">
         <div class="mat-card-body">
           <h3>Colmeia Plástica</h3>
           <p>Estrutura robusta em favo de mel para envolver e proteger produtos de formas irregulares com proteção em 360°.</p>
@@ -462,7 +484,7 @@
         </div>
       </div>
       <div class="mat-card">
-        <img src="../img/prod-manta-eletronicos.jpg" alt="Manta de proteção para embalagem de eletrônicos" class="mat-card-img">
+        <img src="../img/prod-manta-eletronicos.png" alt="Manta de proteção para embalagem de eletrônicos" class="mat-card-img">
         <div class="mat-card-body">
           <h3>Manta de Proteção</h3>
           <p>Absorção superior de impactos e preenchimento simultâneo para peças pesadas, frágeis ou de alto valor.</p>
@@ -496,23 +518,16 @@
     <div class="aplic-mosaic" id="aplicMosaic">
       <!-- E-commerce -->
       <div class="aplic-photo aplic-tall visible" data-seg="ecommerce">
-        <img src="../img/prod-moda-almofada.jpg" alt="Bolsa e calçados protegidos com almofada de ar">
+        <img src="../img/prod-moda-almofada.png" alt="Bolsa e calçados protegidos com almofada de ar">
         <div class="aplic-photo-overlay">
           <span class="aplic-tag">&#128717; E-commerce</span>
           <h3>Bolsas e Calçados</h3>
           <p>Almofada de ar mantém a forma e o acabamento de bolsas, carteiras e sapatos durante o transporte.</p>
         </div>
       </div>
+
       <div class="aplic-photo aplic-short visible" data-seg="ecommerce">
-        <img src="../img/prod-calcados-almofada.jpg" alt="Calçados embalados com almofada de ar">
-        <div class="aplic-photo-overlay">
-          <span class="aplic-tag">&#128717; E-commerce</span>
-          <h3>Calçados e Tênis</h3>
-          <p>Preenchimento interno da caixa sem adicionar peso ao envio.</p>
-        </div>
-      </div>
-      <div class="aplic-photo aplic-short visible" data-seg="ecommerce">
-        <img src="../img/prod-almofada-spray.jpg" alt="Produto protegido com almofada de ar dentro de caixa">
+        <img src="../img/painel.png" alt="Painel elétrico protegido com manta de almofada de ar">
         <div class="aplic-photo-overlay">
           <span class="aplic-tag">&#128717; E-commerce</span>
           <h3>Proteção para Qualquer Produto</h3>
@@ -609,6 +624,8 @@
             <th>✦ Almofada de Ar</th>
             <th>Plástico Bolha</th>
             <th>Papel Kraft</th>
+            <th>Extrusado de Milho</th>
+            <th>Flocos de Isopor</th>
           </tr>
         </thead>
         <tbody>
@@ -617,42 +634,56 @@
             <td class="hl yes">✅ Mínimo (97% menor)</td>
             <td class="no">❌ Alto volume</td>
             <td class="mid">⚠️ Médio</td>
+            <td class="no">❌ Alto volume</td>
+            <td class="no">❌ Alto volume</td>
           </tr>
           <tr>
             <td>Peso adicionado ao pedido</td>
             <td class="hl yes">✅ Ultraleve</td>
             <td class="mid">⚠️ Leve</td>
             <td class="mid">⚠️ Médio</td>
+            <td class="yes">✅ Ultraleve</td>
+            <td class="mid">⚠️ Leve</td>
           </tr>
           <tr>
             <td>Proteção contra impacto</td>
             <td class="hl yes">✅ Alta</td>
             <td class="mid">⚠️ Média</td>
             <td class="mid">⚠️ Baixa/Média</td>
+            <td class="yes">✅ Alta</td>
+            <td class="yes">✅ Alta</td>
           </tr>
           <tr>
             <td>Custo operacional</td>
             <td class="hl yes">✅ Baixo por pedido</td>
             <td class="mid">⚠️ Médio</td>
             <td class="mid">⚠️ Médio</td>
+            <td class="no">❌ Alto</td>
+            <td class="no">❌ Alto</td>
           </tr>
           <tr>
             <td>Produtividade na operação</td>
             <td class="hl yes">✅ Alta (12m/min)</td>
             <td class="mid">⚠️ Baixa</td>
             <td class="mid">⚠️ Baixa</td>
+            <td class="mid">⚠️ Média</td>
+            <td class="no">❌ Baixa</td>
           </tr>
           <tr>
             <td>Sustentabilidade</td>
             <td class="hl yes">✅ Reciclável</td>
             <td class="no">❌ Difícil reciclagem</td>
             <td class="yes">✅ Reciclável</td>
+            <td class="yes">✅ Biodegradável</td>
+            <td class="no">❌ Não reciclável</td>
           </tr>
           <tr>
             <td>Facilidade de operação</td>
             <td class="hl yes">✅ Simples</td>
             <td class="mid">⚠️ Média</td>
             <td class="mid">⚠️ Trabalhoso</td>
+            <td class="mid">⚠️ Média</td>
+            <td class="no">❌ Trabalhoso</td>
           </tr>
         </tbody>
       </table>
@@ -702,7 +733,7 @@
     <h2>Quer entender qual proteção<br>faz sentido para a sua operação?</h2>
     <p>Análise técnica gratuita, sem compromisso. Diagnóstico personalizado para o seu tipo de produto e volume de pedidos.</p>
     <div class="cta-btns">
-      <a href="../cotacao/index.html" class="btn-cta-primary">Solicitar Análise Gratuita</a>
+      <button class="btn-cta-primary" onclick="openModal('cta-final')">Solicitar Análise Gratuita</button>
       <a href="https://wa.me/5511963073163" target="_blank" rel="noopener" class="btn-cta-wa">&#128172; Conversar no WhatsApp</a>
       <a href="tel:+5511963073163" class="btn-cta-ghost">&#128222; (11) 96307-3163</a>
     </div>
@@ -716,7 +747,7 @@
       <div class="footer-brand">
         <span class="fn">Almofada <em>de Ar</em></span>
         <p>Consultoria independente especializada em soluções de proteção para embalagem e logística. São Paulo, Brasil.</p>
-        <p class="tel">&#128222; (11) 96307-3163 · contato@almofadadear.com.br</p>
+        <p class="tel">&#128222; (11) 96307-3163</p>
       </div>
       <div>
         <h4>Soluções</h4>
@@ -747,11 +778,91 @@
 </footer>
 
 <!-- WA FLOAT -->
-<a href="https://wa.me/5511963073163" class="wa-float" target="_blank" rel="noopener" aria-label="Conversar no WhatsApp">
+<a href="https://wa.me/5511963073163?text=Olá%2C%20gostaria%20de%20falar%20com%20um%20especialista%20em%20embalagens." class="wa-float" target="_blank" rel="noopener">
   <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+  <span>Falar com especialista</span>
 </a>
 
+<!-- MODAL ANÁLISE -->
+<div class="modal-bg" id="modalBg" onclick="if(event.target===this)closeModal()">
+  <div class="modal-box">
+    <button class="modal-close" onclick="closeModal()">&#215;</button>
+    <div id="modalForm">
+      <span class="modal-tag">Análise gratuita</span>
+      <h2>Solicitar diagnóstico<br>da sua operação</h2>
+      <p>Sem compromisso. Respondemos em até 1 dia útil.</p>
+      <div class="modal-row">
+        <div class="mfield"><label>Nome *</label><input type="text" id="mNome" placeholder="Seu nome"></div>
+        <div class="mfield"><label>Empresa</label><input type="text" id="mEmpresa" placeholder="Nome da empresa"></div>
+      </div>
+      <div class="mfield"><label>WhatsApp / Telefone *</label><input type="tel" id="mPhone" placeholder="(11) 99999-9999"></div>
+      <div class="mfield">
+        <label>Segmento</label>
+        <select id="mSegmento">
+          <option value="">Selecione...</option>
+          <option>E-commerce</option>
+          <option>Indústria</option>
+          <option>Autopeças</option>
+          <option>Eletrônicos</option>
+          <option>Outro</option>
+        </select>
+      </div>
+      <div class="mfield"><label>Mensagem (opcional)</label><textarea id="mMsg" placeholder="Descreva brevemente o que você embala e o volume de pedidos..."></textarea></div>
+      <button class="btn-modal-send" onclick="submitModal()">Enviar solicitação &#8594;</button>
+    </div>
+    <div class="modal-success" id="modalSuccess">
+      <div class="check">&#10003;</div>
+      <h3>Solicitação recebida!</h3>
+      <p>Entraremos em contato em breve pelo WhatsApp informado.<br>Obrigado pelo interesse.</p>
+    </div>
+  </div>
+</div>
+
+
 <script>
+
+// ── Modal ──
+function openModal(src){
+  document.getElementById('modalBg').classList.add('open');
+  document.getElementById('modalForm').style.display='block';
+  document.getElementById('modalSuccess').style.display='none';
+  document.body.style.overflow='hidden';
+  window._modalSrc = src||'modal';
+}
+function closeModal(){
+  document.getElementById('modalBg').classList.remove('open');
+  document.body.style.overflow='';
+}
+function submitModal(){
+  var nome=document.getElementById('mNome').value.trim();
+  var phone=document.getElementById('mPhone').value.trim();
+  if(!nome||!phone){alert('Preencha Nome e WhatsApp.');return;}
+  var leads=JSON.parse(localStorage.getItem('almofada_leads')||'[]');
+  leads.unshift({
+    ts: new Date().toISOString(),
+    nome: nome,
+    phone: phone,
+    empresa: document.getElementById('mEmpresa').value.trim(),
+    segmento: document.getElementById('mSegmento').value,
+    msg: document.getElementById('mMsg').value.trim(),
+    source: window._modalSrc||'modal'
+  });
+  localStorage.setItem('almofada_leads', JSON.stringify(leads));
+  document.getElementById('modalForm').style.display='none';
+  document.getElementById('modalSuccess').style.display='block';
+  setTimeout(closeModal, 3000);
+}
+document.addEventListener('keydown',function(e){if(e.key==='Escape')closeModal();});
+
+// ── Lead tracking ──
+function trackLead(source) {
+  var leads = JSON.parse(localStorage.getItem('almofada_leads') || '[]');
+  leads.push({ts: new Date().toISOString(), source: source, page: location.href, ua: navigator.userAgent.substring(0,80)});
+  localStorage.setItem('almofada_leads', JSON.stringify(leads));
+}
+// Track WA float click
+document.querySelector('.wa-float').addEventListener('click', function(){ trackLead('wa-float'); });
+
 // ── Segment tabs ──
 (function(){
   var tabs = document.getElementById('segTabs');
@@ -762,10 +873,8 @@
     var btn = e.target.closest('.seg-tab');
     if(!btn) return;
     var seg = btn.dataset.seg;
-    // Update active tab
     tabs.querySelectorAll('.seg-tab').forEach(function(t){ t.classList.remove('active'); });
     btn.classList.add('active');
-    // Show/hide cards
     mosaic.querySelectorAll('.aplic-photo').forEach(function(card){
       if(seg === 'todos' || card.dataset.seg === seg){
         card.classList.add('visible');
@@ -773,7 +882,6 @@
         card.classList.remove('visible');
       }
     });
-    // Re-apply tall to first visible card
     mosaic.querySelectorAll('.aplic-photo').forEach(function(c){ c.classList.remove('aplic-tall'); });
     var first = mosaic.querySelector('.aplic-photo.visible');
     if(first) first.classList.add('aplic-tall');

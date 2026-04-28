@@ -263,6 +263,30 @@
       .comp-table{font-size:.78rem;}
       .comp-table th,.comp-table td{padding:10px 12px;}
     }
+
+    /* ── MODAL ── */
+    .modal-bg{position:fixed;inset:0;background:rgba(0,0,0,.7);z-index:9999;display:none;align-items:center;justify-content:center;padding:20px;backdrop-filter:blur(4px);}
+    .modal-bg.open{display:flex;}
+    .modal-box{background:#0f1e3d;border:1px solid rgba(255,255,255,.12);border-radius:18px;padding:40px 36px;width:100%;max-width:480px;position:relative;box-shadow:0 32px 80px rgba(0,0,0,.6);}
+    .modal-close{position:absolute;top:16px;right:18px;background:none;border:none;color:rgba(255,255,255,.4);font-size:1.4rem;cursor:pointer;line-height:1;transition:color .2s;}
+    .modal-close:hover{color:#fff;}
+    .modal-tag{display:inline-block;background:rgba(26,86,219,.25);border:1px solid rgba(26,86,219,.35);color:#7eb3ff;font-size:.7rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:4px 14px;border-radius:100px;margin-bottom:16px;}
+    .modal-box h2{font-size:1.35rem;font-weight:900;color:#fff;margin-bottom:6px;line-height:1.2;}
+    .modal-box p{font-size:.85rem;color:rgba(255,255,255,.5);margin-bottom:28px;}
+    .mfield{margin-bottom:16px;}
+    .mfield label{display:block;font-size:.75rem;font-weight:700;color:rgba(255,255,255,.5);letter-spacing:.06em;text-transform:uppercase;margin-bottom:8px;}
+    .mfield input,.mfield select,.mfield textarea{width:100%;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);border-radius:9px;padding:12px 14px;color:#fff;font-size:.93rem;outline:none;transition:border .2s;font-family:inherit;}
+    .mfield input::placeholder,.mfield textarea::placeholder{color:rgba(255,255,255,.25);}
+    .mfield input:focus,.mfield select:focus,.mfield textarea:focus{border-color:#1a56db;background:rgba(26,86,219,.08);}
+    .mfield select option{background:#0f1e3d;color:#fff;}
+    .mfield textarea{resize:vertical;min-height:80px;}
+    .modal-row{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
+    .btn-modal-send{width:100%;background:#1a56db;color:#fff;border:none;border-radius:10px;padding:14px;font-weight:800;font-size:.97rem;cursor:pointer;margin-top:8px;transition:all .2s;box-shadow:0 6px 20px rgba(26,86,219,.4);}
+    .btn-modal-send:hover{background:#2563eb;transform:translateY(-2px);}
+    .modal-success{display:none;text-align:center;padding:20px 0;}
+    .modal-success .check{font-size:3rem;margin-bottom:16px;}
+    .modal-success h3{color:#fff;font-size:1.2rem;font-weight:900;margin-bottom:10px;}
+    .modal-success p{color:rgba(255,255,255,.55);font-size:.9rem;}
   </style>
 </head>
 <body>
@@ -282,7 +306,7 @@
     <span class="nav-site-label">Conteúdo educativo gratuito</span>
     <div class="nav-right">
       <a href="tel:+5511963073163" class="nav-tel">&#128222; <em>(11) 96307-3163</em></a>
-      <a href="../cotacao/index.html" class="btn-nav">Solicitar Análise</a>
+      <button class="btn-nav" onclick="openModal()">Solicitar Análise</button>
     </div>
   </div>
 </nav>
@@ -709,7 +733,7 @@
     <h2>Quer entender qual proteção<br>faz sentido para a sua operação?</h2>
     <p>Análise técnica gratuita, sem compromisso. Diagnóstico personalizado para o seu tipo de produto e volume de pedidos.</p>
     <div class="cta-btns">
-      <a href="../cotacao/index.html" class="btn-cta-primary" onclick="if(typeof trackLead==='function')trackLead('cta-final')">Solicitar Análise Gratuita</a>
+      <button class="btn-cta-primary" onclick="openModal('cta-final')">Solicitar Análise Gratuita</button>
       <a href="https://wa.me/5511963073163" target="_blank" rel="noopener" class="btn-cta-wa">&#128172; Conversar no WhatsApp</a>
       <a href="tel:+5511963073163" class="btn-cta-ghost">&#128222; (11) 96307-3163</a>
     </div>
@@ -723,7 +747,7 @@
       <div class="footer-brand">
         <span class="fn">Almofada <em>de Ar</em></span>
         <p>Consultoria independente especializada em soluções de proteção para embalagem e logística. São Paulo, Brasil.</p>
-        <p class="tel">&#128222; (11) 96307-3163 · contato@almofadadear.com.br</p>
+        <p class="tel">&#128222; (11) 96307-3163</p>
       </div>
       <div>
         <h4>Soluções</h4>
@@ -759,7 +783,77 @@
   <span>Falar com especialista</span>
 </a>
 
+<!-- MODAL ANÁLISE -->
+<div class="modal-bg" id="modalBg" onclick="if(event.target===this)closeModal()">
+  <div class="modal-box">
+    <button class="modal-close" onclick="closeModal()">&#215;</button>
+    <div id="modalForm">
+      <span class="modal-tag">Análise gratuita</span>
+      <h2>Solicitar diagnóstico<br>da sua operação</h2>
+      <p>Sem compromisso. Respondemos em até 1 dia útil.</p>
+      <div class="modal-row">
+        <div class="mfield"><label>Nome *</label><input type="text" id="mNome" placeholder="Seu nome"></div>
+        <div class="mfield"><label>Empresa</label><input type="text" id="mEmpresa" placeholder="Nome da empresa"></div>
+      </div>
+      <div class="mfield"><label>WhatsApp / Telefone *</label><input type="tel" id="mPhone" placeholder="(11) 99999-9999"></div>
+      <div class="mfield">
+        <label>Segmento</label>
+        <select id="mSegmento">
+          <option value="">Selecione...</option>
+          <option>E-commerce</option>
+          <option>Indústria</option>
+          <option>Autopeças</option>
+          <option>Eletrônicos</option>
+          <option>Outro</option>
+        </select>
+      </div>
+      <div class="mfield"><label>Mensagem (opcional)</label><textarea id="mMsg" placeholder="Descreva brevemente o que você embala e o volume de pedidos..."></textarea></div>
+      <button class="btn-modal-send" onclick="submitModal()">Enviar solicitação &#8594;</button>
+    </div>
+    <div class="modal-success" id="modalSuccess">
+      <div class="check">&#10003;</div>
+      <h3>Solicitação recebida!</h3>
+      <p>Entraremos em contato em breve pelo WhatsApp informado.<br>Obrigado pelo interesse.</p>
+    </div>
+  </div>
+</div>
+
+
 <script>
+
+// ── Modal ──
+function openModal(src){
+  document.getElementById('modalBg').classList.add('open');
+  document.getElementById('modalForm').style.display='block';
+  document.getElementById('modalSuccess').style.display='none';
+  document.body.style.overflow='hidden';
+  window._modalSrc = src||'modal';
+}
+function closeModal(){
+  document.getElementById('modalBg').classList.remove('open');
+  document.body.style.overflow='';
+}
+function submitModal(){
+  var nome=document.getElementById('mNome').value.trim();
+  var phone=document.getElementById('mPhone').value.trim();
+  if(!nome||!phone){alert('Preencha Nome e WhatsApp.');return;}
+  var leads=JSON.parse(localStorage.getItem('almofada_leads')||'[]');
+  leads.unshift({
+    ts: new Date().toISOString(),
+    nome: nome,
+    phone: phone,
+    empresa: document.getElementById('mEmpresa').value.trim(),
+    segmento: document.getElementById('mSegmento').value,
+    msg: document.getElementById('mMsg').value.trim(),
+    source: window._modalSrc||'modal'
+  });
+  localStorage.setItem('almofada_leads', JSON.stringify(leads));
+  document.getElementById('modalForm').style.display='none';
+  document.getElementById('modalSuccess').style.display='block';
+  setTimeout(closeModal, 3000);
+}
+document.addEventListener('keydown',function(e){if(e.key==='Escape')closeModal();});
+
 // ── Lead tracking ──
 function trackLead(source) {
   var leads = JSON.parse(localStorage.getItem('almofada_leads') || '[]');
