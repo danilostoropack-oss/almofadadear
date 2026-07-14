@@ -59,6 +59,7 @@
     .btn-nav{background:var(--blue);color:#fff;padding:10px 22px;border-radius:8px;font-weight:700;font-size:.85rem;transition:background .2s;white-space:nowrap;}
     .btn-nav:hover{background:var(--blue2);}
     @media(max-width:580px){.nav-tel{display:none;}}
+    @media(max-width:920px){.nav-email{display:none;}}
 
     /* ── HERO ── */
     .hero{background:linear-gradient(135deg,var(--navy) 0%,var(--navy2) 55%,var(--navy3) 100%);padding:88px 0 80px;position:relative;overflow:hidden;}
@@ -306,6 +307,8 @@
     <span class="nav-site-label">Conteúdo educativo gratuito</span>
     <div class="nav-right">
       <a href="tel:+5511963073163" class="nav-tel">&#128222; <em>(11) 96307-3163</em></a>
+      <a href="mailto:contato@almofadadear.com.br?subject=Análise%20de%20embalagem" class="nav-tel nav-email">&#9993; <em>contato@almofadadear.com.br</em></a>
+      <a href="/contato" class="nav-tel nav-email">Contato</a>
       <button class="btn-nav" onclick="openModal()">Solicitar Análise</button>
     </div>
   </div>
@@ -812,7 +815,7 @@
     <div class="modal-success" id="modalSuccess">
       <div class="check">&#10003;</div>
       <h3>Solicitação recebida!</h3>
-      <p>Sua mensagem foi aberta no WhatsApp — é só enviar.<br>Se preferir, escreva para contato@almofadadear.com.br.</p>
+      <p>Sua mensagem foi aberta no WhatsApp — é só enviar.<br>Se preferir, escreva para <a href="mailto:contato@almofadadear.com.br" style="color:var(--blue-light);font-weight:700;">contato@almofadadear.com.br</a>.</p>
     </div>
   </div>
 </div>
@@ -832,6 +835,10 @@ function closeModal(){
   document.getElementById('modalBg').classList.remove('open');
   document.body.style.overflow='';
 }
+// Chave gratuita do Web3Forms (web3forms.com) vinculada a contato@almofadadear.com.br.
+// Troque "SUA_CHAVE_WEB3FORMS_AQUI" pela chave recebida por email ao cadastrar o endereço no site.
+var WEB3FORMS_ACCESS_KEY = '3075a4a3-c792-4660-92a0-2b755495375e';
+
 function submitModal(){
   var nome=document.getElementById('mNome').value.trim();
   var phone=document.getElementById('mPhone').value.trim();
@@ -845,6 +852,27 @@ function submitModal(){
     +(empresa?'\nEmpresa: '+empresa:'')
     +(segmento?'\nSegmento: '+segmento:'')
     +(msg?'\nDetalhes: '+msg:'');
+
+  // Envia por email via Web3Forms (não bloqueia o redirecionamento ao WhatsApp)
+  if(WEB3FORMS_ACCESS_KEY && WEB3FORMS_ACCESS_KEY!=='SUA_CHAVE_WEB3FORMS_AQUI'){
+    fetch('https://api.web3forms.com/submit',{
+      method:'POST',
+      headers:{'Content-Type':'application/json','Accept':'application/json'},
+      body:JSON.stringify({
+        access_key:WEB3FORMS_ACCESS_KEY,
+        subject:'Nova solicitação de diagnóstico — '+nome,
+        from_name:'Site Almofada de Ar',
+        to:'contato@almofadadear.com.br',
+        nome:nome,
+        empresa:empresa||'-',
+        whatsapp:phone,
+        segmento:segmento||'-',
+        mensagem:msg||'-',
+        origem:window._modalSrc||'modal'
+      })
+    }).catch(function(){/* falha silenciosa: WhatsApp já cobre o envio */});
+  }
+
   window.open('https://wa.me/5511963073163?text='+encodeURIComponent(texto),'_blank');
   document.getElementById('modalForm').style.display='none';
   document.getElementById('modalSuccess').style.display='block';
