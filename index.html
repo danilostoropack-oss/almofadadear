@@ -548,8 +548,8 @@
     <p>Análise técnica gratuita, sem compromisso. Diagnóstico personalizado para o seu tipo de produto e volume de pedidos.</p>
     <div class="cta-btns">
       <button class="btn-cta-primary" onclick="openModal('cta-final')">Solicitar Análise Gratuita</button>
-      <a href="https://wa.me/5511963073163?text=Ol%C3%A1%2C%20quero%20uma%20an%C3%A1lise%20da%20minha%20opera%C3%A7%C3%A3o%20de%20embalagem." target="_blank" rel="noopener" class="btn-cta-wa" data-track="cta-final-wa">&#128172; Conversar no WhatsApp</a>
-      <a href="mailto:contato@almofadadear.com.br?subject=An%C3%A1lise%20de%20embalagem" class="btn-cta-ghost">&#9993; contato@almofadadear.com.br</a>
+      <a href="mailto:contato@almofadadear.com.br?subject=An%C3%A1lise%20de%20embalagem" class="btn-cta-wa">&#9993; Enviar email</a>
+      <a href="https://wa.me/5511963073163?text=Ol%C3%A1%2C%20quero%20uma%20an%C3%A1lise%20da%20minha%20opera%C3%A7%C3%A3o%20de%20embalagem." target="_blank" rel="noopener" class="btn-cta-ghost" data-track="cta-final-wa">&#128172; Conversar no WhatsApp</a>
     </div>
   </div>
 </section>
@@ -626,12 +626,15 @@
     <div id="modalForm">
       <span class="modal-tag">Análise gratuita</span>
       <h2 id="modalTitulo">Solicitar diagnóstico<br>da sua operação</h2>
-      <p>Sem compromisso. Respondo em até 1 dia útil. Se preferir, escreva direto para <a href="mailto:contato@almofadadear.com.br" style="color:var(--blue-light);font-weight:700;">contato@almofadadear.com.br</a>.</p>
+      <p>Sem compromisso. Sua solicitação chega por email em <strong style="color:var(--text);">contato@almofadadear.com.br</strong> e respondo em até 1 dia útil.</p>
       <div class="modal-row">
         <div class="mfield"><label for="mNome">Nome *</label><input type="text" id="mNome" placeholder="Seu nome" autocomplete="name"></div>
         <div class="mfield"><label for="mEmpresa">Empresa</label><input type="text" id="mEmpresa" placeholder="Nome da empresa" autocomplete="organization"></div>
       </div>
-      <div class="mfield"><label for="mPhone">WhatsApp / Telefone *</label><input type="tel" id="mPhone" placeholder="(11) 99999-9999" autocomplete="tel"></div>
+      <div class="modal-row">
+        <div class="mfield"><label for="mEmail">Email *</label><input type="email" id="mEmail" placeholder="voce@empresa.com" autocomplete="email" required></div>
+        <div class="mfield"><label for="mPhone">WhatsApp / Telefone</label><input type="tel" id="mPhone" placeholder="(11) 99999-9999" autocomplete="tel"></div>
+      </div>
       <div class="mfield">
         <label for="mSegmento">Segmento</label>
         <select id="mSegmento">
@@ -654,7 +657,7 @@
     <div class="modal-success" id="modalSuccess">
       <div class="check">&#10003;</div>
       <h3>Solicitação recebida!</h3>
-      <p>Sua mensagem foi aberta no WhatsApp — é só enviar.<br>Se preferir, escreva para <a href="mailto:contato@almofadadear.com.br" style="color:var(--blue-light);font-weight:700;">contato@almofadadear.com.br</a>.</p>
+      <p>Sua solicitação foi enviada por email para <strong style="color:var(--text);">contato@almofadadear.com.br</strong>.<br>Respondo em até 1 dia útil. Urgente? <a href="https://wa.me/5511963073163" target="_blank" rel="noopener" style="color:var(--blue-light);font-weight:700;">Chame no WhatsApp</a>.</p>
     </div>
   </div>
 </div>

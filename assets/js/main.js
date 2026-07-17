@@ -39,44 +39,59 @@
   var WEB3FORMS_ACCESS_KEY = '3075a4a3-c792-4660-92a0-2b755495375e';
 
   window.submitModal = function () {
-    var nome = (document.getElementById('mNome') || {}).value || '';
-    var phone = (document.getElementById('mPhone') || {}).value || '';
-    nome = nome.trim(); phone = phone.trim();
-    if (!nome || !phone) { alert('Preencha Nome e WhatsApp.'); return; }
+    var nome = ((document.getElementById('mNome') || {}).value || '').trim();
+    var email = ((document.getElementById('mEmail') || {}).value || '').trim();
+    if (!nome || !email || email.indexOf('@') < 1) { alert('Preencha Nome e Email para receber a análise.'); return; }
+    var phone = ((document.getElementById('mPhone') || {}).value || '').trim();
     var empresa = ((document.getElementById('mEmpresa') || {}).value || '').trim();
     var segmento = (document.getElementById('mSegmento') || {}).value || '';
     var msg = ((document.getElementById('mMsg') || {}).value || '').trim();
-    var texto = 'Olá! Quero uma análise gratuita da minha operação de embalagem.\n' +
-      'Nome: ' + nome + '\nContato: ' + phone +
-      (empresa ? '\nEmpresa: ' + empresa : '') +
-      (segmento ? '\nSegmento: ' + segmento : '') +
-      (msg ? '\nDetalhes: ' + msg : '');
+    var btn = document.querySelector('.btn-modal-send');
+    if (btn) { btn.disabled = true; btn.textContent = 'Enviando...'; }
 
-    if (WEB3FORMS_ACCESS_KEY) {
-      fetch('https://api.web3forms.com/submit', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
-        body: JSON.stringify({
-          access_key: WEB3FORMS_ACCESS_KEY,
-          subject: 'Nova solicitação de diagnóstico — ' + nome,
-          from_name: 'Site Almofada de Ar',
-          to: 'contato@almofadadear.com.br',
-          nome: nome,
-          empresa: empresa || '-',
-          whatsapp: phone,
-          segmento: segmento || '-',
-          mensagem: msg || '-',
-          origem: (window._modalSrc || 'modal') + ' | ' + location.pathname
-        })
-      }).catch(function () { /* WhatsApp cobre o envio */ });
+    function done() {
+      var form = document.getElementById('modalForm');
+      var ok = document.getElementById('modalSuccess');
+      if (form) form.style.display = 'none';
+      if (ok) ok.style.display = 'block';
+      setTimeout(window.closeModal, 4000);
+      if (btn) { btn.disabled = false; btn.textContent = 'Enviar solicitação \u2192'; }
     }
 
-    window.open('https://wa.me/5511963073163?text=' + encodeURIComponent(texto), '_blank');
-    var form = document.getElementById('modalForm');
-    var ok = document.getElementById('modalSuccess');
-    if (form) form.style.display = 'none';
-    if (ok) ok.style.display = 'block';
-    setTimeout(window.closeModal, 3000);
+    function fallbackMailto() {
+      var corpo = 'Nome: ' + nome + '\nEmail: ' + email +
+        (phone ? '\nTelefone/WhatsApp: ' + phone : '') +
+        (empresa ? '\nEmpresa: ' + empresa : '') +
+        (segmento ? '\nSegmento: ' + segmento : '') +
+        (msg ? '\nDetalhes: ' + msg : '');
+      location.href = 'mailto:contato@almofadadear.com.br?subject=' +
+        encodeURIComponent('Solicita\u00e7\u00e3o de an\u00e1lise \u2014 ' + nome) +
+        '&body=' + encodeURIComponent(corpo);
+      done();
+    }
+
+    if (!WEB3FORMS_ACCESS_KEY) { fallbackMailto(); return; }
+    fetch('https://api.web3forms.com/submit', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+      body: JSON.stringify({
+        access_key: WEB3FORMS_ACCESS_KEY,
+        subject: 'Nova solicita\u00e7\u00e3o de diagn\u00f3stico \u2014 ' + nome,
+        from_name: 'Site Almofada de Ar',
+        to: 'contato@almofadadear.com.br',
+        replyto: email,
+        nome: nome,
+        email: email,
+        empresa: empresa || '-',
+        whatsapp: phone || '-',
+        segmento: segmento || '-',
+        mensagem: msg || '-',
+        origem: (window._modalSrc || 'modal') + ' | ' + location.pathname
+      })
+    }).then(function (r) { return r.json(); }).then(function (d) {
+      if (d && d.success === false) { fallbackMailto(); return; }
+      done();
+    }).catch(fallbackMailto);
   };
 
   /* ── Lead tracking (localStorage) ── */
