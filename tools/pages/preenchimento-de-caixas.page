@@ -1,0 +1,70 @@
+{
+  "path": "/preenchimento-de-caixas/",
+  "title": "Preenchimento de Caixas (Void Fill): como eliminar espaços vazios",
+  "description": "Void fill: como preencher espaços vazios em caixas para eliminar avarias. Compare almofada de ar, papel kraft, flocos e plástico bolha por custo e eficiência.",
+  "h1": "Preenchimento de Caixas: o guia do <em>void fill</em> eficiente",
+  "lead": "Espaço vazio dentro da caixa é a causa número 1 de avaria no transporte: o produto se move, acelera e bate. O <strong>preenchimento de caixas</strong> — void fill — existe para eliminar esse movimento com o mínimo de material, tempo e custo por pedido.",
+  "eyebrow": "Aplicação",
+  "breadcrumb": [["Início","/"],["Embalagem de Proteção","/embalagem-de-protecao/"],["Preenchimento de Caixas",null]],
+  "og_image": "/img/prod-almofada-spray.webp",
+  "faq_topic": "preenchimento de caixas",
+  "wa_text": "Olá! Quero melhorar o preenchimento de caixas da minha operação.",
+  "cta_title": "Quanto custa o vazio das suas caixas?",
+  "cta_text": "A análise gratuita mede o void médio da sua operação e devolve o custo por pedido de cada opção de preenchimento.",
+  "faq": [
+    {"q":"O que é void fill?","a":"Void fill é o preenchimento dos espaços vazios entre o produto e as paredes da caixa. Sua função é impedir o movimento interno do produto durante o transporte — a principal causa de avarias — e ajudar a caixa a resistir à compressão do empilhamento."},
+    {"q":"Qual o melhor material para preenchimento de caixas?","a":"Para alto volume e custo mínimo por pedido, almofada de ar. Para operações plastic-free, papel kraft estruturado por máquina. Flocos de isopor e plástico bolha perdem nas duas contas: volume de estoque, velocidade e sustentabilidade."},
+    {"q":"Quanto material de preenchimento devo usar?","a":"O suficiente para que o produto não se mova ao chacoalhar a caixa fechada — o 'shake test'. Menos que isso é avaria; mais que isso é desperdício. O dimensionamento por família de produto padroniza a medida certa."},
+    {"q":"Caixa menor não resolve em vez de preencher?","a":"Em parte. Adequar o tamanho da caixa ao produto é o primeiro passo (reduz frete cubado e material). Mas quase sempre resta vazio — produtos não são cúbicos — e esse vazio residual ainda precisa de void fill."},
+    {"q":"Papel amassado à mão serve como void fill?","a":"Serve, mas é o método mais caro por caixa: consome papel em excesso, leva minutos e colapsa sob vibração deixando o produto solto no meio do caminho. Sistemas sob demanda (ar ou papel por máquina) resolvem os três problemas."}
+  ],
+  "related": [
+    {"href":"/almofada-de-ar/","title":"Almofada de Ar","desc":"O void fill de maior produtividade e menor custo por pedido."},
+    {"href":"/papel-kraft/","title":"Papel Kraft","desc":"Void fill e calços 100% papel para metas plastic-free."},
+    {"href":"/comparativos/almofada-de-ar-vs-plastico-bolha/","title":"Almofada vs Plástico Bolha","desc":"O comparativo clássico do preenchimento."},
+    {"href":"/guias/como-reduzir-avarias-no-transporte/","title":"Reduzir Avarias","desc":"O método completo — void fill é o passo 3."},
+    {"href":"/embalagem-para-ecommerce/","title":"E-commerce","desc":"Void fill em escala: fulfillment e last mile."},
+    {"href":"/maquina-de-almofada-de-ar/","title":"Máquina de Almofada de Ar","desc":"Produção de preenchimento sob demanda, até 12 m/min."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>Por que o espaço vazio destrói produtos</h2>
+      <p>Uma caixa com 30% de vazio transforma o produto em um projétil interno. A cada frenagem, esteira ou arremesso de manuseio, o item acelera dentro da caixa e para de repente contra a parede oposta. A física é cruel: a energia do impacto cresce com o quadrado da velocidade — e quanto mais espaço para acelerar, maior a velocidade no momento do choque.</p>
+      <p>Por isso o void fill não é "enfeite de caixa": é o componente que converte a caixa de papelão em um sistema de proteção. E é também onde mais se desperdiça dinheiro — em material demais, material errado ou tempo de embalagem.</p>
+
+      <h2>As opções de preenchimento comparadas</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Comparativo de materiais de void fill por critério operacional.</caption>
+          <thead>
+            <tr><th>Critério</th><th>Almofada de Ar</th><th>Papel (máquina)</th><th>Papel manual</th><th>Flocos de Isopor</th><th>Plástico Bolha</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Custo por pedido</td><td class="hl yes">✅ Baixo</td><td class="mid">⚠️ Médio</td><td class="no">❌ Alto (excesso)</td><td class="no">❌ Alto</td><td class="mid">⚠️ Médio</td></tr>
+            <tr><td>Velocidade de embalagem</td><td class="hl yes">✅ Segundos</td><td class="yes">✅ Segundos</td><td class="no">❌ Minutos</td><td class="mid">⚠️ Rápido, mas suja</td><td class="mid">⚠️ Corte manual</td></tr>
+            <tr><td>Espaço de estoque</td><td class="hl yes">✅ Bobina plana</td><td class="yes">✅ Bobina</td><td class="mid">⚠️ Fardos</td><td class="no">❌ Sacos enormes</td><td class="no">❌ Rolos volumosos</td></tr>
+            <tr><td>Peso no frete</td><td class="hl yes">✅ Desprezível</td><td class="mid">⚠️ Relevante</td><td class="mid">⚠️ Relevante</td><td class="yes">✅ Leve</td><td class="yes">✅ Leve</td></tr>
+            <tr><td>Estabilidade na vibração</td><td class="hl yes">✅ Mantém volume</td><td class="yes">✅ Estruturado</td><td class="no">❌ Colapsa</td><td class="no">❌ Migra p/ o fundo</td><td class="mid">⚠️ Razoável</td></tr>
+            <tr><td>Experiência do cliente</td><td class="yes">✅ Limpa</td><td class="yes">✅ Limpa</td><td class="mid">⚠️ Amassada</td><td class="no">❌ Flocos espalham</td><td class="mid">⚠️ Neutra</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>O método do preenchimento correto</h2>
+      <h3>Passo 1 — Reduza o vazio na origem</h3>
+      <p>Antes de preencher, questione a caixa: um sortimento de 3 a 5 tamanhos bem escolhidos reduz o void médio drasticamente e economiza frete cubado.</p>
+      <h3>Passo 2 — Escolha o material pelo produto</h3>
+      <p>Produto leve e resistente: <a href="/almofada-de-ar/">almofada de ar</a> pura. Produto pesado: calços de <a href="/papel-kraft/">papel crimpado</a> embaixo, almofadas em volta. Produto frágil: envolvimento (<a href="/papel-colmeia/">colmeia</a>/<a href="/manta-de-protecao/">manta</a>) + void fill por cima.</p>
+      <h3>Passo 3 — Padronize o protocolo</h3>
+      <p>Defina por família de produto: quantas almofadas ou metros de papel, em que posições. Sem protocolo, cada operador embala de um jeito — e o índice de avarias vira loteria.</p>
+      <h3>Passo 4 — Valide com o shake test</h3>
+      <p>Feche a caixa e chacoalhe: nada pode se mover nem fazer barulho. Esse teste simples, aplicado na implantação e em auditorias mensais, sustenta o índice de avarias baixo.</p>
+
+      <h2>Void fill em escala: quando automatizar</h2>
+      <p>A partir de algumas dezenas de pedidos por dia, o preenchimento manual vira gargalo. Um <a href="/maquina-de-almofada-de-ar/">insuflador</a> ou uma <a href="/maquina-de-papel/">máquina de papel</a> na estação de embalagem produz o material no ritmo da fila, padroniza o consumo e libera o operador para embalar — não para fabricar proteção. As contas de retorno estão no guia de <a href="/guias/custo-e-roi-da-embalagem/">custo e ROI da embalagem</a>.</p>
+    </div>
+  </div>
+</article>

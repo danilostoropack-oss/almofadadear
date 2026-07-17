@@ -1,0 +1,99 @@
+{
+  "path": "/comparativos/",
+  "title": "Comparativos de Embalagem de Proteção: materiais lado a lado",
+  "description": "Comparativos técnicos de embalagem de proteção: almofada de ar vs plástico bolha, papel colmeia vs bolha, ar vs papel, vs isopor — custo, proteção e sustentabilidade.",
+  "h1": "Comparativos Técnicos: materiais de proteção <em>lado a lado</em>",
+  "lead": "Toda troca de material de embalagem deveria começar com uma tabela, não com um vendedor. Estes comparativos colocam os materiais frente a frente nos critérios que importam: <strong>proteção, custo por pedido, produtividade, espaço, peso e sustentabilidade</strong> — incluindo onde cada um perde.",
+  "eyebrow": "Comparativos",
+  "breadcrumb": [["Início","/"],["Comparativos",null]],
+  "og_image": "/unboxing.webp",
+  "page_type": "CollectionPage",
+  "faq_topic": "comparativos de embalagem",
+  "wa_text": "Olá! Quero comparar materiais de embalagem para minha operação.",
+  "cta_title": "Quer o comparativo com os números da SUA operação?",
+  "cta_text": "Tabelas genéricas orientam; a decisão sai da sua conta. A análise gratuita simula custo por pedido dos materiais candidatos no seu cenário.",
+  "faq": [
+    {"q":"Como comparar materiais de embalagem de forma justa?","a":"Compare o custo total por pedido, não o preço por metro: material consumido + tempo de embalagem + espaço de estoque + frete de insumo + custo das avarias. Um material 'barato' que dobra o tempo por caixa ou o índice de avarias é o mais caro da lista."},
+    {"q":"Esses comparativos favorecem algum produto?","a":"Cada tabela mostra onde cada material vence e onde perde — incluindo as limitações das soluções que fornecemos. A recomendação final depende do diagnóstico da operação, e há casos em que indicamos manter o material atual."},
+    {"q":"Posso combinar materiais diferentes?","a":"Sim, e as melhores operações fazem exatamente isso: um material para envolver (colmeia, manta), outro para preencher e travar (ar, papel). Os comparativos ajudam a escolher o melhor de cada função."}
+  ],
+  "related": [
+    {"href":"/solucoes/","title":"Todas as Soluções","desc":"O portfólio completo em detalhe."},
+    {"href":"/guias/como-escolher-embalagem-de-protecao/","title":"Como Escolher","desc":"O método de decisão em 6 critérios."},
+    {"href":"/substituto-do-plastico-bolha/","title":"Substituto do Plástico Bolha","desc":"As 5 alternativas organizadas por função."}
+  ]
+}
+---BODY---
+<section class="section bg-navy">
+  <div class="wrap">
+    <div class="sh">
+      <span class="sh-tag">vs Plástico Bolha</span>
+      <h2>O clássico frente aos <em>sucessores</em></h2>
+    </div>
+    <div class="card-grid card-grid--2">
+      <a class="mat-card" href="/comparativos/almofada-de-ar-vs-plastico-bolha/">
+        <div class="mat-card-body">
+          <h3>Almofada de Ar vs Plástico Bolha</h3>
+          <p>O comparativo mais buscado da categoria: mesma matéria-prima, modelos opostos. Estoque, custo por pedido, produtividade e reciclagem — número a número.</p>
+          <span class="card-link">Ver comparativo completo →</span>
+        </div>
+      </a>
+      <a class="mat-card" href="/comparativos/papel-colmeia-vs-plastico-bolha/">
+        <div class="mat-card-body">
+          <h3>Papel Colmeia vs Plástico Bolha</h3>
+          <p>A rota 100% papel contra o clássico: proteção de envolvimento, velocidade sem fita, unboxing e o abismo na reciclagem prática.</p>
+          <span class="card-link">Ver comparativo completo →</span>
+        </div>
+      </a>
+      <a class="mat-card" href="/comparativos/almofada-de-ar-vs-isopor/">
+        <div class="mat-card-body">
+          <h3>Almofada de Ar vs Isopor (flocos)</h3>
+          <p>Flocos soltos vs almofadas travadas: migração de material, sujeira na experiência do cliente e a conta de estoque que ninguém faz.</p>
+          <span class="card-link">Ver comparativo completo →</span>
+        </div>
+      </a>
+      <a class="mat-card" href="/plastico-bolha/">
+        <div class="mat-card-body">
+          <h3>Página do Plástico Bolha</h3>
+          <p>Antes de comparar, entenda o material: como funciona, onde ainda faz sentido e os custos invisíveis da escala.</p>
+          <span class="card-link">Ver página do material →</span>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-navy2">
+  <div class="wrap">
+    <div class="sh">
+      <span class="sh-tag">Ar vs Papel</span>
+      <h2>As duas famílias modernas <em>frente a frente</em></h2>
+    </div>
+    <div class="card-grid card-grid--2">
+      <a class="mat-card" href="/comparativos/almofada-de-ar-vs-papel-colmeia/">
+        <div class="mat-card-body">
+          <h3>Almofada de Ar vs Papel Colmeia</h3>
+          <p>Custo por pedido vs coleta comum; velocidade vs unboxing. O duelo das duas soluções mais adotadas — e quando usar as duas juntas.</p>
+          <span class="card-link">Ver comparativo completo →</span>
+        </div>
+      </a>
+      <a class="mat-card" href="/comparativos/almofada-de-ar-vs-papel-kraft/">
+        <div class="mat-card-body">
+          <h3>Almofada de Ar vs Papel Kraft</h3>
+          <p>Void fill inflado vs void fill de fibra: peso no frete, produtos pesados, metas plastic-free e o modelo híbrido que domina as grandes operações.</p>
+          <span class="card-link">Ver comparativo completo →</span>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>Como ler qualquer comparativo de embalagem</h2>
+      <p>Três regras para não ser enganado por tabela (inclusive as nossas): <strong>1)</strong> desconfie de material que vence em tudo — todo material tem função onde perde; <strong>2)</strong> exija o critério <em>custo total por pedido</em>, não preço por metro ou por quilo; <strong>3)</strong> valide com piloto na sua operação antes de escalar — a tabela orienta a shortlist, o piloto decide.</p>
+      <p>É assim que conduzimos o diagnóstico: os comparativos definem 2–3 candidatos, e a <a href="/contato/">análise gratuita</a> roda os números do seu cenário para a decisão final.</p>
+    </div>
+  </div>
+</section>

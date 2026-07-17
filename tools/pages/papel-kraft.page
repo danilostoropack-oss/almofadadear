@@ -1,0 +1,77 @@
+{
+  "path": "/papel-kraft/",
+  "title": "Papel Kraft para Embalagem: amortecimento e void fill em papel",
+  "description": "Papel kraft amortecedor (paper cushion / paper void fill): proteção 100% papel para preenchimento de caixas, calços e amortecimento. Manual ou com máquina automática.",
+  "h1": "Papel Kraft para Embalagem: <em>amortecimento e preenchimento</em> 100% papel",
+  "lead": "O <strong>papel kraft amortecedor</strong> — categoria conhecida como <strong>paper cushion</strong> ou <strong>paper void fill</strong> — transforma bobinas de papel em calços, almofadas e preenchimento de caixas. É a rota mais direta para operações que querem embalagem plastic-free sem abrir mão de proteção.",
+  "eyebrow": "Solução",
+  "breadcrumb": [["Início","/"],["Soluções","/solucoes/"],["Papel Kraft",null]],
+  "og_image": "/img/operacao-galpao.webp",
+  "faq_topic": "papel kraft para embalagem",
+  "wa_text": "Olá! Quero saber mais sobre papel kraft amortecedor para minha operação.",
+  "cta_title": "Sua operação precisa migrar para papel?",
+  "cta_text": "Fazemos o diagnóstico gratuito: gramatura, sistema manual ou automático e custo por pedido comparado ao material atual.",
+  "schema": [
+    {"@type":"Product","name":"Papel Kraft Amortecedor para Embalagem","description":"Sistema de proteção em papel kraft para preenchimento de caixas (paper void fill) e amortecimento (paper cushion), manual ou automatizado.","image":"https://www.almofadadear.com.br/img/operacao-galpao.webp","brand":{"@type":"Brand","name":"Almofada de Ar"},"category":"Embalagem de Proteção"}
+  ],
+  "faq": [
+    {"q":"Papel kraft protege tanto quanto plástico bolha?","a":"Para preenchimento de vazios e calços, sim — o papel amassado em múltiplas camadas cria estrutura resistente à compressão, muitas vezes superior ao plástico bolha para produtos pesados. Para amortecimento de superfícies delicadas, o papel colmeia ou a manta de ar podem complementar."},
+    {"q":"Qual a diferença entre papel kraft amortecedor e papel comum?","a":"O papel de sistemas de amortecimento tem gramatura, resistência e elasticidade controladas para formar volume estável quando dobrado ou crimpado. Papel comum colapsa sob vibração, deixando o produto solto no meio do transporte."},
+    {"q":"Preciso de máquina para usar papel kraft na embalagem?","a":"Não necessariamente. Operações pequenas usam dispensadores manuais. A partir de algumas dezenas de pedidos por dia, uma máquina de papel (paper system) compensa: produz calços e almofadas de papel sob demanda, com consumo até 50% menor que o amassado manual."},
+    {"q":"Papel kraft é sustentável mesmo?","a":"Sim: reciclável na coleta comum, biodegradável e disponível em versões 100% recicladas e certificadas FSC. É a escolha padrão de operações com meta plastic-free."},
+    {"q":"O que é melhor: papel kraft ou almofada de ar?","a":"Depende do produto e da prioridade. Almofada de ar vence em custo por pedido, peso e produtividade; papel vence em descarte, produtos pesados/pontiagudos e posicionamento plastic-free. Veja o comparativo completo em Almofada de Ar vs Papel Kraft."}
+  ],
+  "related": [
+    {"href":"/maquina-de-papel/","title":"Máquina de Papel","desc":"Sistemas automáticos de amortecimento em papel: como funcionam e quando compensam."},
+    {"href":"/papel-colmeia/","title":"Papel Colmeia","desc":"O papel expansível em favos para envolvimento de produtos."},
+    {"href":"/comparativos/almofada-de-ar-vs-papel-kraft/","title":"Almofada de Ar vs Papel Kraft","desc":"Custo, proteção, sustentabilidade e produtividade lado a lado."},
+    {"href":"/embalagem-sustentavel/","title":"Embalagem Sustentável","desc":"O guia de decisão entre papel, plástico reciclável e híbridos."},
+    {"href":"/preenchimento-de-caixas/","title":"Preenchimento de Caixas","desc":"Void fill: técnicas e materiais para eliminar espaços vazios."},
+    {"href":"/embalagem-industrial/","title":"Embalagem Industrial","desc":"Proteção para peças pesadas, B2B e exportação."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>O que é o papel kraft amortecedor</h2>
+      <p>Quando falamos de papel para proteção de transporte, não estamos falando de folhas soltas de papel pardo. O <strong>papel kraft amortecedor</strong> é um insumo técnico: papel de alta resistência, em bobinas ou sanfonas, projetado para ganhar <strong>volume estrutural</strong> quando dobrado, amassado ou crimpado — manualmente ou por uma <a href="/maquina-de-papel/">máquina de papel</a>.</p>
+      <p>Esse volume estruturado cumpre as mesmas funções da <a href="/almofada-de-ar/">almofada de ar</a>: preencher vazios (<strong>paper void fill</strong>), calçar e travar o produto (block &amp; brace) e amortecer impactos (<strong>paper cushion</strong>). A diferença está no material — 100% fibra de celulose, reciclável na coleta comum.</p>
+
+      <h2>As três funções do papel na embalagem</h2>
+      <h3>1. Preenchimento de vazios (void fill)</h3>
+      <p>Papel de gramatura leve, em grande volume, para impedir que o produto se mova dentro da caixa. É a aplicação de maior consumo em <a href="/embalagem-para-ecommerce/">e-commerce</a>.</p>
+      <h3>2. Amortecimento (cushioning)</h3>
+      <p>Papel de gramatura maior, crimpado em almofadas densas que absorvem impactos de queda e vibração. Indicado para produtos pesados, metálicos e peças industriais — cenários em que o papel frequentemente supera materiais inflados.</p>
+      <h3>3. Envolvimento (wrapping)</h3>
+      <p>Para envolvimento individual com apresentação, a variante ideal é o <a href="/papel-colmeia/">papel colmeia</a>, que expande em favos e dispensa fita adesiva.</p>
+
+      <h2>Manual ou automatizado?</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Regra prática — o diagnóstico considera também sazonalidade e layout da expedição.</caption>
+          <thead>
+            <tr><th>Volume diário</th><th>Sistema indicado</th><th>Observação</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Até ~30 pedidos</td><td>Dispensador manual</td><td>Baixo investimento, treino simples</td></tr>
+            <tr><td>30–300 pedidos</td><td class="hl">Máquina compacta de papel</td><td>Consumo até 50% menor que o manual</td></tr>
+            <tr><td>300+ pedidos</td><td>Sistema de alta produção</td><td>Integração com esteiras e funis</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>O amassado manual parece barato, mas esconde dois custos: <strong>excesso de consumo</strong> (o operador usa mais papel do que o necessário para "garantir") e <strong>tempo por caixa</strong>. A automação padroniza os dois — detalhamos as contas no guia de <a href="/guias/custo-e-roi-da-embalagem/">custo e ROI da embalagem</a>.</p>
+
+      <h2>Onde o papel kraft é imbatível</h2>
+      <ul>
+        <li><strong>Produtos pesados e densos:</strong> autopeças metálicas, ferramentas, panelas — o papel crimpado não estoura nem cede.</li>
+        <li><strong>Bordas e pontas agressivas:</strong> onde filmes inflados correm risco de perfuração.</li>
+        <li><strong>Metas plastic-free:</strong> marketplaces e marcas com compromisso público de eliminar plástico da embalagem.</li>
+        <li><strong>Exportação:</strong> aceito sem restrição em qualquer destino, sem discussão sobre descarte de plástico no país de chegada.</li>
+      </ul>
+
+      <h2>Onde vale considerar alternativas</h2>
+      <p>O papel pesa mais que o ar — em operações com frete cobrado por peso, esse custo entra na conta. Também ocupa mais espaço de estoque que bobinas de <a href="/cushion-film/">cushion film</a>. Por isso muitas operações adotam o modelo híbrido: papel onde há exigência de fibra ou peso extremo, <a href="/almofada-de-ar/">almofada de ar</a> no preenchimento de alto volume. O comparativo completo está em <a href="/comparativos/almofada-de-ar-vs-papel-kraft/">Almofada de Ar vs Papel Kraft</a>.</p>
+    </div>
+  </div>
+</article>

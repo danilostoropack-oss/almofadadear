@@ -1,0 +1,75 @@
+{
+  "path": "/maquina-de-papel/",
+  "title": "Máquina de Papel para Embalagem: paper system para void fill e amortecimento",
+  "description": "Máquina de papel (paper system): converte bobinas de papel kraft em calços e almofadas de amortecimento sob demanda. Reduz consumo em até 50% vs papel manual.",
+  "h1": "Máquina de Papel: amortecimento kraft <em>produzido sob demanda</em>",
+  "lead": "A <strong>máquina de papel</strong> — o paper system das operações modernas — converte bobinas de papel kraft em calços, almofadas e preenchimento no ritmo da expedição. Padroniza a proteção, corta o desperdício do amassado manual e mantém a operação 100% papel.",
+  "eyebrow": "Equipamento",
+  "breadcrumb": [["Início","/"],["Soluções","/solucoes/"],["Máquina de Papel",null]],
+  "og_image": "/img/operacao-galpao.webp",
+  "faq_topic": "máquina de papel",
+  "wa_text": "Olá! Quero dimensionar uma máquina de papel para minha operação.",
+  "cta_title": "Sua operação usa papel amassado à mão?",
+  "cta_text": "Diagnóstico gratuito: medimos consumo atual, tempo por caixa e mostramos a economia com o sistema automático.",
+  "schema": [
+    {"@type":"Product","name":"Máquina de Papel para Embalagem (Paper System)","description":"Equipamento que converte bobinas de papel kraft em calços e almofadas de amortecimento sob demanda para embalagem de proteção.","image":"https://www.almofadadear.com.br/img/operacao-galpao.webp","brand":{"@type":"Brand","name":"Almofada de Ar"},"category":"Máquina de Embalagem"}
+  ],
+  "faq": [
+    {"q":"O que faz uma máquina de papel para embalagem?","a":"Ela traciona papel kraft de uma bobina e o converte mecanicamente em estruturas volumosas — calços densos para amortecimento (cushioning) ou enchimento leve para vazios (void fill) — no comprimento que o operador precisar, sob demanda."},
+    {"q":"Qual a vantagem sobre amassar papel manualmente?","a":"Três ganhos: consumo até 50% menor (a máquina forma volume estruturado, o operador manual usa papel em excesso), velocidade (segundos por caixa) e padronização (toda caixa recebe a mesma proteção, independente do operador)."},
+    {"q":"Máquina de papel ou máquina de almofada de ar: qual escolher?","a":"Papel vence quando a exigência é material 100% fibra, produtos pesados ou pontiagudos; almofada de ar vence em custo por pedido, peso de frete e velocidade para preenchimento leve. Operações maduras frequentemente usam os dois."},
+    {"q":"Que tipos de máquina de papel existem?","a":"Sistemas de void fill (enchimento leve de alta velocidade), sistemas de cushioning (calços densos para amortecimento) e conversores compactos de bancada. O dimensionamento depende do mix de produtos e do volume diário."},
+    {"q":"O papel da máquina é especial?","a":"Sim — papel kraft com gramatura e resistência controladas, em bobinas ou sanfonas compatíveis com o equipamento. Há versões recicladas e certificadas FSC."}
+  ],
+  "related": [
+    {"href":"/papel-kraft/","title":"Papel Kraft","desc":"O insumo: gramaturas, funções e quando o papel é imbatível."},
+    {"href":"/papel-colmeia/","title":"Papel Colmeia","desc":"Envolvimento premium 100% papel, com dispensadores manuais."},
+    {"href":"/maquina-de-almofada-de-ar/","title":"Máquina de Almofada de Ar","desc":"O equivalente em filme inflável: até 12 m/min de proteção."},
+    {"href":"/automacao-de-embalagem/","title":"Automação de Embalagem","desc":"Arquiteturas de estação de embalagem automatizada."},
+    {"href":"/embalagem-sustentavel/","title":"Embalagem Sustentável","desc":"Como decidir entre papel, plástico reciclável e híbridos."},
+    {"href":"/guias/custo-e-roi-da-embalagem/","title":"Custo e ROI","desc":"O método para calcular a economia real da automação."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>Por que automatizar o papel</h2>
+      <p>O papel amassado à mão é o método de proteção mais antigo da expedição — e um dos mais caros quando se olha a conta completa. O operador, para "garantir", usa sempre mais papel do que o necessário; o volume formado à mão colapsa sob vibração; e o tempo por caixa é o maior entre todos os métodos. A <strong>máquina de papel</strong> ataca os três problemas de uma vez: forma <strong>volume estruturado</strong> (que não colapsa), na <strong>quantidade exata</strong>, em <strong>segundos</strong>.</p>
+      <p>Para operações com meta plastic-free, é o que permite escalar o <a href="/papel-kraft/">papel kraft</a> sem explodir consumo nem tempo de embalagem.</p>
+
+      <h2>Os dois tipos de sistema</h2>
+      <h3>Sistema de void fill (preenchimento)</h3>
+      <p>Converte papel leve em enchimento volumoso de alta velocidade, ideal para <a href="/preenchimento-de-caixas/">preencher espaços vazios</a> em caixas de e-commerce. Prioriza metros por minuto e baixo consumo por caixa.</p>
+      <h3>Sistema de cushioning (amortecimento)</h3>
+      <p>Crimpa múltiplas camadas de papel em calços densos e elásticos, capazes de amortecer quedas de produtos pesados — autopeças, ferramentas, equipamentos. É o sistema usado onde antes se usava espuma.</p>
+
+      <h2>Números que aparecem no diagnóstico</h2>
+      <ul>
+        <li><strong>Consumo:</strong> redução típica de 30–50% de papel vs amassado manual, para a mesma proteção.</li>
+        <li><strong>Tempo por caixa:</strong> de minutos (manual) para segundos (sob demanda no comprimento certo).</li>
+        <li><strong>Padronização:</strong> índice de avarias mais estável, porque a proteção não depende do capricho de cada operador.</li>
+        <li><strong>Estoque de insumo:</strong> bobinas compactas em vez de fardos de papel solto.</li>
+      </ul>
+
+      <h2>Máquina de papel vs máquina de almofada de ar</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Resumo — o comparativo completo está em Almofada de Ar vs Papel Kraft.</caption>
+          <thead>
+            <tr><th>Critério</th><th>Máquina de Papel</th><th>Máquina de Almofada de Ar</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Material</td><td>100% papel kraft (fibra)</td><td>Filme PE reciclável</td></tr>
+            <tr><td>Produtos pesados</td><td class="yes">✅ Excelente (calços densos)</td><td class="mid">⚠️ Bom com filme reforçado</td></tr>
+            <tr><td>Custo por pedido (void fill leve)</td><td class="mid">⚠️ Médio</td><td class="yes">✅ Baixo</td></tr>
+            <tr><td>Peso adicionado ao pacote</td><td class="mid">⚠️ Relevante</td><td class="yes">✅ Desprezível</td></tr>
+            <tr><td>Descarte pelo cliente final</td><td class="yes">✅ Coleta comum de papel</td><td class="mid">⚠️ Cadeia de flexíveis</td></tr>
+            <tr><td>Meta plastic-free</td><td class="yes">✅ Atende</td><td class="no">❌ Não atende</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Não é uma disputa: em muitas expedições as duas máquinas convivem, cada uma no mix de produtos em que é imbatível. O desenho dessa arquitetura é parte da <a href="/automacao-de-embalagem/">automação de embalagem</a> que projetamos no diagnóstico gratuito.</p>
+    </div>
+  </div>
+</article>

@@ -1,0 +1,74 @@
+{
+  "path": "/embalagem-para-ecommerce/",
+  "title": "Embalagem para E-commerce: proteção, custo por pedido e unboxing",
+  "description": "Embalagem para e-commerce: como proteger produtos no last mile, reduzir custo por pedido, evitar devoluções por avaria e criar unboxing que fideliza. Análise gratuita.",
+  "h1": "Embalagem para E-commerce: proteção que <em>cabe no custo por pedido</em>",
+  "lead": "No e-commerce, a embalagem é o único contato físico da marca com o cliente — e uma das maiores linhas de custo variável da operação. Este guia mostra como equilibrar <strong>proteção, custo por pedido e experiência de unboxing</strong> em operações de venda online, marketplace e fulfillment.",
+  "eyebrow": "Segmento",
+  "breadcrumb": [["Início","/"],["Embalagem de Proteção","/embalagem-de-protecao/"],["E-commerce",null]],
+  "og_image": "/img/prod-moda-almofada.webp",
+  "faq_topic": "embalagem para e-commerce",
+  "wa_text": "Olá! Tenho um e-commerce e quero melhorar minha embalagem.",
+  "cta_title": "Quantos pedidos você expede por dia?",
+  "cta_text": "Com esse número e o seu mix de produtos, devolvemos uma análise gratuita: material ideal, consumo estimado e custo por pedido.",
+  "faq": [
+    {"q":"Qual a melhor embalagem para e-commerce?","a":"Para a maioria das operações: caixa dimensionada ao produto + almofada de ar para preenchimento e travamento. Para marcas com posicionamento sustentável ou premium, papel colmeia no envolvimento e papel kraft no preenchimento. O mix ideal depende do produto e do volume — por isso o diagnóstico vem antes da recomendação."},
+    {"q":"Como reduzir o custo de embalagem no e-commerce?","a":"Quatro alavancas: adequar o tamanho das caixas (menos frete cubado), trocar materiais pré-inflados por produção sob demanda (menos estoque e custo), padronizar protocolos por família de produto (menos desperdício) e atacar avarias (cada devolução custa duas viagens de frete)."},
+    {"q":"Embalagem para marketplace tem regra específica?","a":"Os principais marketplaces (Mercado Livre, Amazon, Shopee) penalizam vendedores por avarias e reclamações. Embalagem adequada protege a reputação da conta — um ativo que vale mais que o custo do material."},
+    {"q":"Quanto custa a embalagem por pedido no e-commerce?","a":"Variando com produto e material, o conjunto caixa + proteção costuma ficar entre 2% e 8% do valor do pedido. Operações que migram de plástico bolha ou flocos para almofada de ar sob demanda reduzem a parcela de proteção em até 40%."},
+    {"q":"Unboxing influencia recompra de verdade?","a":"Sim — é o momento de maior atenção do cliente com a marca. Embalagem que chega íntegra, organizada e com apresentação cuidada aumenta avaliação positiva e recompra; produto solto entre flocos de isopor comunica descuido antes mesmo do uso."}
+  ],
+  "related": [
+    {"href":"/almofada-de-ar/","title":"Almofada de Ar","desc":"O padrão de proteção do e-commerce em volume."},
+    {"href":"/papel-colmeia/","title":"Papel Colmeia","desc":"Unboxing premium e sustentável para marcas que se posicionam."},
+    {"href":"/preenchimento-de-caixas/","title":"Void Fill","desc":"A técnica do preenchimento eficiente, passo a passo."},
+    {"href":"/segmentos/moda-e-calcados/","title":"Moda e Calçados","desc":"Bolsas, tênis e acessórios sem marcas nem deformação."},
+    {"href":"/guias/custo-e-roi-da-embalagem/","title":"Custo e ROI","desc":"Como calcular o custo real da embalagem por pedido."},
+    {"href":"/automacao-de-embalagem/","title":"Automação","desc":"Da bancada ao fulfillment: escalar sem perder padrão."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>O tripé da embalagem de e-commerce</h2>
+      <p>Toda decisão de embalagem no e-commerce equilibra três forças: <strong>proteção</strong> (o produto precisa chegar intacto após 6 a 12 manuseios), <strong>custo por pedido</strong> (material + tempo de embalagem + frete cubado) e <strong>experiência</strong> (o unboxing é o primeiro contato físico com a marca). Otimizar um só vértice quebra os outros dois — proteção máxima a qualquer custo destrói a margem; custo mínimo destrói a reputação.</p>
+
+      <h2>Os erros mais caros que vemos em diagnósticos</h2>
+      <ul>
+        <li><strong>Caixa única para tudo:</strong> um sortimento só de caixas grandes gera void enorme, consumo alto de preenchimento e frete cubado inflado.</li>
+        <li><strong>Plástico bolha como void fill:</strong> a bolha foi feita para envolver, não para preencher — usá-la em vazios consome muito material para pouca imobilização (<a href="/comparativos/almofada-de-ar-vs-plastico-bolha/">veja o comparativo</a>).</li>
+        <li><strong>Proteção sem protocolo:</strong> cada operador embala "no olho", e o índice de avarias oscila com o turno.</li>
+        <li><strong>Ignorar o custo da devolução:</strong> uma avaria custa o produto, duas viagens de frete, atendimento e reputação no marketplace — quase sempre mais que um ano de material de proteção daquele pedido.</li>
+      </ul>
+
+      <h2>A arquitetura recomendada por perfil de operação</h2>
+      <h3>Até ~50 pedidos/dia</h3>
+      <p>Sortimento de 3 tamanhos de caixa + <a href="/almofada-de-ar/">almofada de ar</a> com insuflador de bancada compacto (ou <a href="/papel-colmeia/">papel colmeia</a> em dispensador, se o posicionamento pedir papel). Investimento mínimo, salto imediato de padrão.</p>
+      <h3>50–500 pedidos/dia</h3>
+      <p>Estações de embalagem com <a href="/maquina-de-almofada-de-ar/">insuflador</a> dedicado ou ponto central com funil; protocolos por família de produto; caixa sob medida para os SKUs campeões de venda.</p>
+      <h3>500+ pedidos/dia (fulfillment)</h3>
+      <p>Sistema integrado: geração centralizada de almofadas com distribuição por funis, <a href="/maquina-de-papel/">máquinas de papel</a> nos fluxos de itens pesados, auditoria mensal de avarias e consumo — o desenho completo está em <a href="/automacao-de-embalagem/">automação de embalagem</a>.</p>
+
+      <h2>Proteção por categoria de produto</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Protocolos típicos por categoria — o diagnóstico personaliza para o seu mix.</caption>
+          <thead>
+            <tr><th>Categoria</th><th>Risco dominante</th><th>Protocolo típico</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Moda e acessórios</td><td>Deformação e marcas</td><td>Almofada de ar (mantém forma) — <a href="/segmentos/moda-e-calcados/">ver segmento</a></td></tr>
+            <tr><td>Cosméticos e vidro</td><td>Quebra e vazamento</td><td><a href="/papel-colmeia/">Papel colmeia</a> no envolvimento + void fill</td></tr>
+            <tr><td>Eletrônicos</td><td>Impacto e estática</td><td><a href="/manta-de-protecao/">Manta</a> + calços de ar — <a href="/segmentos/eletronicos/">ver segmento</a></td></tr>
+            <tr><td>Casa e decoração</td><td>Quebra e abrasão</td><td>Envolvimento + preenchimento total</td></tr>
+            <tr><td>Multiprodutos (kits)</td><td>Colisão entre itens</td><td>Separação com <a href="/colmeia-plastica/">colmeia</a> + travamento</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>Sustentabilidade que o cliente percebe</h2>
+      <p>O consumidor de e-commerce julga a embalagem no descarte: papel vai para a coleta comum sem culpa; plástico exige explicação. Se a sua marca comunica sustentabilidade, o <a href="/papel-colmeia/">papel colmeia</a> e o <a href="/papel-kraft/">kraft</a> fecham o discurso com o produto físico. Se o driver é custo e o público é pragmático, a <a href="/almofada-de-ar/">almofada de ar reciclável</a> entrega a menor pegada de material por pedido. O guia de <a href="/embalagem-sustentavel/">embalagem sustentável</a> organiza essa decisão sem greenwashing.</p>
+    </div>
+  </div>
+</article>

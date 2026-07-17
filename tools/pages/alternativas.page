@@ -1,0 +1,101 @@
+{
+  "path": "/alternativas/",
+  "title": "Alternativas a Fornecedores de Embalagem: Ranpak, Sealed Air e mais",
+  "description": "Procurando alternativa à Ranpak, Sealed Air, Pregis, Fromm ou ao seu fornecedor atual de embalagem de proteção? Compare tecnologias, custos e obtenha uma segunda opinião técnica gratuita.",
+  "h1": "Alternativas a Fornecedores de <em>Embalagem de Proteção</em>",
+  "lead": "Se você busca uma <strong>alternativa ao seu fornecedor atual</strong> — seja um gigante global como Ranpak, Sealed Air ou Pregis, seja um distribuidor nacional — esta página organiza a decisão: o que cada tecnologia entrega, quando vale trocar e como comparar propostas sem viés de catálogo.",
+  "eyebrow": "Guia de decisão",
+  "breadcrumb": [["Início","/"],["Alternativas",null]],
+  "og_image": "/img/operacao-galpao.webp",
+  "page_type": "CollectionPage",
+  "faq_topic": "alternativas de fornecedores",
+  "wa_text": "Olá! Quero uma segunda opinião sobre meu fornecedor de embalagem.",
+  "cta_title": "Quer uma segunda opinião técnica sobre a proposta que recebeu?",
+  "cta_text": "Análise gratuita e sem compromisso: comparamos a proposta do seu fornecedor atual (ou candidato) com as alternativas do mercado, na conta de custo total por pedido.",
+  "faq": [
+    {"q":"Quando vale a pena trocar de fornecedor de embalagem?","a":"Quatro sinais: custo por pedido acima do mercado (compare a conta completa, não o preço do metro), índice de avarias estagnado, equipamento sem suporte ágil, e portfólio limitado — fornecedor que só vende papel ou só vende plástico tende a recomendar o que tem, não o que sua operação precisa."},
+    {"q":"Como comparar propostas de fornecedores diferentes?","a":"Padronize a comparação: mesma base de custo total por pedido (material + equipamento/comodato + tempo por caixa + espaço + avarias), teste piloto com o seu produto real, e verifique suporte local — tempo de reposição de filme/papel e atendimento técnico no Brasil."},
+    {"q":"Existe alternativa nacional aos fornecedores globais?","a":"Sim — o mercado brasileiro tem distribuidores e fabricantes como Heropack, Amplapack, BestPack, Atco, THR, CD Embalagens, BBA Embalagens, StarkPack, SuperBag Brasil, Ventapel, Teckplast e LoopAir, com portfólios e modelos comerciais variados. A escolha certa depende do material, do volume e do suporte necessário — critérios que a análise técnica compara com isenção."},
+    {"q":"Vocês são ligados a alguma dessas marcas?","a":"Trabalhamos como consultoria técnica: o diagnóstico compara as tecnologias disponíveis no mercado e indica a que melhor resolve a sua operação — incluindo, quando for o caso, manter o fornecedor atual. As marcas citadas pertencem aos seus respectivos titulares e são mencionadas em caráter informativo e comparativo."},
+    {"q":"Trocar de fornecedor exige trocar de máquina?","a":"Geralmente sim — filmes e papéis são homologados por equipamento. Por isso a troca deve ser avaliada pelo custo total (equipamento em comodato costuma zerar o investimento) e validada em piloto antes de desativar o sistema atual."}
+  ],
+  "related": [
+    {"href":"/comparativos/","title":"Comparativos de Materiais","desc":"Almofada de ar, papel colmeia, kraft, bolha e isopor lado a lado."},
+    {"href":"/comparativos/ranpak-vs-storopack/","title":"Ranpak vs Storopack","desc":"Os dois modelos: especialista em papel vs portfólio multimaterial."},
+    {"href":"/guias/custo-e-roi-da-embalagem/","title":"Custo e ROI","desc":"A conta de custo total que iguala qualquer comparação de proposta."}
+  ]
+}
+---BODY---
+<section class="section bg-navy">
+  <div class="wrap">
+    <div class="sh">
+      <span class="sh-tag">Marcas globais</span>
+      <h2>Alternativas aos <em>grandes fornecedores</em></h2>
+      <p>Cada página analisa a tecnologia da marca, seus pontos fortes reais e as alternativas equivalentes no mercado.</p>
+    </div>
+    <div class="card-grid card-grid--2">
+      <a class="mat-card" href="/alternativas/ranpak/">
+        <div class="mat-card-body">
+          <h3>Alternativa à Ranpak</h3>
+          <p>A especialista global em sistemas 100% papel (FillPak, PadPak, Geami): onde ela é forte, onde o portfólio só-papel limita, e as alternativas em papel e ar.</p>
+          <span class="card-link">Ver análise completa →</span>
+        </div>
+      </a>
+      <a class="mat-card" href="/alternativas/sealed-air/">
+        <div class="mat-card-body">
+          <h3>Alternativa à Sealed Air</h3>
+          <p>A inventora do Bubble Wrap® (linhas Fill-Air, Instapak, Autobag): o legado da bolha, a transição para sistemas sob demanda e as alternativas atuais.</p>
+          <span class="card-link">Ver análise completa →</span>
+        </div>
+      </a>
+      <a class="mat-card" href="/alternativas/pregis/">
+        <div class="mat-card-body">
+          <h3>Alternativa à Pregis</h3>
+          <p>O portfólio multimaterial norte-americano (AirSpeed, papel, espumas): perfil, pontos fortes e como comparar propostas equivalentes.</p>
+          <span class="card-link">Ver análise completa →</span>
+        </div>
+      </a>
+      <a class="mat-card" href="/alternativas/fromm/">
+        <div class="mat-card-body">
+          <h3>Alternativa à Fromm</h3>
+          <p>A suíça conhecida pelas cintadoras e pelo sistema Airpad de almofadas de ar: características do sistema e alternativas de air cushion.</p>
+          <span class="card-link">Ver análise completa →</span>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-navy2">
+  <div class="wrap">
+    <div class="prose">
+      <h2>E os fornecedores nacionais e regionais?</h2>
+      <p>O mercado brasileiro de embalagem de proteção é atendido também por distribuidores e fabricantes nacionais — entre os mais citados por clientes em diagnósticos estão <strong>Heropack, Amplapack, BestPack, Atco, THR, CD Embalagens, BBA Embalagens, StarkPack, SuperBag Brasil, Ventapel, Teckplast e LoopAir</strong>, além de distribuidores internacionais como Polyair, Kite Packaging e Raja (Rajapack) e dos grupos papeleiros Smurfit Kappa e DS Smith no papelão ondulado.</p>
+      <p>Cada um tem foco diferente — alguns são fortes em filme e almofada de ar, outros em papel, fitas e fechamento de caixas, outros em papelão estrutural. Por isso, comparar "fornecedor contra fornecedor" sem antes definir <strong>a tecnologia certa para a sua operação</strong> é inverter a ordem da decisão:</p>
+      <ol>
+        <li><strong>Primeiro a função:</strong> o que a sua operação precisa — void fill, envolvimento, amortecimento, automação? (Use o <a href="/guias/como-escolher-embalagem-de-protecao/">método de 6 critérios</a>.)</li>
+        <li><strong>Depois a tecnologia:</strong> ar, papel ou híbrido — os <a href="/comparativos/">comparativos técnicos</a> resolvem essa etapa.</li>
+        <li><strong>Por último o fornecedor:</strong> quem entrega essa tecnologia com o melhor custo total, suporte local e prazo de reposição.</li>
+      </ol>
+
+      <h2>O checklist para comparar qualquer proposta</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Aplique a qualquer proposta — nacional ou global — antes de assinar.</caption>
+          <thead>
+            <tr><th>Critério</th><th>O que verificar</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Custo total por pedido</td><td>Material + comodato/equipamento + tempo por caixa + espaço + avarias — nunca só o preço do metro</td></tr>
+            <tr><td>Modelo do equipamento</td><td>Comodato, locação ou venda? O que acontece com o equipamento se o contrato terminar?</td></tr>
+            <tr><td>Exclusividade de insumo</td><td>O filme/papel é proprietário? Qual o preço de reposição após o 1º ano?</td></tr>
+            <tr><td>Suporte técnico</td><td>Tempo de atendimento no Brasil, peças de reposição, máquina reserva</td></tr>
+            <tr><td>Portfólio</td><td>Fornecedor multimaterial pode recomendar a tecnologia certa; monomaterial tende a vender o que tem</td></tr>
+            <tr><td>Piloto</td><td>Aceita teste com seu produto real antes do contrato?</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Recebeu uma proposta e quer validá-la contra o mercado? A <a href="/contato/">segunda opinião técnica é gratuita</a> — devolvemos a comparação na mesma base de custo total.</p>
+    </div>
+  </div>
+</section>

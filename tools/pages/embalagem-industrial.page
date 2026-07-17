@@ -1,0 +1,72 @@
+{
+  "path": "/embalagem-industrial/",
+  "title": "Embalagem Industrial de Proteção: peças, B2B e exportação",
+  "description": "Embalagem industrial: proteção para peças, componentes e cargas B2B. Amortecimento para itens pesados, exportação, interplantas e redução de avarias na indústria.",
+  "h1": "Embalagem Industrial: proteção para <em>peças, componentes e exportação</em>",
+  "lead": "Na indústria, avaria não é só devolução — é linha de produção parada, lote reprovado e multa contratual. A <strong>embalagem industrial de proteção</strong> dimensiona amortecimento, travamento e envolvimento para peças pesadas, sensíveis e de alto valor, do interplantas à exportação.",
+  "eyebrow": "Segmento",
+  "breadcrumb": [["Início","/"],["Embalagem de Proteção","/embalagem-de-protecao/"],["Embalagem Industrial",null]],
+  "og_image": "/img/painel-industria.webp",
+  "faq_topic": "embalagem industrial",
+  "wa_text": "Olá! Preciso de embalagem de proteção para operação industrial.",
+  "cta_title": "Sua expedição industrial tem índice de avarias conhecido?",
+  "cta_text": "Se não tem, esse é o primeiro número que o diagnóstico gratuito levanta — junto com o custo real de cada avaria.",
+  "faq": [
+    {"q":"O que caracteriza uma embalagem industrial de proteção?","a":"Dimensionamento técnico para cargas B2B: peças mais pesadas e densas que no varejo, exigências de empilhamento, trajetos longos (incluindo marítimo), e consequências de avaria mais caras — parada de linha, reprovação de lote e multas contratuais."},
+    {"q":"Qual material aguenta peças pesadas?","a":"Para amortecimento de itens densos, calços de papel kraft crimpado (paper cushioning) e colmeia plástica lideram. Almofadas de ar de filme reforçado funcionam para travamento e preenchimento. A resposta exata sai do peso, formato e cadeia logística da peça."},
+    {"q":"Como embalar peças para exportação?","a":"Materiais com estabilidade de longa duração (o ar deve permanecer semanas; o papel não pode absorver umidade crítica), travamento contra vibração de trajeto multimodal e conformidade com normas do destino. Papel é aceito universalmente; filmes PE também — madeira exige tratamento fitossanitário."},
+    {"q":"Embalagem retornável vale a pena na indústria?","a":"Em fluxos fechados (interplantas, fornecedor-montadora), sim: colmeia plástica e estruturas reutilizáveis diluem o custo por viagem. Em fluxos abertos (cliente final), materiais one-way sob demanda costumam custar menos que a gestão do retorno."},
+    {"q":"Como reduzir o custo de embalagem sem aumentar avarias?","a":"Medindo: custo total por expedição (material + mão de obra + avarias + frete) antes e depois do redimensionamento. Na maioria dos diagnósticos industriais encontramos excesso de material em alguns pontos e proteção insuficiente em outros — corrigir os dois reduz custo e avaria simultaneamente."}
+  ],
+  "related": [
+    {"href":"/segmentos/autopecas/","title":"Autopeças","desc":"Faróis, peças cromadas e componentes — o segmento detalhado."},
+    {"href":"/papel-kraft/","title":"Papel Kraft","desc":"Calços densos para peças pesadas e exportação."},
+    {"href":"/colmeia-plastica/","title":"Colmeia Plástica","desc":"Proteção 360° reutilizável para fluxos fechados."},
+    {"href":"/protecao-para-transporte/","title":"Proteção para Transporte","desc":"Os riscos da cadeia logística, incluindo multimodal."},
+    {"href":"/automacao-de-embalagem/","title":"Automação","desc":"Sistemas sob demanda integrados à expedição industrial."},
+    {"href":"/guias/como-reduzir-avarias-no-transporte/","title":"Reduzir Avarias","desc":"O método de 5 passos aplicável à indústria."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>Por que a embalagem industrial é outro jogo</h2>
+      <p>O e-commerce embala produtos acabados para um cliente final tolerante a pequenas variações. A indústria embala <strong>componentes de cadeias produtivas</strong>: a peça que chega avariada para a linha de montagem, reprova o lote inteiro na inspeção de recebimento ou gera multa por atraso. O custo da falha é ordens de magnitude maior — e por isso o dimensionamento não pode ser por hábito.</p>
+      <p>Ao mesmo tempo, a indústria costuma carregar o vício oposto: <strong>excesso de embalagem</strong> herdado de projetos antigos. Camadas de plástico bolha, espuma cortada à mão e madeira onde um calço de papel crimpado resolveria — custo de material, de mão de obra e de descarte no cliente.</p>
+
+      <h2>Os quatro fluxos industriais e suas exigências</h2>
+      <h3>1. Expedição para cliente final (B2B)</h3>
+      <p>Peças e equipamentos vendidos a outras empresas. Exige proteção one-way de custo controlado: <a href="/almofada-de-ar/">almofada de ar reforçada</a> para travamento, <a href="/papel-kraft/">calços de papel</a> para amortecimento de peso.</p>
+      <h3>2. Interplantas e fornecedor-montadora</h3>
+      <p>Fluxos fechados e repetitivos — o território da embalagem retornável: <a href="/colmeia-plastica/">colmeia plástica</a> e estruturas reutilizáveis que diluem custo por ciclo.</p>
+      <h3>3. Exportação</h3>
+      <p>Trajetos multimodais de semanas: contêiner, umidade, vibração prolongada e empilhamento. Materiais de retenção de longa duração e travamento redundante. Papel e filmes PE dispensam os tratamentos fitossanitários da madeira.</p>
+      <h3>4. Reposição e aftermarket</h3>
+      <p>Peças avulsas em caixas variadas — o fluxo mais parecido com e-commerce, e o que mais se beneficia de <a href="/preenchimento-de-caixas/">void fill sob demanda</a>.</p>
+
+      <h2>Materiais por tipo de peça</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Ponto de partida técnico — o diagnóstico refina por peça e trajeto.</caption>
+          <thead>
+            <tr><th>Tipo de peça</th><th>Risco dominante</th><th>Solução típica</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Usinados de precisão</td><td>Batidas de manuseio</td><td><a href="/manta-de-protecao/">Manta</a> + travamento com ar</td></tr>
+            <tr><td>Peças plásticas (faróis, carenagens)</td><td>Trinca e risco</td><td><a href="/colmeia-plastica/">Colmeia</a> + void fill — <a href="/segmentos/autopecas/">ver autopeças</a></td></tr>
+            <tr><td>Motores e conjuntos pesados</td><td>Impacto de queda</td><td>Calços densos de <a href="/papel-kraft/">papel crimpado</a></td></tr>
+            <tr><td>Placas e eletrônicos industriais</td><td>Impacto + estática</td><td>Embalagem ESD + <a href="/manta-de-protecao/">manta</a> + calços de ar</td></tr>
+            <tr><td>Vidros e cerâmicas técnicas</td><td>Quebra por vibração</td><td>Envolvimento 360° + suspensão na caixa</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>O custo real de uma avaria industrial</h2>
+      <p>No diagnóstico, calculamos o custo de avaria com todos os componentes: valor da peça + frete de ida e retorno + reembalagem + <strong>custo da parada</strong> no cliente + risco contratual. Contra esse número, o investimento em embalagem dimensionada quase sempre se paga em semanas. O método está detalhado em <a href="/guias/custo-e-roi-da-embalagem/">custo e ROI da embalagem</a>.</p>
+
+      <h2>Padronização: o multiplicador industrial</h2>
+      <p>O maior ganho da indústria não vem do material — vem do <strong>protocolo</strong>: instrução de embalagem por peça (quantos calços, onde, qual sequência), insumo produzido sob demanda na estação e auditoria periódica. É o que transforma a expedição em processo repetível, auditável e treinável — os mesmos princípios de <a href="/automacao-de-embalagem/">automação de embalagem</a> que aplicamos em fulfillment.</p>
+    </div>
+  </div>
+</article>

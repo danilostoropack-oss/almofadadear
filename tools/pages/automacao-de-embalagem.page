@@ -1,0 +1,74 @@
+{
+  "path": "/automacao-de-embalagem/",
+  "title": "Automação de Embalagem: sistemas sob demanda para expedição",
+  "description": "Automação de embalagem: como insufladores, máquinas de papel e estações integradas aumentam a produtividade da expedição e padronizam a proteção. Guia completo.",
+  "h1": "Automação de Embalagem: produtividade e padrão <em>na expedição</em>",
+  "lead": "A <strong>automação de embalagem</strong> substitui o improviso manual — cortar, amassar, 'pôr mais um pouco' — por sistemas que produzem proteção sob demanda, na quantidade exata, no ritmo da fila de pedidos. O resultado: mais caixas por hora, menos material por caixa e índice de avarias estável.",
+  "eyebrow": "Guia",
+  "breadcrumb": [["Início","/"],["Embalagem de Proteção","/embalagem-de-protecao/"],["Automação de Embalagem",null]],
+  "og_image": "/img/producao.webp",
+  "faq_topic": "automação de embalagem",
+  "wa_text": "Olá! Quero automatizar a embalagem da minha expedição.",
+  "cta_title": "Sua expedição embala no improviso?",
+  "cta_text": "O diagnóstico gratuito cronometra o processo atual e projeta o ganho da automação — em pedidos/hora e custo por caixa.",
+  "faq": [
+    {"q":"O que é automação de embalagem?","a":"É o uso de equipamentos que produzem material de proteção sob demanda — insufladores de almofada de ar, máquinas de papel — e de estações de trabalho projetadas para fluxo contínuo, substituindo o preparo manual de proteção (cortar bolha, amassar papel)."},
+    {"q":"A partir de quantos pedidos por dia a automação compensa?","a":"Em geral, a partir de algumas dezenas de pedidos diários um equipamento de bancada já se paga pela economia de material e tempo. Operações com centenas ou milhares de pedidos têm retorno em poucos meses. A conta exata sai do diagnóstico com seus números."},
+    {"q":"Automatizar exige reformar o galpão?","a":"Não. Insufladores e máquinas compactas de papel são equipamentos de bancada que ligam em tomada comum. Sistemas maiores (funis, esteiras integradas) exigem apenas o espaço da estação — sem obra."},
+    {"q":"Qual o ganho típico de produtividade?","a":"Nos diagnósticos, o preparo de proteção manual consome de 30% a 60% do tempo de embalagem de cada caixa. Com material pronto sob demanda ao alcance da mão, esse tempo praticamente desaparece — o operador só embala."},
+    {"q":"E se o volume da minha operação oscilar (sazonalidade)?","a":"É justamente onde a automação brilha: no pico, a máquina produz no limite da velocidade sem contratar reforço para 'fazer proteção'; no vale, não há estoque de material pré-inflado parado ocupando galpão."}
+  ],
+  "related": [
+    {"href":"/maquina-de-almofada-de-ar/","title":"Máquina de Almofada de Ar","desc":"O insuflador: capacidades, modelos, compra ou comodato."},
+    {"href":"/maquina-de-papel/","title":"Máquina de Papel","desc":"Paper systems para void fill e amortecimento kraft."},
+    {"href":"/guias/custo-e-roi-da-embalagem/","title":"Custo e ROI","desc":"O método para calcular o retorno da automação."},
+    {"href":"/embalagem-para-ecommerce/","title":"E-commerce","desc":"Arquiteturas por volume: da bancada ao fulfillment."},
+    {"href":"/embalagem-industrial/","title":"Indústria","desc":"Automação e protocolo na expedição industrial."},
+    {"href":"/preenchimento-de-caixas/","title":"Void Fill","desc":"O preenchimento eficiente que a automação padroniza."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>O gargalo invisível da expedição</h2>
+      <p>Quando uma operação cresce, o gargalo raramente é a esteira ou o coletor — é a <strong>bancada de embalagem</strong>. E dentro dela, o tempo não vai para embalar: vai para <em>preparar proteção</em>. Cortar plástico bolha, amassar papel, buscar material no estoque. Em cronometragens de diagnóstico, esse preparo consome de 30% a 60% do tempo por caixa.</p>
+      <p>A automação de embalagem ataca exatamente isso: o material de proteção passa a ser <strong>produzido no ponto de uso</strong>, pronto, padronizado e na quantidade certa.</p>
+
+      <h2>Os três níveis de automação</h2>
+      <h3>Nível 1 — Equipamento de bancada</h3>
+      <p>Um <a href="/maquina-de-almofada-de-ar/">insuflador de almofadas</a> ou uma <a href="/maquina-de-papel/">máquina compacta de papel</a> na estação. Investimento baixo (ou comodato), instalação em minutos, ganho imediato. É o primeiro passo para operações de até algumas centenas de pedidos/dia.</p>
+      <h3>Nível 2 — Geração central com distribuição</h3>
+      <p>A máquina produz continuamente para um funil acumulador; várias estações sacam material do buffer. Elimina ociosidade do equipamento e mantém as bancadas enxutas. Padrão para 300–2.000 pedidos/dia.</p>
+      <h3>Nível 3 — Integração ao fluxo</h3>
+      <p>Sistemas conectados a esteiras e estações projetadas: material entregue por gravidade sobre a bancada, protocolos por família de produto no sistema, indicadores de consumo por estação. O território do fulfillment e dos centros de distribuição.</p>
+
+      <h2>O que a automação padroniza (e por que isso vale dinheiro)</h2>
+      <ul>
+        <li><strong>Consumo por caixa:</strong> a máquina entrega a mesma proteção sempre — sem o "mais um punhado para garantir" que infla o custo em 20–50%.</li>
+        <li><strong>Tempo por caixa:</strong> previsibilidade para planejar turnos e picos (Black Friday deixa de ser pânico de bancada).</li>
+        <li><strong>Índice de avarias:</strong> proteção padronizada = resultado padronizado. O indicador para de oscilar com o turno.</li>
+        <li><strong>Treinamento:</strong> operador novo aprende o protocolo em horas, não em semanas de "jeito de cada um".</li>
+      </ul>
+
+      <h2>Escolhendo a tecnologia: ar, papel ou ambos</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Decisão por perfil de operação — detalhes nos comparativos.</caption>
+          <thead>
+            <tr><th>Perfil da operação</th><th>Sistema indicado</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>E-commerce leve, alto volume</td><td><a href="/maquina-de-almofada-de-ar/">Almofada de ar</a> (custo/pedido mínimo)</td></tr>
+            <tr><td>Meta plastic-free</td><td><a href="/maquina-de-papel/">Máquina de papel</a> (void fill + cushioning)</td></tr>
+            <tr><td>Mix leve + pesado</td><td>Híbrido: ar para vazios, papel para calços</td></tr>
+            <tr><td>Frágeis de alto valor</td><td>Envolvimento (<a href="/colmeia-plastica/">colmeia</a>/<a href="/manta-de-protecao/">manta</a>) + ar para travar</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>Implementação sem parar a operação</h2>
+      <p>O roteiro que aplicamos: <strong>1)</strong> diagnóstico e cronometragem do processo atual; <strong>2)</strong> piloto em uma estação com protocolo definido; <strong>3)</strong> medição de consumo, tempo e avarias por 2–4 semanas; <strong>4)</strong> rollout com treinamento e metas por estação. Sem big bang, sem risco — cada etapa comprova a anterior. Comece pela <a href="/contato/">análise gratuita</a> da sua expedição.</p>
+    </div>
+  </div>
+</article>

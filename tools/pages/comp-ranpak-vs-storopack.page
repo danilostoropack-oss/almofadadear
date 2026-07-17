@@ -1,0 +1,72 @@
+{
+  "path": "/comparativos/ranpak-vs-storopack/",
+  "title": "Ranpak vs Storopack: comparativo de sistemas de proteção",
+  "description": "Ranpak ou Storopack? Comparativo neutro dos dois modelos: especialista 100% papel (FillPak, PadPak, Geami) vs portfólio multimaterial (AIRplus, PAPERplus, FOAMplus).",
+  "h1": "Ranpak <em>vs</em> Storopack: dois modelos de proteção comparados",
+  "lead": "A comparação entre <strong>Ranpak</strong> e <strong>Storopack</strong> é, no fundo, a comparação entre duas filosofias: a especialista <strong>100% papel</strong> contra o <strong>portfólio multimaterial</strong> (ar + papel + espuma). Este comparativo neutro organiza onde cada modelo serve melhor — porque a resposta certa depende da sua operação, não da marca.",
+  "eyebrow": "Comparativo de fornecedores",
+  "breadcrumb": [["Início","/"],["Comparativos","/comparativos/"],["Ranpak vs Storopack",null]],
+  "og_image": "/img/operacao-galpao.webp",
+  "page_type": "Article",
+  "faq_topic": "Ranpak vs Storopack",
+  "wa_text": "Olá! Estou comparando Ranpak e Storopack e quero uma análise técnica.",
+  "cta_title": "Está com propostas dos dois na mesa?",
+  "cta_text": "A análise gratuita coloca as duas na mesma régua — custo total por pedido, comodato, suporte — e adiciona as alternativas que faltarem na comparação.",
+  "faq": [
+    {"q":"O que é melhor: Ranpak ou Storopack?","a":"Depende do perfil da operação. Se a exigência é 100% papel (meta plastic-free) e as funções são void fill, cushioning e envolvimento, a especialização da Ranpak é um argumento forte. Se o mix pede tecnologias diferentes por família de produto — ar para leves, papel para pesados —, o portfólio multimaterial da Storopack permite resolver tudo com um fornecedor. O piloto com produto real decide."},
+    {"q":"Qual a diferença central entre as duas?","a":"O escopo do portfólio. Ranpak: exclusivamente papel (FillPak, PadPak, Geami). Storopack: ar (AIRplus), papel (PAPERplus), espuma in-situ (FOAMplus) e loose fill. Uma aposta na especialização; a outra, na tecnologia certa por aplicação."},
+    {"q":"As duas atendem no Brasil?","a":"Ambas têm presença e distribuição no mercado brasileiro. Como em qualquer contratação de sistema, verifique caso a caso: prazo de reposição de insumo homologado, suporte técnico local, máquina reserva e condições de comodato."},
+    {"q":"E se nenhuma das duas for a melhor opção?","a":"Acontece: para alguns volumes e mixes, sistemas de outros fornecedores (Sealed Air, Pregis, Fromm, nacionais) fecham a conta melhor. Por isso a comparação séria começa pela tecnologia e pelo custo total por pedido — e só depois vai à marca."},
+    {"q":"Como fazer um piloto justo entre os dois?","a":"Mesmo produto, mesma caixa, mesmo período (2-4 semanas), medindo: consumo de material por pedido, tempo por caixa, integridade na entrega (shake test + avarias) e custo total. Protocolos idênticos — senão o piloto mede o operador, não o sistema."}
+  ],
+  "related": [
+    {"href":"/alternativas/ranpak/","title":"Alternativa à Ranpak","desc":"A análise individual da especialista em papel."},
+    {"href":"/alternativas/","title":"Todas as Alternativas","desc":"O hub de análise de fornecedores."},
+    {"href":"/comparativos/almofada-de-ar-vs-papel-kraft/","title":"Ar vs Papel","desc":"O comparativo de tecnologias por trás desta escolha."},
+    {"href":"/guias/custo-e-roi-da-embalagem/","title":"Custo e ROI","desc":"A régua única para comparar propostas."},
+    {"href":"/geami/","title":"Geami","desc":"A tecnologia de papel colmeia da Ranpak."},
+    {"href":"/comparativos/","title":"Todos os Comparativos","desc":"Hub de comparativos técnicos."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>Dois modelos, duas filosofias</h2>
+      <p>A <strong>Ranpak</strong> (EUA, 1972) aposta na especialização: tudo em papel — void fill (FillPak), amortecimento (PadPak) e envolvimento em colmeia (Geami). A <strong>Storopack</strong> (Alemanha, empresa familiar com décadas de mercado) aposta no portfólio: almofadas de ar (AIRplus), papel (PAPERplus), espuma moldada in-loco (FOAMplus) e loose fill — o lema é entregar "a embalagem de proteção certa" por aplicação, seja qual for o material.</p>
+      <p><em>Todas as marcas citadas pertencem aos seus respectivos titulares e são mencionadas em caráter informativo e comparativo.</em></p>
+
+      <h2>A tabela comparativa</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Comparativo neutro por critério — o piloto na sua operação decide.</caption>
+          <thead>
+            <tr><th>Critério</th><th>Ranpak</th><th>Storopack</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Portfólio de materiais</td><td class="mid">⚠️ 100% papel</td><td class="yes">✅ Ar + papel + espuma</td></tr>
+            <tr><td>Meta plastic-free</td><td class="yes">✅ Atende por definição</td><td class="yes">✅ Atende via linha de papel</td></tr>
+            <tr><td>Void fill leve de alto volume</td><td class="mid">⚠️ Papel (peso e custo maiores)</td><td class="yes">✅ Almofada de ar disponível</td></tr>
+            <tr><td>Cushioning de peças pesadas</td><td class="yes">✅ PadPak é referência</td><td class="yes">✅ PAPERplus equivalente</td></tr>
+            <tr><td>Envolvimento premium (colmeia)</td><td class="yes">✅ Geami consolidado</td><td class="mid">⚠️ Via papel/soluções equivalentes</td></tr>
+            <tr><td>Peças de altíssimo valor (espuma)</td><td class="no">❌ Não oferece</td><td class="yes">✅ FOAMplus in-situ</td></tr>
+            <tr><td>Fornecedor único p/ mix variado</td><td class="mid">⚠️ Se o mix couber em papel</td><td class="yes">✅ Tecnologia por aplicação</td></tr>
+            <tr><td>Simplicidade de discurso ESG</td><td class="yes">✅ Monomaterial fibra</td><td class="mid">⚠️ Depende do mix contratado</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>Leitura honesta da tabela</h2>
+      <p>Nenhuma coluna "vence" — os checks se distribuem porque as empresas otimizam para teses diferentes:</p>
+      <ul>
+        <li><strong>Escolha o modelo Ranpak</strong> se a sua operação declarou plastic-free, o mix é compatível com papel em todas as funções e o peso adicional no frete cabe na conta.</li>
+        <li><strong>Escolha o modelo Storopack</strong> se o mix pede tecnologias diferentes por família — <a href="/almofada-de-ar/">ar</a> no void fill leve, <a href="/papel-kraft/">papel</a> nos pesados — e você quer um fornecedor só para as duas.</li>
+        <li><strong>Considere terceiros</strong> se o critério dominante for preço puro em uma única tecnologia: especialistas menores e nacionais podem fechar a conta melhor em cenários específicos.</li>
+      </ul>
+
+      <h2>O que decide de verdade: a conta e o piloto</h2>
+      <p>Marcas globais raramente perdem por tecnologia — perdem (ou ganham) por <strong>custo total por pedido no seu cenário</strong> e por <strong>execução local</strong>: prazo de reposição, suporte, comodato. A metodologia da comparação está em <a href="/guias/custo-e-roi-da-embalagem/">custo e ROI da embalagem</a>; o checklist de contratação, no <a href="/alternativas/">hub de alternativas</a>.</p>
+      <p>Se você está exatamente nessa decisão, a <a href="/contato/">análise técnica gratuita</a> roda as propostas na mesma régua — e aponta o que faltou perguntar a cada fornecedor.</p>
+    </div>
+  </div>
+</article>

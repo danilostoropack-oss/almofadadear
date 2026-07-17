@@ -1,0 +1,83 @@
+{
+  "path": "/maquina-de-almofada-de-ar/",
+  "title": "Máquina de Almofada de Ar (Insuflador): como funciona e como escolher",
+  "description": "Máquina de almofada de ar (insuflador): produz até 12 m/min de proteção sob demanda. Veja como funciona, capacidades, modelos e como dimensionar para sua operação.",
+  "h1": "Máquina de Almofada de Ar: o insuflador que <em>produz proteção sob demanda</em>",
+  "lead": "A <strong>máquina de almofada de ar</strong> — ou insuflador — infla e sela o cushion film automaticamente, entregando até <strong>12 metros de proteção por minuto</strong> na estação de embalagem. Compacta, silenciosa e de operação simples, é o coração do sistema de embalagem inflável.",
+  "eyebrow": "Equipamento",
+  "breadcrumb": [["Início","/"],["Soluções","/solucoes/"],["Máquina de Almofada de Ar",null]],
+  "og_image": "/img/producao.webp",
+  "faq_topic": "máquina de almofada de ar",
+  "wa_text": "Olá! Quero dimensionar uma máquina de almofada de ar para minha operação.",
+  "cta_title": "Qual máquina é a certa para o seu volume de pedidos?",
+  "cta_text": "Dimensionamento gratuito: calculamos capacidade, modelo e retorno sobre o investimento para a sua operação.",
+  "schema": [
+    {"@type":"Product","name":"Máquina de Almofada de Ar (Insuflador)","description":"Equipamento compacto que infla e sela filme técnico, produzindo almofadas de ar sob demanda para embalagem de proteção. Capacidade de até 12 m/min.","image":"https://www.almofadadear.com.br/img/producao.webp","brand":{"@type":"Brand","name":"Almofada de Ar"},"category":"Máquina de Embalagem"}
+  ],
+  "faq": [
+    {"q":"Como funciona a máquina de almofada de ar?","a":"O equipamento puxa o filme técnico da bobina, injeta ar em cada câmara e sela termicamente na sequência — tudo automático. O resultado é uma corrente contínua de almofadas prontas, produzida no ritmo da operação, até 12 metros por minuto."},
+    {"q":"A máquina de almofada de ar é grande? Precisa de infraestrutura especial?","a":"Não. Os modelos de bancada cabem na estação de embalagem, ligam em tomada comum e não exigem ar comprimido nem instalação especializada. Sistemas maiores para alto volume usam funis e suportes, ainda com footprint reduzido."},
+    {"q":"Quanto custa uma máquina de almofada de ar?","a":"Depende do modelo e do regime de aquisição — compra ou comodato vinculado ao consumo de filme. Em muitos casos o comodato zera o investimento inicial. A análise gratuita apresenta as duas contas para o seu volume."},
+    {"q":"Qual a manutenção do insuflador?","a":"Mínima: limpeza básica e troca eventual de peças de desgaste (resistência de selagem). Os equipamentos são projetados para operação contínua em expedição, com suporte técnico disponível."},
+    {"q":"Uma máquina atende quantos pedidos por dia?","a":"Um insuflador de bancada a 10–12 m/min atende confortavelmente centenas de pedidos por dia. Para operações de fulfillment com milhares de pedidos, dimensionamos múltiplos pontos de geração ou sistemas com acumulador (funil)."},
+    {"q":"A máquina funciona com qualquer filme?","a":"Não — cada equipamento trabalha com larguras e padrões de selagem específicos. Usar o filme homologado garante velocidade nominal, selagem íntegra e ausência de travamentos."}
+  ],
+  "related": [
+    {"href":"/almofada-de-ar/","title":"Almofada de Ar","desc":"A solução completa: aplicações, vantagens e formatos."},
+    {"href":"/cushion-film/","title":"Cushion Film","desc":"O filme técnico: tipos, espessuras e compatibilidade."},
+    {"href":"/automacao-de-embalagem/","title":"Automação de Embalagem","desc":"Do insuflador de bancada ao sistema integrado de fulfillment."},
+    {"href":"/maquina-de-papel/","title":"Máquina de Papel","desc":"A alternativa em papel: paper systems para void fill e cushioning."},
+    {"href":"/guias/custo-e-roi-da-embalagem/","title":"Custo e ROI da Embalagem","desc":"Como calcular o retorno do investimento em automação."},
+    {"href":"/embalagem-para-ecommerce/","title":"Embalagem para E-commerce","desc":"Produtividade e proteção em operações de venda online."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>O que a máquina faz — e por que isso muda a operação</h2>
+      <p>A <strong>máquina de almofada de ar</strong> executa três ações em sequência contínua: traciona o <a href="/cushion-film/">cushion film</a> da bobina, infla cada câmara com a pressão calibrada e sela termicamente. O operador não mede, não corta, não regula a cada uso — apenas puxa a corrente de <a href="/almofada-de-ar/">almofadas</a> prontas.</p>
+      <p>O impacto operacional é direto: a proteção deixa de ser um insumo comprado pronto (volumoso, caro de transportar e armazenar) e passa a ser <strong>produzida no ponto de uso</strong>. É o mesmo princípio que transformou outras áreas da logística: produzir sob demanda em vez de estocar produto acabado.</p>
+
+      <div class="callout">
+        <h3>Números do sistema</h3>
+        <p>Produção de <strong>até 12 m/min</strong> · bobinas com <strong>97% menos volume</strong> que material pré-inflado · equipamento de bancada, <strong>tomada comum</strong>, sem ar comprimido.</p>
+      </div>
+
+      <h2>Como escolher o insuflador certo</h2>
+      <h3>1. Volume de pedidos</h3>
+      <p>Até algumas centenas de pedidos/dia, um equipamento de bancada resolve. Acima disso, entram configurações com funil acumulador — a máquina produz continuamente e o operador saca almofadas do buffer, sem esperar.</p>
+      <h3>2. Formatos de almofada necessários</h3>
+      <p>Se a operação usa só travesseiros (void fill), qualquer modelo atende. Se precisa de manta multicâmara ou tubos para envolvimento, o equipamento deve suportar múltiplos padrões de filme.</p>
+      <h3>3. Layout da expedição</h3>
+      <p>Ponto único de geração central ou máquina por estação? Depende da distância entre bancadas e do fluxo. Em <a href="/automacao-de-embalagem/">automação de embalagem</a> detalhamos as arquiteturas possíveis.</p>
+      <h3>4. Compra ou comodato</h3>
+      <p>O comodato — equipamento cedido com contrato de consumo de filme — elimina o investimento inicial e inclui manutenção. A compra faz sentido para volumes muito estáveis. Apresentamos as duas contas na análise.</p>
+
+      <h2>Máquina de almofada de ar vs alternativas manuais</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Comparação com métodos manuais de proteção.</caption>
+          <thead>
+            <tr><th>Critério</th><th>Insuflador + filme</th><th>Plástico bolha manual</th><th>Papel amassado manual</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Tempo por caixa</td><td class="hl yes">✅ Segundos</td><td class="mid">⚠️ Cortar + posicionar</td><td class="no">❌ Amassar volume leva tempo</td></tr>
+            <tr><td>Padronização da proteção</td><td class="hl yes">✅ Sempre igual</td><td class="mid">⚠️ Depende do operador</td><td class="no">❌ Alta variação</td></tr>
+            <tr><td>Espaço de estoque de insumo</td><td class="hl yes">✅ Mínimo (bobina)</td><td class="no">❌ Rolos volumosos</td><td class="mid">⚠️ Médio</td></tr>
+            <tr><td>Desperdício de material</td><td class="hl yes">✅ Quase zero</td><td class="mid">⚠️ Sobras de corte</td><td class="no">❌ Excesso de consumo</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>Instalação e rotina de uso</h2>
+      <ol>
+        <li><strong>Posicionamento:</strong> a máquina fica na estação de embalagem ou em ponto central com funil.</li>
+        <li><strong>Troca de bobina:</strong> operação de menos de um minuto, sem ferramentas.</li>
+        <li><strong>Ajuste de pressão:</strong> presets por tipo de filme — o operador seleciona e opera.</li>
+        <li><strong>Manutenção:</strong> limpeza periódica e peças de desgaste; suporte técnico disponível em todo o Brasil.</li>
+      </ol>
+      <p>Quer ver a conta completa de investimento vs economia? O guia de <a href="/guias/custo-e-roi-da-embalagem/">custo e ROI da embalagem</a> mostra o método que usamos no diagnóstico.</p>
+    </div>
+  </div>
+</article>

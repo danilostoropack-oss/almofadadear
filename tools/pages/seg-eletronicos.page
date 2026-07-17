@@ -1,0 +1,67 @@
+{
+  "path": "/segmentos/eletronicos/",
+  "title": "Embalagem para Eletrônicos: TVs, monitores e placas protegidos",
+  "description": "Embalagem de proteção para eletrônicos: TVs, monitores, notebooks e placas. Impacto, vibração e estática sob controle — protocolos e materiais recomendados.",
+  "h1": "Embalagem para Eletrônicos: <em>impacto, vibração e estática</em> sob controle",
+  "lead": "Eletrônicos concentram os três riscos mais caros do transporte: telas que trincam com impacto, soldas que fadigam com vibração e componentes que queimam com eletricidade estática. O protocolo de proteção precisa responder aos três — sem inflar o cubo do frete.",
+  "eyebrow": "Segmento",
+  "breadcrumb": [["Início","/"],["Segmentos",null],["Eletrônicos",null]],
+  "og_image": "/img/eletronico-decoracao.webp",
+  "faq_topic": "embalagem para eletrônicos",
+  "wa_text": "Olá! Trabalho com eletrônicos e quero melhorar a proteção no transporte.",
+  "cta_title": "Sua taxa de DOA está acima de 1%?",
+  "cta_text": "Dead on arrival é quase sempre embalagem. O diagnóstico gratuito reconstrói a jornada dos seus produtos e ataca as causas.",
+  "faq": [
+    {"q":"Como embalar TV ou monitor para transporte?","a":"Protocolo de suspensão: manta de proteção na tela (superfície contínua, sem relevo), calços de almofada de ar nas laterais mantendo o produto flutuando no centro da caixa, e preenchimento superior. A tela nunca deve encostar em parede da caixa — e a caixa deve indicar posição vertical."},
+    {"q":"Plástico bolha serve para eletrônicos?","a":"Com ressalvas: a bolha comum gera eletricidade estática ao desenrolar e atritar — risco para placas e componentes expostos. Para eletrônica sensível, use materiais dissipativos (bolha ESD rosa) ou mantenha o componente em blindagem antiestática e use a proteção mecânica por fora."},
+    {"q":"Como proteger placas e componentes contra estática?","a":"Camada 1: blindagem ESD (saco metalizado ou dissipativo) — inegociável. Camada 2: proteção mecânica por fora da blindagem — almofadas de ar ou papel. Nunca material comum em contato direto com a placa."},
+    {"q":"O que causa DOA (dead on arrival) em eletrônicos?","a":"As causas dominantes são mecânicas e invisíveis: micro-trincas em soldas por vibração prolongada e impactos que não deixam marca externa. Produto solto na caixa é o vilão — imobilização total reduz DOA de forma mensurável."},
+    {"q":"Como reduzir o tamanho da caixa de eletrônicos sem perder proteção?","a":"Trocando materiais volumosos fixos (espuma cortada, isopor moldado) por calços de ar dimensionados: mesma distância de amortecimento com paredes mais próximas do produto. Menos cubo = menos frete — a economia paga a mudança."}
+  ],
+  "related": [
+    {"href":"/manta-de-protecao/","title":"Manta de Proteção","desc":"A camada anti-risco para telas e superfícies."},
+    {"href":"/almofada-de-ar/","title":"Almofada de Ar","desc":"Calços e travamento com peso desprezível."},
+    {"href":"/protecao-para-transporte/","title":"Proteção para Transporte","desc":"A jornada real da carga, etapa por etapa."},
+    {"href":"/embalagem-para-ecommerce/","title":"E-commerce","desc":"Proteção em escala para venda online."},
+    {"href":"/guias/como-reduzir-avarias-no-transporte/","title":"Reduzir Avarias","desc":"O método de 5 passos contra DOA e devoluções."},
+    {"href":"/embalagem-industrial/","title":"Embalagem Industrial","desc":"Eletrônica industrial, placas e equipamentos B2B."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>Os três inimigos do eletrônico em trânsito</h2>
+      <h3>Impacto: a trinca visível</h3>
+      <p>Telas e vidros trincam em quedas de esteira (60–100 cm, muitas vezes de quina). Resposta: <strong>distância de amortecimento</strong> — o produto suspenso no centro da caixa, com calços de <a href="/almofada-de-ar/">almofada de ar</a> dimensionados para o peso, e <a href="/manta-de-protecao/">manta</a> protegendo a superfície.</p>
+      <h3>Vibração: a falha invisível</h3>
+      <p>Horas de estrada fadigam soldas e conectores — o produto liga na expedição e chega morto (DOA) sem marca externa. Resposta: <strong>imobilização total</strong>. Produto que não se move não fadiga por ressonância.</p>
+      <h3>Estática: o assassino silencioso</h3>
+      <p>Componentes CMOS queimam com descargas que humanos nem sentem. Resposta: <strong>blindagem ESD primeiro</strong> (saco metalizado/dissipativo), proteção mecânica por fora. A ordem das camadas não é opcional.</p>
+
+      <h2>Protocolos por tipo de produto</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Protocolos típicos — ajustados no diagnóstico por produto e canal.</caption>
+          <thead>
+            <tr><th>Produto</th><th>Risco dominante</th><th>Protocolo</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>TVs e monitores</td><td>Trinca de tela</td><td>Manta na tela + calços laterais de ar + posição vertical</td></tr>
+            <tr><td>Notebooks e tablets</td><td>Impacto de quina</td><td>Envolvimento + suspensão central com almofadas</td></tr>
+            <tr><td>Placas e componentes</td><td>Estática + impacto</td><td>Blindagem ESD + <a href="/preenchimento-de-caixas/">void fill</a> externo</td></tr>
+            <tr><td>Eletrodomésticos</td><td>Amassado + risco</td><td>Manta nas faces + calços de <a href="/papel-kraft/">kraft</a> na base</td></tr>
+            <tr><td>Áudio e instrumentos</td><td>Vibração</td><td>Imobilização total + amortecimento perimetral</td></tr>
+            <tr><td>Acessórios leves</td><td>Movimento interno</td><td>Void fill de ar simples</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>O custo do cubo: por que espuma moldada saiu de moda</h2>
+      <p>Berços de espuma e isopor moldado protegem, mas cobram três vezes: ferramental caro por SKU, estoque volumoso do insumo e <strong>caixas grandes que pagam frete cubado</strong>. Calços de almofada de ar dimensionados entregam a mesma distância de amortecimento, chegam planos e servem múltiplos SKUs — a razão da migração em massa do setor. Para eletrônica pesada, o par com <a href="/papel-kraft/">calços de kraft</a> cobre a base.</p>
+
+      <h2>Refurbished, RMA e logística reversa</h2>
+      <p>Eletrônicos voltam: garantia, refurbished, recall. No fluxo reverso, quem embala é o cliente — sem protocolo e sem material. Operações maduras enviam <strong>kits de retorno</strong> (caixa + proteção pré-dimensionada + instrução) que reduzem drasticamente a avaria na volta. É parte do desenho que fazemos no <a href="/contato/">diagnóstico gratuito</a>.</p>
+    </div>
+  </div>
+</article>

@@ -1,0 +1,73 @@
+{
+  "path": "/comparativos/almofada-de-ar-vs-papel-kraft/",
+  "title": "Almofada de Ar vs Papel Kraft: void fill de ar ou de fibra?",
+  "description": "Almofada de ar ou papel kraft para preenchimento? Comparativo: custo por pedido, peso no frete, produtos pesados, plastic-free e o modelo híbrido das grandes operações.",
+  "h1": "Almofada de Ar <em>vs</em> Papel Kraft: o duelo do preenchimento",
+  "lead": "Quando o assunto é <strong>void fill e amortecimento</strong>, as duas rotas modernas são ar e fibra: almofadas infladas sob demanda ou papel kraft estruturado por máquina. Cada uma domina um território — e as grandes operações do país costumam usar as duas. Veja os números.",
+  "eyebrow": "Comparativo técnico",
+  "breadcrumb": [["Início","/"],["Comparativos","/comparativos/"],["Almofada de Ar vs Papel Kraft",null]],
+  "og_image": "/img/operacao-galpao.webp",
+  "page_type": "Article",
+  "faq_topic": "almofada de ar vs papel kraft",
+  "wa_text": "Olá! Estou em dúvida entre almofada de ar e papel kraft.",
+  "cta_title": "Seu mix tem produtos leves E pesados?",
+  "cta_text": "Então a resposta pode ser híbrida. A análise gratuita separa seu mix por função e devolve a arquitetura com custo por pedido.",
+  "faq": [
+    {"q":"O que é melhor: almofada de ar ou papel kraft?","a":"Para preenchimento de produtos leves e médios em volume, a almofada de ar vence em custo por pedido e peso de frete. Para amortecimento de produtos pesados, densos ou pontiagudos, os calços de papel kraft crimpado vencem em desempenho. Metas plastic-free decidem automaticamente pelo papel."},
+    {"q":"Papel kraft aguenta mais peso que almofada de ar?","a":"Em calços de amortecimento, sim: o papel crimpado em múltiplas camadas resiste à compressão e não 'estoura'. Almofadas de filme reforçado atendem bem até pesos médios; acima disso, o kraft estruturado é o padrão técnico."},
+    {"q":"Qual pesa menos no frete?","a":"A almofada de ar, com grande vantagem: gramas de filme por caixa contra dezenas ou centenas de gramas de papel. Em operações com frete cobrado por peso, essa diferença aparece direto na fatura mensal."},
+    {"q":"Qual é mais sustentável: papel ou almofada de ar?","a":"Fim de vida: papel (coleta comum). Massa de material e peso transportado: ar. A resposta honesta depende do critério da sua meta ambiental — o guia de embalagem sustentável detalha essa decisão."},
+    {"q":"As duas soluções exigem máquina?","a":"Para volume, sim: insuflador para o ar, paper system para o kraft (o amassado manual desperdiça 30-50% de papel). Ambos existem em comodato. Operações pequenas podem começar com dispensadores manuais de papel."}
+  ],
+  "related": [
+    {"href":"/almofada-de-ar/","title":"Almofada de Ar","desc":"A rota ar em detalhe."},
+    {"href":"/papel-kraft/","title":"Papel Kraft","desc":"A rota fibra em detalhe."},
+    {"href":"/maquina-de-papel/","title":"Máquina de Papel","desc":"O paper system que estrutura o kraft."},
+    {"href":"/comparativos/almofada-de-ar-vs-papel-colmeia/","title":"Ar vs Papel Colmeia","desc":"O outro duelo ar vs fibra, no envolvimento."},
+    {"href":"/embalagem-sustentavel/","title":"Embalagem Sustentável","desc":"Papel vs plástico com critérios objetivos."},
+    {"href":"/embalagem-industrial/","title":"Embalagem Industrial","desc":"Onde os calços de kraft são padrão."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>A tabela completa</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Void fill e amortecimento: ar vs fibra, critério a critério.</caption>
+          <thead>
+            <tr><th>Critério</th><th>Almofada de Ar</th><th>Papel Kraft (máquina)</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Custo por pedido (leves)</td><td class="hl yes">✅ Menor da categoria</td><td class="mid">⚠️ Médio</td></tr>
+            <tr><td>Amortecimento de pesados</td><td class="mid">⚠️ Filme reforçado até médio</td><td class="hl yes">✅ Calços densos imbatíveis</td></tr>
+            <tr><td>Peso adicionado ao pacote</td><td class="hl yes">✅ Gramas</td><td class="no">❌ Dezenas a centenas de g</td></tr>
+            <tr><td>Produtos pontiagudos</td><td class="no">❌ Risco de perfuração</td><td class="hl yes">✅ Imune</td></tr>
+            <tr><td>Velocidade (void fill)</td><td class="hl yes">✅ 12 m/min prontos</td><td class="yes">✅ Sob demanda rápido</td></tr>
+            <tr><td>Reciclagem na coleta comum</td><td class="mid">⚠️ Cadeia de flexíveis</td><td class="hl yes">✅ Sim</td></tr>
+            <tr><td>Meta plastic-free</td><td class="no">❌ Não atende</td><td class="hl yes">✅ Atende</td></tr>
+            <tr><td>Umidade / contêiner</td><td class="hl yes">✅ Imune</td><td class="mid">⚠️ Sensível saturado</td></tr>
+            <tr><td>Espaço de estoque (insumo)</td><td class="hl yes">✅ Bobina plana mínima</td><td class="yes">✅ Bobinas compactas</td></tr>
+            <tr><td>Estabilidade sob vibração</td><td class="yes">✅ Mantém volume</td><td class="yes">✅ Estruturado não colapsa</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>A régua de decisão por peso</h2>
+      <p>A regra prática que usamos nos diagnósticos (sempre validada por teste):</p>
+      <ul>
+        <li><strong>Até ~3 kg:</strong> almofada de ar padrão — custo mínimo, proteção sobrando.</li>
+        <li><strong>3–8 kg:</strong> almofada de filme reforçado ou kraft, conforme formato e quinas do produto.</li>
+        <li><strong>8 kg+:</strong> calços de <a href="/papel-kraft/">kraft crimpado</a> para amortecimento; ar apenas como complemento de preenchimento superior.</li>
+        <li><strong>Qualquer peso com pontas/arestas vivas:</strong> kraft — filme inflado não convive com perfuração.</li>
+      </ul>
+
+      <h2>O modelo híbrido das grandes operações</h2>
+      <p>Nos centros de distribuição mais eficientes, a pergunta "ar ou papel?" foi substituída por "qual estação usa qual?": linhas de leves com <a href="/maquina-de-almofada-de-ar/">insufladores</a> e funis; linhas de pesados com <a href="/maquina-de-papel/">máquinas de kraft</a>; frágeis premium com <a href="/papel-colmeia/">colmeia</a> no envolvimento. O roteamento por família de produto é parte do projeto de <a href="/automacao-de-embalagem/">automação de embalagem</a>.</p>
+
+      <h2>E o critério ambiental?</h2>
+      <p>Se a meta é <strong>plastic-free declarada</strong>, o kraft decide sozinho. Se a meta é <strong>menor pegada mensurável</strong>, a conta fica interessante: o ar usa menos massa de material e pesa menos no transporte; o papel vence no fim de vida. Fizemos essa análise em profundidade no guia de <a href="/embalagem-sustentavel/">embalagem sustentável</a> — e a resposta para a sua operação, com números, sai na <a href="/contato/">análise gratuita</a>.</p>
+    </div>
+  </div>
+</article>

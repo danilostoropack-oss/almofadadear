@@ -1,0 +1,71 @@
+{
+  "path": "/plastico-bolha/",
+  "title": "Plástico Bolha: para que serve, limitações e alternativas modernas",
+  "description": "Plástico bolha (bubble wrap): como funciona, para que serve, limitações de custo e estoque, e as alternativas modernas — almofada de ar, papel colmeia e manta.",
+  "h1": "Plástico Bolha: o clássico da proteção — e <em>quando ele deixou de ser a melhor opção</em>",
+  "lead": "O <strong>plástico bolha</strong> (bubble wrap) protegeu o mundo por décadas e ainda tem seu lugar. Mas para operações com volume, ele carrega custos invisíveis: estoque gigante, frete de ar pré-inflado e produtividade baixa. Entenda como funciona, onde ainda faz sentido e o que o substituiu.",
+  "eyebrow": "Material",
+  "breadcrumb": [["Início","/"],["Embalagem de Proteção","/embalagem-de-protecao/"],["Plástico Bolha",null]],
+  "og_image": "/unboxing.webp",
+  "faq_topic": "plástico bolha",
+  "wa_text": "Olá! Uso plástico bolha e quero avaliar alternativas.",
+  "cta_title": "Sua operação ainda depende de plástico bolha?",
+  "cta_text": "A análise gratuita compara seu custo atual com as alternativas sob demanda — material, espaço, tempo e avarias na mesma conta.",
+  "faq": [
+    {"q":"Para que serve o plástico bolha?","a":"Para envolver produtos e amortecer impactos: as bolhas de ar criam um colchão entre o produto e o mundo. É eficaz para envolvimento avulso e baixo volume — o problema aparece na escala, quando estoque, frete e tempo de corte pesam no custo por pedido."},
+    {"q":"Quais são as desvantagens do plástico bolha?","a":"Ele chega pré-inflado: você paga frete e armazena rolos que são 99% ar. Corte e fita consomem tempo por caixa. As bolhas estouram e perdem proteção ao longo do trajeto. E a reciclagem prática é difícil — o filme com bolhas raramente entra na cadeia de reciclagem."},
+    {"q":"O que usar no lugar do plástico bolha?","a":"Depende da função: para preencher vazios, almofada de ar sob demanda; para envolver com apresentação, papel colmeia; para amortecimento contínuo de superfícies, manta multicâmara inflada na hora. Todas armazenam planas e são produzidas no ponto de uso."},
+    {"q":"Plástico bolha é reciclável?","a":"Tecnicamente é polietileno reciclável, mas na prática a taxa de reciclagem é baixa: o material volumoso, muitas vezes com fita colada, raramente é aceito na coleta e ocupa muito espaço nos pontos de entrega por pouco peso de plástico."},
+    {"q":"Quando o plástico bolha ainda é a escolha certa?","a":"Em operações muito pequenas (poucas caixas por semana), sem escala para justificar equipamento, e no envolvimento eventual de itens avulsos. Nesses casos o rolo comprado pronto ainda é a solução mais simples."}
+  ],
+  "related": [
+    {"href":"/substituto-do-plastico-bolha/","title":"Substituto do Plástico Bolha","desc":"Todas as alternativas modernas organizadas por função."},
+    {"href":"/comparativos/almofada-de-ar-vs-plastico-bolha/","title":"Almofada de Ar vs Plástico Bolha","desc":"O comparativo completo, número a número."},
+    {"href":"/comparativos/papel-colmeia-vs-plastico-bolha/","title":"Papel Colmeia vs Plástico Bolha","desc":"A alternativa 100% papel frente ao clássico."},
+    {"href":"/almofada-de-ar/","title":"Almofada de Ar","desc":"O sucessor direto para preenchimento e travamento."},
+    {"href":"/papel-colmeia/","title":"Papel Colmeia","desc":"Envolvimento premium, reciclável na coleta comum."},
+    {"href":"/cushion-film/","title":"Cushion Film","desc":"A manta multicâmara: a 'bolha' inflada sob demanda."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>Como o plástico bolha funciona</h2>
+      <p>Inventado em 1957 (originalmente como papel de parede!), o <strong>plástico bolha</strong> é um filme de polietileno com bolhas de ar seladas em intervalos regulares. Cada bolha é um pequeno amortecedor: sob impacto, o ar comprime e dissipa energia. Simples, visual e eficaz — não à toa virou sinônimo de proteção.</p>
+      <p>O modelo de negócio, porém, envelheceu: as bolhas são infladas <em>na fábrica</em>, e a partir dali você transporta e armazena ar. Um rolo de bolha é ~99% ar e 1% plástico ocupando espaço de caminhão e galpão.</p>
+
+      <h2>A conta que a escala revela</h2>
+      <ul>
+        <li><strong>Estoque:</strong> material para algumas semanas de expedição pode consumir posições inteiras de porta-pallet. A mesma proteção em <a href="/cushion-film/">bobinas de filme plano</a> ocupa 97% menos espaço.</li>
+        <li><strong>Frete de insumo:</strong> cada reposição transporta volume — pagando frete cubado sobre ar.</li>
+        <li><strong>Tempo por caixa:</strong> desenrolar, cortar, envolver, prender com fita. Contra segundos para sacar <a href="/almofada-de-ar/">almofadas prontas</a> de um funil.</li>
+        <li><strong>Perda de proteção em trânsito:</strong> bolhas estouram sob pressão e manuseio; a proteção que sai da expedição não é a que chega ao cliente.</li>
+        <li><strong>Descarte para o cliente:</strong> volume grande, reciclagem difícil e percepção ambiental cada vez pior.</li>
+      </ul>
+
+      <h2>As alternativas por função</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>O que substitui o plástico bolha em cada função.</caption>
+          <thead>
+            <tr><th>Função que a bolha fazia</th><th>Substituto moderno</th><th>Ganho principal</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Preencher vazios da caixa</td><td><a href="/almofada-de-ar/">Almofada de ar</a></td><td>Custo/pedido e produtividade</td></tr>
+            <tr><td>Envolver produtos</td><td><a href="/papel-colmeia/">Papel colmeia</a></td><td>Sem fita, unboxing premium, coleta comum</td></tr>
+            <tr><td>Amortecer superfícies</td><td><a href="/cushion-film/">Manta multicâmara sob demanda</a></td><td>Mesma física, sem estoque de ar</td></tr>
+            <tr><td>Proteger acabamentos delicados</td><td><a href="/manta-de-protecao/">Manta de proteção</a></td><td>Sem marca de bolha na superfície</td></tr>
+            <tr><td>Amortecer peças pesadas</td><td><a href="/papel-kraft/">Papel kraft crimpado</a></td><td>Não estoura, não cede</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>Um detalhe que poucos sabem: a marca da bolha</h2>
+      <p>Superfícies de alto brilho, couro e lacas podem sair do transporte com o <em>padrão das bolhas impresso</em> — a pressão concentrada no topo de cada bolha marca acabamentos sensíveis. É um tipo de avaria estética que gera devolução mesmo com o produto funcionalmente intacto. Para esses produtos, materiais de superfície contínua (<a href="/manta-de-protecao/">manta</a>) ou <a href="/papel-colmeia/">papel colmeia</a> eliminam o risco.</p>
+
+      <h2>Vale trocar? Faça a conta completa</h2>
+      <p>A comparação justa soma material + espaço de estoque + frete de insumo + tempo por caixa + avarias. Fizemos essa conta em detalhe no comparativo <a href="/comparativos/almofada-de-ar-vs-plastico-bolha/">Almofada de Ar vs Plástico Bolha</a> — e a versão com os números da sua operação sai na <a href="/contato/">análise gratuita</a>.</p>
+    </div>
+  </div>
+</article>

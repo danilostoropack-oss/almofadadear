@@ -1,0 +1,72 @@
+{
+  "path": "/embalagem-sustentavel/",
+  "title": "Embalagem Sustentável: papel, plástico reciclável e a decisão certa",
+  "description": "Embalagem sustentável sem greenwashing: compare papel colmeia, kraft e almofada de ar reciclável por pegada real de material, reciclabilidade e custo. Guia completo.",
+  "h1": "Embalagem Sustentável: a decisão certa <em>sem greenwashing</em>",
+  "lead": "Sustentabilidade em embalagem não é escolher 'papel porque é verde' — é medir <strong>pegada de material, reciclabilidade real e desperdício evitado</strong>. Este guia compara as rotas (papel, plástico reciclável, híbridos) com critérios objetivos, para a decisão resistir a auditoria e a cliente exigente.",
+  "eyebrow": "Guia",
+  "breadcrumb": [["Início","/"],["Embalagem de Proteção","/embalagem-de-protecao/"],["Embalagem Sustentável",null]],
+  "og_image": "/img/colmeia2.webp",
+  "faq_topic": "embalagem sustentável",
+  "wa_text": "Olá! Quero tornar minha embalagem mais sustentável sem perder proteção.",
+  "cta_title": "Sua meta é ESG, plastic-free ou redução de custo?",
+  "cta_text": "As três combinam mais do que parece. O diagnóstico gratuito mostra a rota sustentável com o número de custo por pedido ao lado.",
+  "faq": [
+    {"q":"Qual é a embalagem de proteção mais sustentável?","a":"Depende do critério. Por reciclabilidade prática: papel (colmeia ou kraft), que vai para a coleta comum. Por menor massa de material por pedido: almofada de ar — gramas de filme para litros de proteção. Por reuso: colmeia plástica em fluxos fechados. A resposta séria cruza o critério com a sua operação."},
+    {"q":"Papel é sempre mais sustentável que plástico?","a":"Não automaticamente. O papel é mais pesado (mais emissão de frete) e consome mais massa de material por pedido. O plástico filme é mais leve, porém sua taxa de reciclagem real no Brasil é menor. A análise honesta compara massa, transporte, fim de vida e desperdício evitado — não apenas o material da etiqueta."},
+    {"q":"O que é EPR e por que afeta minha embalagem?","a":"EPR (responsabilidade estendida do produtor) e a Política Nacional de Resíduos Sólidos atribuem às empresas responsabilidade pelo ciclo de vida das embalagens, incluindo logística reversa. Materiais de reciclagem fácil e cadeias estruturadas (papel, PE) simplificam a conformidade."},
+    {"q":"Almofada de ar pode ser considerada sustentável?","a":"Ela usa pouquíssimo material (o conteúdo é 97-99% ar), é de polietileno reciclável e existem versões com resina reciclada. Para quem mede pegada por pedido, costuma vencer materiais volumosos. Para quem tem meta plastic-free declarada, a rota é papel."},
+    {"q":"Embalagem sustentável custa mais caro?","a":"Nem sempre. Migrar de plástico bolha ou isopor para sistemas sob demanda (ar ou papel) frequentemente reduz custo e melhora o perfil ambiental ao mesmo tempo — menos material, menos estoque, menos frete de insumo. O caso específico sai na simulação gratuita."}
+  ],
+  "related": [
+    {"href":"/papel-colmeia/","title":"Papel Colmeia","desc":"Envolvimento 100% papel, reciclável na coleta comum."},
+    {"href":"/papel-kraft/","title":"Papel Kraft","desc":"Void fill e amortecimento plastic-free."},
+    {"href":"/almofada-de-ar/","title":"Almofada de Ar","desc":"A menor massa de material por pedido, em PE reciclável."},
+    {"href":"/comparativos/papel-colmeia-vs-plastico-bolha/","title":"Colmeia vs Plástico Bolha","desc":"O confronto sustentabilidade x legado."},
+    {"href":"/substituto-do-plastico-bolha/","title":"Substituto do Plástico Bolha","desc":"Todas as alternativas modernas organizadas."},
+    {"href":"/embalagem-para-ecommerce/","title":"E-commerce","desc":"Sustentabilidade que o cliente percebe no unboxing."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>Os três critérios que separam sustentabilidade de marketing</h2>
+      <h3>1. Massa de material por pedido</h3>
+      <p>Quantos gramas de material a proteção consome por caixa expedida? Uma <a href="/almofada-de-ar/">almofada de ar</a> usa poucos gramas de filme para gerar litros de proteção; papel amassado à mão pode usar dez vezes mais massa para o mesmo volume. Menos material = menos extração, menos transporte, menos resíduo.</p>
+      <h3>2. Fim de vida real (não teórico)</h3>
+      <p>"Reciclável" no laboratório é diferente de reciclado na prática. Papel kraft e <a href="/papel-colmeia/">colmeia</a> vão para a coleta comum com taxa de reciclagem alta no Brasil. Filmes PE são recicláveis na cadeia de flexíveis, mas dependem de pontos de entrega. Isopor e espumas raramente têm rota viável.</p>
+      <h3>3. Desperdício evitado</h3>
+      <p>A embalagem mais insustentável é a que falha: produto avariado = produto fabricado duas vezes + duas viagens de frete. Proteção corretamente dimensionada é política ambiental — cada avaria evitada economiza toda a pegada de reposição.</p>
+
+      <h2>As rotas sustentáveis comparadas</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Comparativo ambiental e operacional das rotas de proteção.</caption>
+          <thead>
+            <tr><th>Critério</th><th>Papel (kraft/colmeia)</th><th>Almofada de ar (PE)</th><th>Colmeia plástica (reuso)</th><th>Bolha/Isopor (legado)</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Reciclagem na coleta comum</td><td class="yes">✅ Sim</td><td class="mid">⚠️ Cadeia de flexíveis</td><td class="mid">⚠️ Ao fim dos ciclos</td><td class="no">❌ Raramente</td></tr>
+            <tr><td>Massa de material/pedido</td><td class="mid">⚠️ Média-alta</td><td class="yes">✅ Mínima</td><td class="yes">✅ Diluída no reuso</td><td class="no">❌ Alta</td></tr>
+            <tr><td>Peso no frete</td><td class="mid">⚠️ Relevante</td><td class="yes">✅ Desprezível</td><td class="mid">⚠️ Médio</td><td class="mid">⚠️ Leve</td></tr>
+            <tr><td>Conteúdo reciclado disponível</td><td class="yes">✅ Sim + FSC</td><td class="yes">✅ Versões PCR</td><td class="mid">⚠️ Parcial</td><td class="no">❌ Raro</td></tr>
+            <tr><td>Percepção do consumidor</td><td class="yes">✅ Excelente</td><td class="mid">⚠️ Neutra</td><td class="mid">⚠️ Técnica</td><td class="no">❌ Negativa</td></tr>
+            <tr><td>Meta plastic-free</td><td class="yes">✅ Atende</td><td class="no">❌ Não</td><td class="no">❌ Não</td><td class="no">❌ Não</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>Como escolher a sua rota</h2>
+      <h3>Se a marca declara plastic-free</h3>
+      <p>Rota papel completa: <a href="/papel-colmeia/">colmeia</a> no envolvimento, <a href="/papel-kraft/">kraft</a> no preenchimento — automatizado por <a href="/maquina-de-papel/">máquina de papel</a> a partir de médio volume para controlar consumo.</p>
+      <h3>Se a meta é reduzir pegada com custo mínimo</h3>
+      <p>Almofada de ar com filme PCR (conteúdo reciclado): mínima massa por pedido, custo por pedido mais baixo da categoria e mensagem ambiental defensável — desde que comunicada com precisão ("filme reciclável com conteúdo reciclado", não "embalagem ecológica" genérica).</p>
+      <h3>Se há fluxo fechado (B2B, interplantas)</h3>
+      <p>Reuso vence descarte: <a href="/colmeia-plastica/">colmeia plástica</a> retornável dilui a pegada por dezenas de ciclos.</p>
+
+      <h2>Comunicação sem greenwashing</h2>
+      <p>O CONAR e o consumidor punem alegações vagas. Regras práticas: nomeie o material ("papel kraft 100% reciclável na coleta comum"), evite absolutos ("eco", "verde", "amigo da natureza"), e prefira números auditáveis ("–40% de massa de embalagem por pedido desde 2025"). Sustentabilidade específica converte; genérica gera desconfiança.</p>
+    </div>
+  </div>
+</article>

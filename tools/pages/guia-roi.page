@@ -1,0 +1,83 @@
+{
+  "path": "/guias/custo-e-roi-da-embalagem/",
+  "title": "Custo e ROI da Embalagem: como calcular o custo real por pedido",
+  "description": "Como calcular o custo real da embalagem por pedido (material + tempo + espaço + frete + avarias) e o ROI da automação. Planilha mental completa com exemplos.",
+  "h1": "Custo e ROI da Embalagem: <em>a conta que ninguém faz</em> (e deveria)",
+  "lead": "A maioria das operações conhece o preço do metro de material — e ignora 60% do custo real da embalagem: tempo, espaço, frete de insumo e avarias. Este guia entrega a <strong>estrutura de custo completa</strong> e o método para calcular o retorno de qualquer mudança, da troca de material à automação.",
+  "eyebrow": "Guia prático",
+  "breadcrumb": [["Início","/"],["Guias",null],["Custo e ROI da Embalagem",null]],
+  "og_image": "/img/producao.webp",
+  "page_type": "Article",
+  "faq_topic": "custo e ROI da embalagem",
+  "wa_text": "Olá! Quero calcular o custo real da minha embalagem.",
+  "cta_title": "Quer essa conta feita com os seus números?",
+  "cta_text": "A análise gratuita levanta as 5 parcelas do seu custo atual e simula os cenários de mudança — material e automação.",
+  "faq": [
+    {"q":"Quanto custa a embalagem por pedido?","a":"A conta completa tem 5 parcelas: material consumido + tempo de embalagem (minutos × custo/hora) + espaço de estoque do insumo + frete de reposição do insumo + custo esperado de avarias (frequência × custo total da avaria). Em operações não otimizadas, o material é minoria dessa soma."},
+    {"q":"Como calcular o ROI de uma máquina de embalagem?","a":"ROI = economia mensal ÷ investimento. A economia soma: redução de material (sob demanda consome menos), redução de tempo por caixa, espaço de estoque liberado e avarias evitadas. Com comodato, o investimento inicial é zero e o retorno é imediato se a economia supera o custo mensal."},
+    {"q":"O que é mais caro: o material ou o tempo de embalagem?","a":"Em operações manuais com volume, frequentemente o tempo: 3-4 minutos de preparo por caixa a custo de operador supera o custo do material da mesma caixa. É por isso que produtividade é critério central na escolha — não apenas o preço do metro."},
+    {"q":"Quanto custa uma avaria de verdade?","a":"Entre 3 e 5 vezes o valor aparente: produto + frete perdido + frete de retorno + reenvio + atendimento + dano à reputação (avaliações, penalidades de marketplace). Subestimar essa parcela é o erro mais comum na conta da embalagem."},
+    {"q":"Embalagem melhor sempre custa mais?","a":"Não — é o achado mais frequente dos diagnósticos: trocar material errado em excesso por material certo dimensionado reduz custo e avaria simultaneamente. O caso típico: migrar de plástico bolha ou flocos para sistemas sob demanda economiza 30-40% já na parcela de material."}
+  ],
+  "related": [
+    {"href":"/guias/como-escolher-embalagem-de-protecao/","title":"Como Escolher","desc":"Os 6 critérios — o custo total é o sexto."},
+    {"href":"/guias/como-reduzir-avarias-no-transporte/","title":"Reduzir Avarias","desc":"Atacando a parcela mais cara da conta."},
+    {"href":"/automacao-de-embalagem/","title":"Automação","desc":"Onde o ROI da embalagem costuma ser maior."},
+    {"href":"/maquina-de-almofada-de-ar/","title":"Máquina de Almofada de Ar","desc":"Compra vs comodato: as duas contas."},
+    {"href":"/comparativos/","title":"Comparativos","desc":"Materiais lado a lado por custo total."},
+    {"href":"/contato/","title":"Análise Gratuita","desc":"As 5 parcelas calculadas na sua operação."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>As 5 parcelas do custo real</h2>
+      <h3>1. Material (a única que todo mundo conhece)</h3>
+      <p>Consumo por caixa × custo unitário. Atenção à pegadinha: compare <strong>consumo para a mesma proteção</strong>, não metro contra metro — materiais que imobilizam mal exigem mais volume para o mesmo resultado.</p>
+      <h3>2. Tempo de embalagem (a parcela escondida no salário)</h3>
+      <p>Minutos por caixa × custo/hora do operador (salário + encargos). Cronometre uma tarde: preparar proteção manual (cortar bolha, amassar papel) consome de 1 a 4 minutos por caixa. A 300 caixas/dia, são horas diárias de payroll viradas confete.</p>
+      <h3>3. Espaço de estoque (o aluguel do ar)</h3>
+      <p>Posições de pallet ocupadas por insumo × custo do m² do galpão. Materiais pré-inflados (bolha, flocos) são 97–99% ar estocado. Bobinas planas de <a href="/cushion-film/">cushion film</a> ou <a href="/papel-kraft/">kraft</a> devolvem esse espaço à operação.</p>
+      <h3>4. Frete do insumo</h3>
+      <p>Reposições mensais transportando volume: sacos de flocos e rolos de bolha pagam frete cubado sobre ar. Insumos densos chegam mais baratos e com menos frequência.</p>
+      <h3>5. Avarias (a parcela que explode a conta)</h3>
+      <p>Frequência mensal × custo total por ocorrência (produto + 3 fretes + SAC + reputação ≈ 3–5x o valor aparente). Uma operação com 1% de avaria em 5.000 pedidos/mês perde 50 produtos — a conta anual costuma chocar. Método de redução no <a href="/guias/como-reduzir-avarias-no-transporte/">guia de avarias</a>.</p>
+
+      <h2>Exemplo ilustrativo: a conta de uma operação de 200 pedidos/dia</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Cenário ilustrativo comparando bolha manual vs almofada sob demanda. Os números da SUA operação saem no diagnóstico.</caption>
+          <thead>
+            <tr><th>Parcela (mensal)</th><th>Plástico bolha manual</th><th>Almofada sob demanda</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Material</td><td>Referência</td><td class="yes">▼ 30–40%</td></tr>
+            <tr><td>Tempo de embalagem</td><td>~2,5 min/caixa</td><td class="yes">▼ para segundos</td></tr>
+            <tr><td>Espaço de estoque</td><td>Múltiplas posições de pallet</td><td class="yes">▼ ~97%</td></tr>
+            <tr><td>Frete de insumo</td><td>Volumoso, frequente</td><td class="yes">▼ Bobinas densas</td></tr>
+            <tr><td>Avarias</td><td>Variável por operador</td><td class="yes">▼ Protocolo padronizado</td></tr>
+            <tr><td>Equipamento</td><td>—</td><td class="mid">+ Comodato/locação mensal</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>O padrão que se repete nos diagnósticos: a linha do equipamento entra, todas as outras caem — e o total mensal fecha menor já no primeiro mês em operações a partir de algumas dezenas de pedidos/dia.</p>
+
+      <h2>Calculando o ROI de uma mudança</h2>
+      <ol>
+        <li><strong>Fotografe o hoje:</strong> as 5 parcelas do custo atual, por mês. Sem esse baseline, nenhum ROI é real.</li>
+        <li><strong>Simule o cenário novo:</strong> consumo estimado (fornecedor sério fornece), tempo cronometrado em piloto, espaço e frete do novo insumo, avaria projetada.</li>
+        <li><strong>Economia mensal = hoje − cenário novo.</strong></li>
+        <li><strong>ROI:</strong> com compra de equipamento, payback = investimento ÷ economia mensal (bons projetos: 3–12 meses). Com comodato, investimento ≈ zero: se a economia supera a mensalidade, o retorno é imediato.</li>
+      </ol>
+
+      <h2>Os três erros clássicos da conta</h2>
+      <ul>
+        <li><strong>Comparar preço por metro</strong> entre materiais de rendimento diferente — compare custo por caixa protegida.</li>
+        <li><strong>Ignorar o pico:</strong> dimensione para a Black Friday, não para a média — hora extra e avaria de pico são caríssimas.</li>
+        <li><strong>Esquecer a reputação:</strong> avaliação negativa e penalidade de marketplace não aparecem no ERP, mas derrubam vendas futuras. Inclua uma estimativa conservadora.</li>
+      </ul>
+      <p>Prefere a conta pronta? A <a href="/contato/">análise gratuita</a> levanta as 5 parcelas com você — por telefone ou visita — e devolve a simulação dos cenários.</p>
+    </div>
+  </div>
+</article>

@@ -1,0 +1,75 @@
+{
+  "path": "/protecao-para-transporte/",
+  "title": "Proteção para Transporte: como blindar produtos na logística",
+  "description": "Proteção para transporte de mercadorias: impacto, vibração, compressão e umidade — os riscos de cada modal e os sistemas que garantem entrega sem avarias.",
+  "h1": "Proteção para Transporte: o que acontece com sua carga <em>depois que a caixa fecha</em>",
+  "lead": "Entre a expedição e a entrega, cada pacote enfrenta quedas, horas de vibração, toneladas de empilhamento e variações de clima. Entender <strong>a jornada real da carga</strong> — por modal e por etapa — é o que permite dimensionar proteção que funciona no mundo, não só na bancada.",
+  "eyebrow": "Guia",
+  "breadcrumb": [["Início","/"],["Embalagem de Proteção","/embalagem-de-protecao/"],["Proteção para Transporte",null]],
+  "og_image": "/img/operacao-galpao.webp",
+  "faq_topic": "proteção para transporte",
+  "wa_text": "Olá! Quero proteger melhor meus produtos no transporte.",
+  "cta_title": "Sabe qual etapa da jornada danifica seus produtos?",
+  "cta_text": "O diagnóstico gratuito reconstrói a jornada da sua carga e aponta onde a proteção atual falha — antes de recomendar qualquer material.",
+  "faq": [
+    {"q":"Quais são os principais riscos ao produto durante o transporte?","a":"Quatro: impacto (quedas em manuseio e esteiras, tipicamente de 60 a 100 cm), vibração contínua (estrada e esteiras), compressão (empilhamento em pallets e veículos) e ambiente (umidade, calor, poeira). Cada um exige uma resposta diferente da embalagem."},
+    {"q":"Qual a altura de queda que a embalagem deve suportar?","a":"O padrão de projeto para encomendas individuais é queda de 76 a 100 cm em qualquer face — a faixa das esteiras de triagem e do manuseio manual. Produtos de maior valor ou fragilidade são dimensionados com margem extra e testados nas quinas, as regiões mais vulneráveis."},
+    {"q":"Por que produtos chegam quebrados mesmo com muita proteção?","a":"Quase sempre por movimento interno: o material envolve o produto mas não o imobiliza, e a vibração o desloca até criar espaço para acelerar nos impactos. Proteção correta trava o produto no centro da caixa — imobilização vale mais que camadas."},
+    {"q":"Transporte por transportadora exige embalagem diferente do motoboy?","a":"Sim. Redes de transportadoras envolvem esteiras automáticas, múltiplas transferências e empilhamento alto — mais impacto e compressão. Last mile próprio tem menos manuseios, porém mais vibração urbana. O dimensionamento considera a cadeia real de cada canal."},
+    {"q":"Como proteger cargas de exportação?","a":"Trajetos multimodais de semanas exigem: material que retenha proteção por todo o período (filmes premium ou papel), travamento redundante contra vibração prolongada, barreira contra umidade em contêiner e conformidade fitossanitária (papel e PE dispensam os tratamentos exigidos para madeira)."}
+  ],
+  "related": [
+    {"href":"/guias/como-reduzir-avarias-no-transporte/","title":"Como Reduzir Avarias","desc":"O método de 5 passos, do diagnóstico à auditoria."},
+    {"href":"/preenchimento-de-caixas/","title":"Void Fill","desc":"A técnica de imobilização que elimina o movimento interno."},
+    {"href":"/embalagem-industrial/","title":"Embalagem Industrial","desc":"Proteção para cargas B2B, interplantas e exportação."},
+    {"href":"/almofada-de-ar/","title":"Almofada de Ar","desc":"Amortecimento e travamento produzidos sob demanda."},
+    {"href":"/colmeia-plastica/","title":"Colmeia Plástica","desc":"Proteção 360° para os itens mais críticos."},
+    {"href":"/embalagem-de-protecao/","title":"Embalagem de Proteção","desc":"O guia-mãe da categoria."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>A jornada real de um pacote</h2>
+      <p>O mapa típico de uma encomenda por transportadora no Brasil: coleta → hub de origem (esteira + triagem) → transferência rodoviária de horas → hub de destino (nova esteira) → base de última milha → veículo de entrega → cliente. São <strong>6 a 12 manuseios</strong> e centenas de quilômetros de vibração. A embalagem que só considera "queda na entrega" ignora 90% da jornada.</p>
+
+      <h2>Os riscos, etapa por etapa</h2>
+      <h3>Esteiras e triagem: impacto</h3>
+      <p>Quedas de 60–100 cm em rampas e transbordos, muitas vezes de quina. Resposta: <strong>amortecimento</strong> nas seis faces e reforço nas quinas — <a href="/almofada-de-ar/">almofadas de ar</a>, <a href="/papel-kraft/">calços de papel crimpado</a> ou <a href="/manta-de-protecao/">manta</a>.</p>
+      <h3>Rodovia: vibração</h3>
+      <p>Horas de micro-choques a 5–30 Hz. O produto solto "caminha" dentro da caixa, o papel amassado à mão colapsa, flocos de isopor migram para o fundo. Resposta: <strong>imobilização</strong> com material que mantém volume — o critério em que os sistemas sob demanda mais se destacam.</p>
+      <h3>Pallet e veículo: compressão</h3>
+      <p>Caixas na base do empilhamento suportam o peso de toda a coluna. Resposta: caixa íntegra + void fill estruturado que trabalha como coluna interna de sustentação.</p>
+      <h3>Clima: umidade e temperatura</h3>
+      <p>Contêineres chegam a 60 °C e alta umidade. Papel perde rigidez saturado; filmes técnicos mantêm desempenho. Em exportação, barreiras e dessecantes completam o sistema.</p>
+
+      <h2>Matriz modal × proteção</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Prioridades de proteção por modal de transporte.</caption>
+          <thead>
+            <tr><th>Modal</th><th>Risco dominante</th><th>Prioridade da embalagem</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Transportadora (rede)</td><td>Impacto em esteiras</td><td>Amortecimento 6 faces + quinas</td></tr>
+            <tr><td>Rodoviário direto</td><td>Vibração prolongada</td><td>Imobilização total (block &amp; brace)</td></tr>
+            <tr><td>Last mile urbano</td><td>Manuseio + vibração</td><td>Travamento + envolvimento anti-risco</td></tr>
+            <tr><td>Marítimo (exportação)</td><td>Compressão + umidade + tempo</td><td>Retenção de longa duração + barreira</td></tr>
+            <tr><td>Aéreo</td><td>Manuseio rápido + pressão</td><td>Amortecimento + válvulas de filme estáveis</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>Os três princípios do dimensionamento</h2>
+      <ol>
+        <li><strong>Imobilizar antes de amortecer.</strong> Movimento interno causa mais avaria que impacto externo. Primeiro trave o produto no centro da caixa; depois dimensione o colchão.</li>
+        <li><strong>Proteger as quinas.</strong> As quedas reais acontecem de quina — onde a energia se concentra em área mínima. Protocolos de quina evitam a maioria das trincas "inexplicáveis".</li>
+        <li><strong>Dimensionar para a pior etapa, não para a média.</strong> A embalagem que sobrevive à esteira do hub sobrevive ao resto. Descubra qual é a pior etapa da sua cadeia — o diagnóstico faz exatamente isso.</li>
+      </ol>
+
+      <h2>Teste antes de escalar</h2>
+      <p>Antes de trocar o material de milhares de pedidos, valide: envie caixas-teste pela cadeia real (com produto sacrificável ou data logger), aplique o shake test no protocolo novo e acompanhe o índice de avarias das primeiras semanas. O método completo, com indicadores, está no guia <a href="/guias/como-reduzir-avarias-no-transporte/">como reduzir avarias no transporte</a>.</p>
+    </div>
+  </div>
+</article>

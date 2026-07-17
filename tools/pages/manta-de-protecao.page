@@ -1,0 +1,76 @@
+{
+  "path": "/manta-de-protecao/",
+  "title": "Manta de Proteção para Embalagem: amortecimento para peças sensíveis",
+  "description": "Manta de proteção para embalagem: amortecimento de superfícies, preenchimento e proteção contra riscos para eletrônicos, móveis, vidros e peças de alto valor.",
+  "h1": "Manta de Proteção: <em>amortecimento de superfície</em> para produtos sensíveis",
+  "lead": "A <strong>manta de proteção</strong> é a camada de amortecimento que fica entre o produto e o mundo: absorve impactos, evita riscos e preenche espaços em um único material flexível. É a escolha para eletrônicos, móveis, vidros e peças de acabamento delicado.",
+  "eyebrow": "Solução",
+  "breadcrumb": [["Início","/"],["Soluções","/solucoes/"],["Manta de Proteção",null]],
+  "og_image": "/img/prod-manta-eletronicos.webp",
+  "faq_topic": "manta de proteção",
+  "wa_text": "Olá! Quero saber mais sobre manta de proteção para minha operação.",
+  "cta_title": "Produto sensível a riscos e impactos?",
+  "cta_text": "Análise gratuita: indicamos a manta certa — ou a combinação de materiais — para o seu produto chegar intacto.",
+  "schema": [
+    {"@type":"Product","name":"Manta de Proteção para Embalagem","description":"Manta flexível de amortecimento para proteção de superfícies, preenchimento e prevenção de riscos em produtos sensíveis no transporte.","image":"https://www.almofadadear.com.br/img/prod-manta-eletronicos.webp","brand":{"@type":"Brand","name":"Almofada de Ar"},"category":"Embalagem de Proteção"}
+  ],
+  "faq": [
+    {"q":"O que é manta de proteção para embalagem?","a":"É um material flexível de amortecimento fornecido em bobinas ou mantas, usado para envolver superfícies, forrar caixas e proteger produtos contra impactos, riscos e abrasão durante o transporte."},
+    {"q":"Qual a diferença entre manta de proteção e plástico bolha?","a":"A manta oferece amortecimento contínuo e uniforme, sem o relevo das bolhas — que pode marcar superfícies delicadas sob pressão. Também resiste melhor a múltiplos impactos, enquanto a bolha perde proteção quando estoura."},
+    {"q":"Manta de proteção serve para eletrônicos?","a":"Sim, é uma das aplicações principais: TVs, monitores, notebooks e placas são protegidos com mantas nas laterais e superfícies, muitas vezes combinadas com almofadas de ar para travamento na caixa."},
+    {"q":"A manta de proteção risca superfícies brilhantes?","a":"Não — esse é justamente seu diferencial. A superfície lisa e macia da manta protege acabamentos de alto brilho, telas, cromados e lacas, onde materiais texturizados poderiam causar micro-riscos."},
+    {"q":"Manta de proteção ou colmeia plástica: qual usar?","a":"Manta para superfícies planas e amortecimento contínuo (telas, painéis, móveis); colmeia para formas irregulares que precisam de proteção 360° (faróis, luminárias). Produtos complexos costumam combinar as duas."}
+  ],
+  "related": [
+    {"href":"/segmentos/eletronicos/","title":"Embalagem para Eletrônicos","desc":"TVs, monitores e placas protegidos contra impacto e eletricidade estática."},
+    {"href":"/segmentos/moveis-e-decoracao/","title":"Móveis e Decoração","desc":"Sofás, espelhos e peças grandes sem riscos nem amassados."},
+    {"href":"/colmeia-plastica/","title":"Colmeia Plástica","desc":"Proteção 360° para produtos de formas irregulares."},
+    {"href":"/almofada-de-ar/","title":"Almofada de Ar","desc":"Preenchimento e travamento que completam o sistema de proteção."},
+    {"href":"/protecao-para-transporte/","title":"Proteção para Transporte","desc":"O guia completo dos riscos logísticos e como neutralizá-los."},
+    {"href":"/solucoes/","title":"Todas as Soluções","desc":"Visão geral do portfólio de embalagens de proteção."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>O papel da manta no sistema de proteção</h2>
+      <p>Todo produto em trânsito enfrenta três inimigos: <strong>impacto</strong> (quedas e choques), <strong>vibração</strong> (estrada, esteiras, manuseio) e <strong>abrasão</strong> (atrito com a caixa e com outros itens). A <strong>manta de proteção</strong> ataca os três ao mesmo tempo: seu corpo flexível absorve energia de impacto, amortece vibração contínua e sua superfície macia elimina o atrito que causa riscos e micro-arranhões.</p>
+      <p>É a diferença entre proteger o produto e proteger o <em>acabamento</em> do produto. Uma TV pode sobreviver ao transporte com a tela intacta e ainda assim ser devolvida por um risco no painel — e devolução por avaria estética custa o mesmo frete, o mesmo SAC e a mesma reputação que qualquer outra.</p>
+
+      <h2>Onde a manta de proteção é a escolha certa</h2>
+      <ul>
+        <li><strong>Eletrônicos:</strong> telas, monitores, notebooks e eletrodomésticos — amortecimento uniforme sem pontos de pressão (<a href="/segmentos/eletronicos/">ver segmento</a>).</li>
+        <li><strong>Móveis e decoração:</strong> sofás, cabeceiras, espelhos e tampos — cobertura de grandes superfícies com poucas emendas (<a href="/segmentos/moveis-e-decoracao/">ver segmento</a>).</li>
+        <li><strong>Superfícies de alto brilho:</strong> lacas, cromados, aço escovado e vidros — onde qualquer textura poderia marcar.</li>
+        <li><strong>Peças industriais usinadas:</strong> proteção de superfícies de precisão contra batidas de manuseio (<a href="/embalagem-industrial/">ver embalagem industrial</a>).</li>
+      </ul>
+
+      <h2>Manta, bolha ou espuma: entenda a diferença</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Comparação para amortecimento de superfícies.</caption>
+          <thead>
+            <tr><th>Critério</th><th>Manta de Proteção</th><th>Plástico Bolha</th><th>Espuma (foam)</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Amortecimento contínuo</td><td class="hl yes">✅ Uniforme</td><td class="mid">⚠️ Pontual (bolhas)</td><td class="yes">✅ Uniforme</td></tr>
+            <tr><td>Risco de marcar superfície</td><td class="hl yes">✅ Mínimo</td><td class="no">❌ Relevo pode marcar</td><td class="yes">✅ Mínimo</td></tr>
+            <tr><td>Resistência a múltiplos impactos</td><td class="hl yes">✅ Mantém proteção</td><td class="no">❌ Perde ao estourar</td><td class="mid">⚠️ Deforma permanente</td></tr>
+            <tr><td>Espaço de armazenamento</td><td class="hl yes">✅ Compacta em bobina</td><td class="no">❌ Alto volume</td><td class="no">❌ Alto volume</td></tr>
+            <tr><td>Reciclabilidade</td><td class="hl mid">⚠️ Cadeia de plásticos</td><td class="mid">⚠️ Difícil na prática</td><td class="no">❌ Raramente reciclada</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>O sistema em camadas: manta + almofada de ar</h2>
+      <p>A manta protege a superfície; a caixa ainda precisa de travamento. O protocolo típico para um monitor, por exemplo:</p>
+      <ol>
+        <li><strong>Envolvimento em manta</strong> — amortecimento e proteção anti-risco na superfície.</li>
+        <li><strong>Calços de <a href="/almofada-de-ar/">almofada de ar</a></strong> nas laterais — o produto flutua no centro da caixa.</li>
+        <li><strong>Preenchimento superior</strong> — elimina o último espaço vazio antes do fechamento.</li>
+      </ol>
+      <p>Esse conjunto elimina as duas causas dominantes de avaria: impacto direto e movimento interno. Os detalhes do método estão no guia <a href="/guias/como-reduzir-avarias-no-transporte/">como reduzir avarias no transporte</a>.</p>
+    </div>
+  </div>
+</article>

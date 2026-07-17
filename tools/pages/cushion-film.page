@@ -1,0 +1,71 @@
+{
+  "path": "/cushion-film/",
+  "title": "Cushion Film: filme para almofada de ar — tipos e aplicações",
+  "description": "Cushion film é o filme técnico que gera almofadas de ar sob demanda. Conheça os tipos (pillow, tubo, manta multicâmara), espessuras e como escolher o filme certo.",
+  "h1": "Cushion Film: o filme técnico por trás da <em>almofada de ar</em>",
+  "lead": "<strong>Cushion film</strong> (ou filme cushion) é a bobina de filme plástico multicamadas que, ao passar pelo insuflador, se transforma em almofadas de ar prontas para proteger produtos no transporte. A escolha do filme certo define proteção, custo e produtividade da operação.",
+  "eyebrow": "Solução",
+  "breadcrumb": [["Início","/"],["Soluções","/solucoes/"],["Cushion Film",null]],
+  "og_image": "/img/bobina.webp",
+  "faq_topic": "cushion film",
+  "wa_text": "Olá! Quero saber qual cushion film é ideal para minha operação.",
+  "cta_title": "Não sabe qual cushion film usar?",
+  "cta_text": "Enviamos uma recomendação técnica gratuita com formato, espessura e consumo estimado para o seu produto.",
+  "schema": [
+    {"@type":"Product","name":"Cushion Film — Filme para Almofada de Ar","description":"Filme plástico técnico multicamadas em bobina para produção de almofadas de ar sob demanda (air cushion film).","image":"https://www.almofadadear.com.br/img/bobina.webp","brand":{"@type":"Brand","name":"Almofada de Ar"},"category":"Embalagem de Proteção"}
+  ],
+  "faq": [
+    {"q":"O que é cushion film?","a":"Cushion film é o filme plástico técnico fornecido em bobinas planas que, ao passar por um insuflador, é inflado e selado em almofadas de ar. É a matéria-prima do sistema de embalagem por almofada de ar (air cushion packaging)."},
+    {"q":"Qual a diferença entre cushion film e plástico bolha?","a":"O plástico bolha já vem inflado de fábrica e ocupa grande volume. O cushion film chega plano, ocupa 97% menos espaço e só é inflado no momento do uso, o que reduz frete de insumos, área de estoque e custo por pedido."},
+    {"q":"Quais formatos de cushion film existem?","a":"Os principais são: pillow (travesseiros para preenchimento de vazios), tubo (câmaras contínuas para envolvimento), e manta multicâmara/bolha (padrão quadriculado para amortecimento de superfícies). Há ainda formatos especiais para cantos e quinas."},
+    {"q":"Cushion film é compatível com qualquer máquina?","a":"Não necessariamente. Cada insuflador trabalha com larguras, espessuras e padrões de selagem específicos. Parte da consultoria é garantir a compatibilidade entre filme e equipamento, evitando travamentos e desperdício."},
+    {"q":"O cushion film é reciclável?","a":"Sim. É produzido em polietileno (PE), plástico flexível reciclável. Existem versões com percentual de resina reciclada para metas de sustentabilidade e ESG."}
+  ],
+  "related": [
+    {"href":"/almofada-de-ar/","title":"Almofada de Ar","desc":"A página completa da solução: como funciona, aplicações e vantagens."},
+    {"href":"/maquina-de-almofada-de-ar/","title":"Máquina de Almofada de Ar","desc":"O insuflador que transforma o filme em proteção: capacidades e modelos."},
+    {"href":"/comparativos/almofada-de-ar-vs-plastico-bolha/","title":"Almofada de Ar vs Plástico Bolha","desc":"Números lado a lado: custo, espaço, proteção e reciclagem."},
+    {"href":"/preenchimento-de-caixas/","title":"Void Fill","desc":"Estratégias de preenchimento de caixas para eliminar avarias."},
+    {"href":"/embalagem-sustentavel/","title":"Embalagem Sustentável","desc":"Plástico reciclável vs papel: como decidir com dados."},
+    {"href":"/solucoes/","title":"Todas as Soluções","desc":"Visão geral do portfólio de embalagens de proteção."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>O que é cushion film e como ele vira proteção</h2>
+      <p>O <strong>cushion film</strong> é um filme de polietileno multicamadas, coextrusado para combinar resistência à perfuração com retenção de ar de longa duração. Ele é fornecido em bobinas compactas, pré-formatadas com o desenho das futuras almofadas. Ao passar pelo <a href="/maquina-de-almofada-de-ar/">insuflador</a>, cada câmara é inflada e selada termicamente — e o filme plano vira, em segundos, uma corrente de <a href="/almofada-de-ar/">almofadas de ar</a> prontas para uso.</p>
+      <p>Essa arquitetura em camadas é o que diferencia um filme técnico de um plástico comum: a camada interna garante selagem firme, o núcleo dá resistência mecânica e a superfície suporta atrito com caixas e produtos sem estourar. Um bom cushion film mantém o ar por semanas — a proteção precisa existir na entrega, não só na expedição.</p>
+
+      <h2>Tipos de cushion film</h2>
+      <h3>Pillow (travesseiro)</h3>
+      <p>O formato clássico de <strong>air pillow</strong>: almofadas individuais em corrente, ideais para <a href="/preenchimento-de-caixas/">preenchimento de espaços vazios (void fill)</a>, calço superior e bloqueio de movimento dentro da caixa. É o formato de maior produtividade em e-commerce.</p>
+      <h3>Tubo (câmaras contínuas)</h3>
+      <p>Câmaras alongadas que envolvem o produto como um colar de proteção. Indicado para garrafas, peças cilíndricas e produtos que precisam de amortecimento perimetral.</p>
+      <h3>Manta multicâmara (bolha moderna)</h3>
+      <p>Padrão quadriculado de pequenas câmaras — o sucessor direto do plástico bolha, mas inflado sob demanda. Usado para envolver superfícies sensíveis, forrar o fundo de caixas e proteger eletrônicos, quadros e espelhos. É o que muitos chamam de <strong>filme bolha moderno</strong> ou bubble alternativo.</p>
+
+      <h2>Como escolher espessura e formato</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Guia rápido de seleção de cushion film por aplicação.</caption>
+          <thead>
+            <tr><th>Aplicação</th><th>Formato indicado</th><th>Por quê</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Preencher vazios em caixas</td><td>Pillow</td><td>Máxima velocidade e menor custo por caixa</td></tr>
+            <tr><td>Envolver produto individual</td><td>Manta multicâmara</td><td>Amortecimento uniforme na superfície</td></tr>
+            <tr><td>Garrafas e cilindros</td><td>Tubo</td><td>Proteção perimetral contínua</td></tr>
+            <tr><td>Produtos pesados (5 kg+)</td><td>Filme de maior gramatura</td><td>Resistência à compressão e perfuração</td></tr>
+            <tr><td>Exportação / trajetos longos</td><td>Filme premium multicamadas</td><td>Retenção de ar por semanas</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Errar a espessura para baixo gera avarias; errar para cima gera custo desnecessário. O dimensionamento correto — filme, formato e consumo por pedido — é o coração da <a href="/contato/">análise técnica gratuita</a> que oferecemos.</p>
+
+      <h2>Cushion film e sustentabilidade</h2>
+      <p>Por usar pouquíssima matéria-prima para gerar muito volume de proteção, o cushion film tem pegada de material menor que soluções pré-infladas ou rígidas. O polietileno é reciclável na cadeia de flexíveis, e versões com resina reciclada (PCR) atendem metas ESG. Para operações que exigem material 100% de fibra, a alternativa é o <a href="/papel-colmeia/">papel colmeia</a> ou o <a href="/papel-kraft/">papel kraft amortecedor</a> — compare em <a href="/comparativos/almofada-de-ar-vs-papel-colmeia/">almofada de ar vs papel colmeia</a>.</p>
+    </div>
+  </div>
+</article>

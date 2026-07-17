@@ -1,0 +1,86 @@
+{
+  "path": "/guias/como-escolher-embalagem-de-protecao/",
+  "title": "Como Escolher Embalagem de Proteção: método em 6 critérios",
+  "description": "Guia prático: como escolher a embalagem de proteção certa em 6 critérios — produto, avarias, volume, logística, sustentabilidade e custo total. Com árvore de decisão.",
+  "h1": "Como Escolher Embalagem de Proteção: <em>o método em 6 critérios</em>",
+  "lead": "Escolher material de proteção por hábito, catálogo ou preço do metro é a receita das avarias caras e do desperdício silencioso. Este guia entrega o método que usamos em diagnósticos profissionais: <strong>6 critérios, em ordem, com uma árvore de decisão</strong> no final.",
+  "eyebrow": "Guia prático",
+  "breadcrumb": [["Início","/"],["Guias",null],["Como Escolher Embalagem de Proteção",null]],
+  "og_image": "/unboxing.webp",
+  "page_type": "Article",
+  "faq_topic": "como escolher embalagem",
+  "wa_text": "Olá! Quero ajuda para escolher a embalagem de proteção certa.",
+  "cta_title": "Prefere que a gente aplique o método por você?",
+  "cta_text": "É exatamente o que a análise gratuita faz: os 6 critérios rodados na sua operação, com recomendação e custo por pedido.",
+  "schema": [
+    {"@type":"HowTo","name":"Como escolher embalagem de proteção","description":"Método em 6 critérios para escolher o material de proteção ideal para transporte.","step":[
+      {"@type":"HowToStep","position":1,"name":"Analise o produto","text":"Levante peso, fragilidade, formato e sensibilidade de superfície do produto a proteger."},
+      {"@type":"HowToStep","position":2,"name":"Mapeie as avarias atuais","text":"Identifique tipo, frequência e custo total das avarias existentes — elas revelam a função de proteção que está falhando."},
+      {"@type":"HowToStep","position":3,"name":"Dimensione pelo volume","text":"Defina o sistema (manual ou automático) pelo volume diário de pedidos e seus picos."},
+      {"@type":"HowToStep","position":4,"name":"Considere a cadeia logística","text":"Transportadora, last mile próprio ou exportação mudam os riscos dominantes e o material indicado."},
+      {"@type":"HowToStep","position":5,"name":"Aplique o critério de sustentabilidade","text":"Meta plastic-free direciona para papel; meta de menor pegada por pedido pode indicar filme reciclável."},
+      {"@type":"HowToStep","position":6,"name":"Feche pela conta de custo total","text":"Compare custo total por pedido: material + tempo + espaço + frete de insumo + avarias, e valide com piloto."}
+    ]}
+  ],
+  "faq": [
+    {"q":"Qual o erro mais comum na escolha de embalagem de proteção?","a":"Escolher pelo preço do metro ou do quilo. O custo real é por pedido e inclui tempo de embalagem, espaço de estoque, frete do insumo e avarias. O material 'mais barato' frequentemente é o mais caro na conta completa."},
+    {"q":"Preciso de materiais diferentes para produtos diferentes?","a":"Quase sempre sim, se o mix é variado: protocolos por família de produto (leves, pesados, frágeis, deformáveis) com o material certo para cada função. Um material único para tudo significa excesso em alguns produtos e avaria em outros."},
+    {"q":"Como testar um material antes de adotar?","a":"Piloto de 2 a 4 semanas nos SKUs de maior volume: defina protocolo, treine a estação, meça consumo, tempo por caixa e avarias. Compare com o histórico. Fornecedores sérios apoiam o piloto — inclusive com equipamento em demonstração."},
+    {"q":"De quanto em quanto tempo devo rever a escolha?","a":"A cada mudança relevante: novo mix de produtos, novo canal (marketplace, exportação), crescimento de volume que justifique automação, ou anualmente como auditoria — materiais e máquinas evoluem rápido."}
+  ],
+  "related": [
+    {"href":"/solucoes/","title":"Todas as Soluções","desc":"O portfólio que o método vai filtrar."},
+    {"href":"/comparativos/","title":"Comparativos","desc":"Os materiais lado a lado, critério a critério."},
+    {"href":"/guias/custo-e-roi-da-embalagem/","title":"Custo e ROI","desc":"A conta de custo total detalhada."},
+    {"href":"/guias/como-reduzir-avarias-no-transporte/","title":"Reduzir Avarias","desc":"Se o problema urgente é dano, comece aqui."},
+    {"href":"/embalagem-de-protecao/","title":"Embalagem de Proteção","desc":"O guia-mãe da categoria."},
+    {"href":"/contato/","title":"Análise Gratuita","desc":"O método aplicado por especialista na sua operação."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>Critério 1 — O produto (peso, fragilidade, formato, superfície)</h2>
+      <p>Tudo começa com quatro perguntas sobre o que será protegido: <strong>Quanto pesa?</strong> (define a resistência do material), <strong>Quebra ou deforma?</strong> (define amortecimento vs estruturação), <strong>Que formato tem?</strong> (plano aceita manta; irregular pede <a href="/colmeia-plastica/">colmeia</a>), <strong>A superfície marca?</strong> (couro, lacas e cromados exigem contato contínuo — nunca relevo de bolhas).</p>
+
+      <h2>Critério 2 — As avarias atuais (o diagnóstico gratuito que você já tem)</h2>
+      <p>Suas devoluções são um relatório técnico não lido: <strong>trinca</strong> = falta amortecimento; <strong>arranhão</strong> = falta envolvimento; <strong>amassado da caixa</strong> = falta resistência à compressão; <strong>produto solto</strong> = falta imobilização. Classifique as últimas 50 avarias por tipo e a função falha aparece sozinha.</p>
+
+      <h2>Critério 3 — O volume (define o sistema, não o material)</h2>
+      <ul>
+        <li><strong>Até ~30 pedidos/dia:</strong> materiais prontos e dispensadores manuais — simplicidade vence.</li>
+        <li><strong>30–300:</strong> equipamento de bancada (<a href="/maquina-de-almofada-de-ar/">insuflador</a> ou <a href="/maquina-de-papel/">máquina de papel</a>) — o ponto onde sob demanda passa a pagar.</li>
+        <li><strong>300+:</strong> sistemas com funil, protocolos por estação e auditoria — território da <a href="/automacao-de-embalagem/">automação</a>.</li>
+      </ul>
+
+      <h2>Critério 4 — A cadeia logística</h2>
+      <p>O mesmo produto pede proteções diferentes por canal: <strong>transportadora</strong> (esteiras = impacto de quina: amortecimento em todas as faces), <strong>last mile próprio</strong> (menos manuseio: proteção mais enxuta), <strong>exportação</strong> (semanas de trajeto: retenção de longa duração e resistência à umidade). Mapeamos isso em <a href="/protecao-para-transporte/">proteção para transporte</a>.</p>
+
+      <h2>Critério 5 — Sustentabilidade (com critério, não com slogan)</h2>
+      <p>Duas rotas legítimas: <strong>plastic-free declarado</strong> → família papel (<a href="/papel-colmeia/">colmeia</a> + <a href="/papel-kraft/">kraft</a>); <strong>menor pegada mensurável por pedido</strong> → pode ser o filme reciclável de menor massa. O racional completo, sem greenwashing, está em <a href="/embalagem-sustentavel/">embalagem sustentável</a>.</p>
+
+      <h2>Critério 6 — O custo total por pedido (a conta que decide)</h2>
+      <p>Some as cinco parcelas: material consumido + tempo de embalagem (custo/hora × minutos) + espaço de estoque + frete do insumo + custo esperado de avarias. Rode para os 2–3 candidatos que sobreviveram aos critérios anteriores. O método detalhado está em <a href="/guias/custo-e-roi-da-embalagem/">custo e ROI da embalagem</a>.</p>
+
+      <h2>A árvore de decisão resumida</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Ponto de partida — o piloto valida a escolha final.</caption>
+          <thead>
+            <tr><th>Se o seu caso é…</th><th>Comece por…</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Vazios grandes, produto resistente, volume alto</td><td><a href="/almofada-de-ar/">Almofada de ar</a></td></tr>
+            <tr><td>Produto frágil que precisa ser envolvido</td><td><a href="/papel-colmeia/">Papel colmeia</a> (leve/médio) ou <a href="/colmeia-plastica/">colmeia plástica</a> (pesado/irregular)</td></tr>
+            <tr><td>Peças pesadas, densas ou pontiagudas</td><td><a href="/papel-kraft/">Kraft crimpado</a> por máquina</td></tr>
+            <tr><td>Superfícies que marcam (couro, laca, tela)</td><td><a href="/manta-de-protecao/">Manta de proteção</a> + travamento de ar</td></tr>
+            <tr><td>Meta plastic-free</td><td>Família papel completa</td></tr>
+            <tr><td>Mix variado em volume</td><td>Híbrido com protocolo por família</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Ficou entre dois candidatos? É sinal de bom processo — a decisão final é do piloto ou da <a href="/contato/">análise técnica gratuita</a>, que roda os números por você.</p>
+    </div>
+  </div>
+</article>

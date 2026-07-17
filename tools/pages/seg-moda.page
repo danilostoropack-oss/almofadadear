@@ -1,0 +1,69 @@
+{
+  "path": "/segmentos/moda-e-calcados/",
+  "title": "Embalagem para Moda e Calçados: bolsas e tênis sem deformação",
+  "description": "Embalagem de proteção para moda: bolsas que não dobram, couro que não marca, tênis que mantém a forma. Proteção e unboxing premium para e-commerce de moda.",
+  "h1": "Embalagem para Moda e Calçados: <em>forma perfeita</em> da expedição ao unboxing",
+  "lead": "Na moda, a avaria raramente é quebra — é <strong>deformação</strong>: a bolsa que chega dobrada, o couro marcado, o tênis amassado. O produto funciona, mas a compra está arruinada. A proteção certa mantém a forma e ainda constrói o momento de unboxing que fideliza.",
+  "eyebrow": "Segmento",
+  "breadcrumb": [["Início","/"],["Segmentos",null],["Moda e Calçados",null]],
+  "og_image": "/img/prod-moda-almofada.webp",
+  "faq_topic": "embalagem para moda e calçados",
+  "wa_text": "Olá! Trabalho com moda/calçados e quero melhorar minha embalagem.",
+  "cta_title": "Suas devoluções dizem 'chegou amassado'?",
+  "cta_text": "O diagnóstico gratuito monta o protocolo de estruturação e proteção para o seu mix — bolsas, calçados ou acessórios.",
+  "faq": [
+    {"q":"Como embalar bolsa para enviar sem deformar?","a":"Estruture por dentro e proteja por fora: uma almofada de ar dentro da bolsa mantém a forma (sem peso e sem custo relevante), envolvimento externo com papel colmeia ou almofada, e travamento na caixa para não viajar solta. Nunca dobrar bolsas estruturadas."},
+    {"q":"Como evitar que o couro marque no transporte?","a":"Elimine pressão pontual: sem elásticos, sem fita em contato, sem plástico bolha comum (o relevo das bolhas imprime no couro sob pressão). Use superfícies contínuas — almofada de ar (o contato é um colchão uniforme) ou papel de seda + colmeia."},
+    {"q":"Qual a melhor embalagem para enviar tênis?","a":"A caixa original é parte do produto: proteja-a. Void fill dentro do tênis para manter a forma (papel ou almofada pequena), caixa original envolvida ou travada dentro da caixa de envio com almofadas de ar — chegando sem amassados, o unboxing começa perfeito."},
+    {"q":"Papel colmeia combina com moda?","a":"Perfeitamente: o kraft natural comunica sofisticação artesanal, envolve sem fita (não rasga na abertura) e existe versão com papel de seda integrado — proteção e apresentação de presente em um passe. É o material que mais cresce no segmento premium."},
+    {"q":"Embalagem bonita compensa o custo na moda?","a":"No segmento, sim — mensuravelmente: o unboxing é conteúdo (clientes postam), é avaliação e é recompra. O custo incremental de um envolvimento premium é centavos contra o ticket médio; a devolução por 'chegou amassado' custa duas viagens e uma cliente."}
+  ],
+  "related": [
+    {"href":"/almofada-de-ar/","title":"Almofada de Ar","desc":"Estruturação interna e proteção sem marcas."},
+    {"href":"/papel-colmeia/","title":"Papel Colmeia","desc":"O envolvimento premium do segmento."},
+    {"href":"/embalagem-para-ecommerce/","title":"E-commerce","desc":"Custo por pedido e unboxing em escala."},
+    {"href":"/embalagem-sustentavel/","title":"Embalagem Sustentável","desc":"O discurso da marca fechando com a caixa."},
+    {"href":"/preenchimento-de-caixas/","title":"Void Fill","desc":"Travamento que impede a viagem interna."},
+    {"href":"/guias/como-reduzir-avarias-no-transporte/","title":"Reduzir Avarias","desc":"O método aplicado a produtos que deformam."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>A avaria da moda é diferente</h2>
+      <p>Eletrônicos quebram; moda <strong>deforma</strong>. E deformação tem uma crueldade específica: o produto continua "funcionando", então a transportadora não indeniza, o marketplace discute e a cliente simplesmente devolve — decepcionada com a marca, não com o correio. Vinco no couro, alça dobrada, bico do sapato amassado: cada um é uma primeira impressão destruída no último quilômetro.</p>
+      <p>A física do problema: materiais flexíveis não resistem à <strong>compressão contínua</strong> (caixas empilhadas) nem à <strong>pressão pontual</strong> (elásticos, fitas, quinas de outros produtos). A resposta é estrutura + superfície uniforme.</p>
+
+      <h2>Os dois princípios do protocolo de moda</h2>
+      <h3>1. Estruturar por dentro</h3>
+      <p>Bolsas, mochilas e calçados mantêm a forma quando preenchidos: uma <a href="/almofada-de-ar/">almofada de ar</a> dentro da bolsa ou do tênis cria um "manequim inflável" de gramas de peso que resiste à compressão do empilhamento. É o passo mais barato e mais negligenciado do segmento.</p>
+      <h3>2. Contato apenas com superfícies contínuas</h3>
+      <p>Couro, camurça e verniz registram qualquer pressão localizada — inclusive o padrão de bolhas do plástico bolha. Envolvimento com <a href="/papel-colmeia/">papel colmeia</a> (favo macio + apresentação) ou contato com colchões de ar uniformes preserva o acabamento.</p>
+
+      <h2>Protocolos por produto</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Protocolos típicos do segmento — o diagnóstico ajusta ao seu mix.</caption>
+          <thead>
+            <tr><th>Produto</th><th>Risco</th><th>Protocolo</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Bolsas estruturadas</td><td>Vinco e dobra</td><td>Almofada interna + envolvimento colmeia + travamento</td></tr>
+            <tr><td>Tênis e sneakers</td><td>Caixa original amassada</td><td>Forma interna + caixa original travada com ar</td></tr>
+            <tr><td>Sapatos de couro</td><td>Marca e bico amassado</td><td>Forma interna + seda + colmeia</td></tr>
+            <tr><td>Cintos e acessórios</td><td>Vinco</td><td>Enrolado com estrutura + void fill</td></tr>
+            <tr><td>Óculos e joias</td><td>Quebra + estojo riscado</td><td>Estojo envolvido + suspensão central na caixa</td></tr>
+            <tr><td>Vestuário premium</td><td>Amassado de compressão</td><td>Dobra técnica + seda + caixa dimensionada sem excesso de vazio</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>Unboxing: a embalagem como mídia</h2>
+      <p>No segmento de moda, a caixa é postada, filmada e avaliada. O <a href="/papel-colmeia/">papel colmeia</a> com seda integrada transformou-se no padrão das marcas D2C exatamente por unir três funções: proteção real, estética artesanal e descarte sem culpa (papel na coleta comum — o público da moda cobra isso). O racional completo está em <a href="/embalagem-sustentavel/">embalagem sustentável</a> e <a href="/embalagem-para-ecommerce/">embalagem para e-commerce</a>.</p>
+
+      <h2>Escala sem perder o toque</h2>
+      <p>O desafio do segmento é manter o padrão premium a centenas de pedidos/dia. A resposta é a mesma da indústria: <strong>protocolo por produto + material sob demanda na bancada</strong> — dispensador de colmeia e <a href="/maquina-de-almofada-de-ar/">insuflador</a> ao alcance da mão, instrução visual por família. O operador novo entrega o mesmo unboxing do fundador embalando o primeiro pedido. O desenho da estação sai no <a href="/contato/">diagnóstico gratuito</a>.</p>
+    </div>
+  </div>
+</article>

@@ -1,0 +1,135 @@
+{
+  "path": "/solucoes/",
+  "title": "Soluções de Embalagem de Proteção: almofada de ar, papel e máquinas",
+  "description": "Conheça todas as soluções de embalagem de proteção: almofada de ar, cushion film, papel colmeia, papel kraft, colmeia plástica, manta e máquinas automáticas.",
+  "h1": "Soluções de <em>Embalagem de Proteção</em> para cada operação",
+  "lead": "Nenhum material é o melhor para tudo. O portfólio cobre as duas grandes famílias — <strong>ar</strong> (almofada de ar, cushion film) e <strong>papel</strong> (colmeia, kraft) — mais estruturas especiais e as máquinas que produzem proteção sob demanda. A consultoria indica a combinação certa para o seu produto.",
+  "eyebrow": "Portfólio",
+  "breadcrumb": [["Início","/"],["Soluções",null]],
+  "og_image": "/img/prod-almofada-spray.webp",
+  "page_type": "CollectionPage",
+  "faq_topic": "as soluções de proteção",
+  "wa_text": "Olá! Quero ajuda para escolher a solução de embalagem ideal.",
+  "cta_title": "Não sabe por onde começar?",
+  "cta_text": "Conte o que você embala e quantos pedidos expede por dia. A análise gratuita devolve a solução — ou a combinação — com consumo e custo estimados.",
+  "faq": [
+    {"q":"Qual a melhor embalagem de proteção?","a":"A que resolve o seu caso com o menor custo total. Produtos leves e vazios grandes pedem almofada de ar; envolvimento premium pede papel colmeia; peças pesadas pedem papel kraft crimpado ou colmeia plástica. O diagnóstico técnico define — por isso a análise é o primeiro passo."},
+    {"q":"Posso combinar mais de um material?","a":"Sim, e é o mais comum em operações maduras: colmeia ou manta para envolver o produto e almofada de ar ou papel para preencher e travar. A combinação certa reduz avarias e custo ao mesmo tempo."},
+    {"q":"Vocês atendem que regiões?","a":"Todo o Brasil, com atendimento remoto para diagnóstico e dimensionamento, e presencial na região de São Paulo."},
+    {"q":"A análise é paga?","a":"Não. O diagnóstico inicial — produto, volume, custo atual e recomendação técnica — é gratuito e sem compromisso."}
+  ],
+  "related": [
+    {"href":"/comparativos/","title":"Comparativos Técnicos","desc":"Todos os materiais lado a lado: custo, proteção e sustentabilidade."},
+    {"href":"/guias/como-escolher-embalagem-de-protecao/","title":"Guia: Como Escolher","desc":"O método de decisão em 6 critérios, passo a passo."},
+    {"href":"/embalagem-de-protecao/","title":"Embalagem de Proteção","desc":"O guia-mãe da categoria: conceitos, riscos e sistemas."}
+  ]
+}
+---BODY---
+<section class="section bg-navy">
+  <div class="wrap">
+    <div class="sh">
+      <span class="sh-tag">Família Ar</span>
+      <h2>Proteção inflável <em>sob demanda</em></h2>
+      <p>Máxima produtividade e mínimo custo por pedido para preenchimento, travamento e amortecimento.</p>
+    </div>
+    <div class="mat-grid">
+      <div class="mat-card">
+        <img src="/img/prod-almofada-spray.webp" alt="Almofadas de ar protegendo produto dentro de caixa de papelão" class="mat-card-img" loading="lazy" width="1200" height="800">
+        <div class="mat-card-body">
+          <h3><a href="/almofada-de-ar/">Almofada de Ar</a></h3>
+          <p>O padrão moderno de void fill e imobilização: inflada na hora, 97% menos espaço de estoque, custo por pedido até 40% menor.</p>
+          <a class="card-link" href="/almofada-de-ar/">Conhecer a almofada de ar →</a>
+        </div>
+      </div>
+      <div class="mat-card">
+        <img src="/img/bobina.webp" alt="Bobina compacta de cushion film no estoque" class="mat-card-img" loading="lazy" width="1200" height="800">
+        <div class="mat-card-body">
+          <h3><a href="/cushion-film/">Cushion Film</a></h3>
+          <p>O filme técnico multicamadas em bobina: pillow, tubo e manta multicâmara — o sucessor do plástico bolha, inflado sob demanda.</p>
+          <a class="card-link" href="/cushion-film/">Conhecer o cushion film →</a>
+        </div>
+      </div>
+      <div class="mat-card">
+        <img src="/img/producao.webp" alt="Máquina insufladora produzindo almofadas de ar" class="mat-card-img" loading="lazy" width="1200" height="800">
+        <div class="mat-card-body">
+          <h3><a href="/maquina-de-almofada-de-ar/">Máquina de Almofada de Ar</a></h3>
+          <p>Insuflador compacto de bancada: até 12 m/min de proteção, tomada comum, compra ou comodato.</p>
+          <a class="card-link" href="/maquina-de-almofada-de-ar/">Conhecer o insuflador →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-navy2">
+  <div class="wrap">
+    <div class="sh">
+      <span class="sh-tag">Família Papel</span>
+      <h2>Proteção <em>100% fibra</em>, reciclável na coleta comum</h2>
+      <p>Para operações com meta plastic-free, produtos pesados e unboxing premium.</p>
+    </div>
+    <div class="mat-grid">
+      <div class="mat-card">
+        <img src="/img/colmeia2.webp" alt="Papel colmeia expandido envolvendo produto frágil" class="mat-card-img" loading="lazy" width="1200" height="800">
+        <div class="mat-card-body">
+          <h3><a href="/papel-colmeia/">Papel Colmeia</a></h3>
+          <p>Honeycomb paper: kraft expansível em favos que envolve sem fita adesiva, com apresentação premium e descarte na coleta comum.</p>
+          <a class="card-link" href="/papel-colmeia/">Conhecer o papel colmeia →</a>
+        </div>
+      </div>
+      <div class="mat-card">
+        <img src="/img/operacao-galpao.webp" alt="Operação de expedição usando papel kraft amortecedor" class="mat-card-img" loading="lazy" width="1200" height="800">
+        <div class="mat-card-body">
+          <h3><a href="/papel-kraft/">Papel Kraft Amortecedor</a></h3>
+          <p>Paper cushion e paper void fill: calços densos e preenchimento estruturado para peças pesadas e exportação.</p>
+          <a class="card-link" href="/papel-kraft/">Conhecer o papel kraft →</a>
+        </div>
+      </div>
+      <div class="mat-card">
+        <img src="/img/painel-industria.webp" alt="Sistema automático convertendo papel em amortecimento" class="mat-card-img" loading="lazy" width="1200" height="800">
+        <div class="mat-card-body">
+          <h3><a href="/maquina-de-papel/">Máquina de Papel</a></h3>
+          <p>Paper system: converte bobinas kraft em calços e almofadas sob demanda, com consumo até 50% menor que o manual.</p>
+          <a class="card-link" href="/maquina-de-papel/">Conhecer a máquina de papel →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-navy">
+  <div class="wrap">
+    <div class="sh">
+      <span class="sh-tag">Estruturas especiais</span>
+      <h2>Para produtos que exigem <em>mais que preenchimento</em></h2>
+    </div>
+    <div class="mat-grid card-grid--2">
+      <div class="mat-card">
+        <img src="/img/prod-colmeia-multiprodutos.webp" alt="Colmeia plástica separando múltiplos produtos em uma caixa" class="mat-card-img" loading="lazy" width="1200" height="800">
+        <div class="mat-card-body">
+          <h3><a href="/colmeia-plastica/">Colmeia Plástica</a></h3>
+          <p>Estrutura em favo de mel para proteção 360° de formas irregulares: faróis, luminárias, cerâmicas técnicas. Reutilizável em logística reversa.</p>
+          <a class="card-link" href="/colmeia-plastica/">Conhecer a colmeia plástica →</a>
+        </div>
+      </div>
+      <div class="mat-card">
+        <img src="/img/prod-manta-eletronicos.webp" alt="Manta de proteção envolvendo eletrônicos dentro de caixa" class="mat-card-img" loading="lazy" width="1200" height="800">
+        <div class="mat-card-body">
+          <h3><a href="/manta-de-protecao/">Manta de Proteção</a></h3>
+          <p>Amortecimento contínuo de superfícies: telas, lacas, cromados e móveis protegidos contra impacto e micro-riscos.</p>
+          <a class="card-link" href="/manta-de-protecao/">Conhecer a manta de proteção →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-navy2">
+  <div class="wrap">
+    <div class="prose">
+      <h2>Como decidimos qual solução indicar</h2>
+      <p>O diagnóstico técnico avalia seis variáveis, sempre nesta ordem: <strong>produto</strong> (peso, fragilidade, formato, acabamento), <strong>avarias atuais</strong> (tipo e frequência), <strong>volume de pedidos</strong> (média e pico), <strong>cadeia logística</strong> (last mile, transportadora, exportação), <strong>metas de sustentabilidade</strong> e <strong>custo total atual</strong> — material, tempo, frete e devoluções.</p>
+      <p>Só depois disso aparece a recomendação: uma solução única ou, com frequência, uma combinação (colmeia para envolver + almofada para travar, por exemplo). O método completo está no <a href="/guias/como-escolher-embalagem-de-protecao/">guia de como escolher embalagem de proteção</a>.</p>
+    </div>
+  </div>
+</section>

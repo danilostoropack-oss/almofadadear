@@ -1,0 +1,81 @@
+{
+  "path": "/comparativos/almofada-de-ar-vs-plastico-bolha/",
+  "title": "Almofada de Ar vs Plástico Bolha: comparativo técnico completo",
+  "description": "Almofada de ar ou plástico bolha? Comparativo técnico: custo por pedido, espaço de estoque (97% menor), produtividade, proteção e reciclagem. Veja qual vence em cada critério.",
+  "h1": "Almofada de Ar <em>vs</em> Plástico Bolha: o comparativo definitivo",
+  "lead": "Mesma matéria-prima, modelos de negócio opostos: o plástico bolha chega <strong>pré-inflado da fábrica</strong>; a almofada de ar é <strong>inflada na sua expedição</strong>, sob demanda. Essa diferença única explica quase toda a tabela abaixo — estoque, frete, custo e produtividade.",
+  "eyebrow": "Comparativo técnico",
+  "breadcrumb": [["Início","/"],["Comparativos","/comparativos/"],["Almofada de Ar vs Plástico Bolha",null]],
+  "og_image": "/img/prod-almofada-spray.webp",
+  "page_type": "Article",
+  "faq_topic": "almofada de ar vs plástico bolha",
+  "wa_text": "Olá! Quero comparar almofada de ar com meu plástico bolha atual.",
+  "cta_title": "Quanto o plástico bolha custa de verdade na sua operação?",
+  "cta_text": "A análise gratuita roda esta tabela com os seus números: consumo, espaço, tempo por caixa e avarias.",
+  "faq": [
+    {"q":"Almofada de ar é melhor que plástico bolha?","a":"Para preenchimento de vazios e travamento em operações com volume, sim: 97% menos espaço de estoque, custo por pedido até 40% menor e segundos por caixa. O plástico bolha mantém vantagem apenas em operações muito pequenas, sem escala para um insuflador, e no envolvimento avulso."},
+    {"q":"A proteção das duas é equivalente?","a":"Para void fill, a almofada protege melhor: câmaras maiores e independentes que não estouram em cascata. Para envolvimento de superfície, a manta multicâmara (cushion film) entrega a mesma física da bolha, inflada na hora. A bolha tradicional ainda perde ar progressivamente no trajeto."},
+    {"q":"Qual é mais barata: almofada de ar ou plástico bolha?","a":"Por metro, a bolha pode parecer competitiva. Por pedido — somando material consumido, espaço de estoque, frete do insumo e tempo de embalagem — a almofada de ar custa tipicamente 30–40% menos em operações de médio volume."},
+    {"q":"E o investimento na máquina?","a":"O insuflador compacto tem custo acessível e existe em comodato vinculado ao consumo de filme, zerando o investimento inicial. A economia mensal de material e tempo costuma pagar o equipamento em poucos meses."},
+    {"q":"Qual é mais sustentável?","a":"Ambos são polietileno, mas a almofada usa menos massa de plástico por volume de proteção e chega plana (menos frete de insumo). Versões com resina reciclada reduzem ainda mais a pegada. A bolha, volumosa e frequentemente com fita colada, raramente entra na reciclagem prática."}
+  ],
+  "related": [
+    {"href":"/almofada-de-ar/","title":"Almofada de Ar","desc":"A página completa da solução."},
+    {"href":"/plastico-bolha/","title":"Plástico Bolha","desc":"O material clássico em detalhe."},
+    {"href":"/substituto-do-plastico-bolha/","title":"Substituto do Plástico Bolha","desc":"Todas as alternativas por função."},
+    {"href":"/comparativos/papel-colmeia-vs-plastico-bolha/","title":"Colmeia vs Bolha","desc":"A alternativa em papel frente ao clássico."},
+    {"href":"/maquina-de-almofada-de-ar/","title":"Máquina de Almofada de Ar","desc":"O insuflador: modelos, comodato e capacidade."},
+    {"href":"/comparativos/","title":"Todos os Comparativos","desc":"Hub de comparativos técnicos."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>A tabela completa</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Comparativo técnico para operações de e-commerce e expedição B2B.</caption>
+          <thead>
+            <tr><th>Critério</th><th>Almofada de Ar</th><th>Plástico Bolha</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Modelo de fornecimento</td><td class="hl yes">✅ Bobina plana, inflada no uso</td><td class="no">❌ Rolo pré-inflado de fábrica</td></tr>
+            <tr><td>Espaço de estoque</td><td class="hl yes">✅ 97% menor</td><td class="no">❌ Posições inteiras de pallet</td></tr>
+            <tr><td>Frete do insumo</td><td class="hl yes">✅ Mínimo (filme plano)</td><td class="no">❌ Paga-se para transportar ar</td></tr>
+            <tr><td>Custo por pedido (volume médio+)</td><td class="hl yes">✅ Até 40% menor</td><td class="mid">⚠️ Referência</td></tr>
+            <tr><td>Tempo por caixa</td><td class="hl yes">✅ Segundos (pronta no funil)</td><td class="no">❌ Desenrolar, cortar, prender</td></tr>
+            <tr><td>Proteção em void fill</td><td class="hl yes">✅ Câmaras independentes</td><td class="mid">⚠️ Bolhas estouram em cascata</td></tr>
+            <tr><td>Retenção de ar no trajeto</td><td class="hl yes">✅ Filme multicamadas, semanas</td><td class="mid">⚠️ Perda progressiva</td></tr>
+            <tr><td>Superfícies delicadas</td><td class="yes">✅ Sem relevo marcante</td><td class="no">❌ Pode imprimir padrão de bolhas</td></tr>
+            <tr><td>Investimento inicial</td><td class="mid">⚠️ Insuflador (ou comodato)</td><td class="yes">✅ Nenhum</td></tr>
+            <tr><td>Operações muito pequenas</td><td class="mid">⚠️ Escala mínima p/ compensar</td><td class="yes">✅ Rolo pronto, simples</td></tr>
+            <tr><td>Reciclabilidade prática</td><td class="yes">✅ PE plano, menos massa</td><td class="no">❌ Volumoso, com fita, raro reciclar</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>A conta que decide: custo total por pedido</h2>
+      <p>Simule com seus números — esta é a estrutura que usamos no diagnóstico:</p>
+      <ul>
+        <li><strong>Material:</strong> metros consumidos por caixa × custo do metro. A almofada, dimensionada, quase sempre consome menos massa para a mesma imobilização.</li>
+        <li><strong>Espaço:</strong> posições de pallet ocupadas por insumo × custo do m² do galpão. Aqui a diferença é brutal: bobinas planas vs rolos de ar.</li>
+        <li><strong>Tempo:</strong> minutos de preparo por caixa × custo/hora do operador. Cortar e prender bolha vs sacar almofadas prontas.</li>
+        <li><strong>Frete de insumo:</strong> reposições transportando volume pré-inflado vs filme plano.</li>
+        <li><strong>Avarias:</strong> a proteção que chega ao cliente (não a que sai da expedição) define devoluções.</li>
+      </ul>
+
+      <h2>Quando o plástico bolha ainda vence</h2>
+      <p>Honestidade técnica: se a sua operação expede <strong>poucas caixas por semana</strong>, o rolo de bolha comprado pronto continua sendo a solução mais simples — não há escala para equipamento. E para envolvimento avulso e eventual (mudanças, itens únicos), a bolha é prática. O ponto de virada aparece tipicamente a partir de <strong>20–30 pedidos/dia</strong>, quando estoque, tempo e custo por pedido começam a pesar.</p>
+
+      <h2>Como migrar sem risco</h2>
+      <ol>
+        <li>Meça o consumo atual de bolha (metros/caixa) e o tempo por caixa.</li>
+        <li>Pilote a almofada de ar nos SKUs de maior volume — o insuflador em comodato permite testar sem investimento.</li>
+        <li>Compare custo total por pedido e índice de avarias após 2–4 semanas.</li>
+        <li>Escale com protocolo por família de produto.</li>
+      </ol>
+      <p>A <a href="/contato/">análise técnica gratuita</a> executa o passo 1 e projeta os demais antes mesmo do piloto.</p>
+    </div>
+  </div>
+</article>

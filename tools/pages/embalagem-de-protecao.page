@@ -1,0 +1,77 @@
+{
+  "path": "/embalagem-de-protecao/",
+  "title": "Embalagem de Proteção: guia completo de materiais e sistemas",
+  "description": "Guia completo de embalagem de proteção (protective packaging): riscos do transporte, materiais (ar, papel, estruturas), sistemas automáticos e como escolher.",
+  "h1": "Embalagem de Proteção: o guia completo de <em>protective packaging</em>",
+  "lead": "<strong>Embalagem de proteção</strong> é o conjunto de materiais e sistemas que garantem que um produto sobreviva à jornada logística — impacto, vibração, compressão e umidade — do fechamento da caixa até as mãos do cliente. Este guia organiza a categoria inteira: riscos, materiais, sistemas e critérios de escolha.",
+  "eyebrow": "Guia da categoria",
+  "breadcrumb": [["Início","/"],["Embalagem de Proteção",null]],
+  "og_image": "/unboxing.webp",
+  "faq_topic": "embalagem de proteção",
+  "wa_text": "Olá! Quero uma análise da minha embalagem de proteção.",
+  "faq": [
+    {"q":"O que é embalagem de proteção?","a":"É a camada da embalagem responsável por proteger o produto contra os riscos do transporte — impacto, vibração, compressão e abrasão. Inclui materiais de preenchimento (void fill), amortecimento (cushioning), envolvimento (wrapping) e travamento (block & brace)."},
+    {"q":"Quais são os principais materiais de embalagem de proteção?","a":"Família ar: almofada de ar e cushion film. Família papel: papel kraft amortecedor e papel colmeia. Estruturas: colmeia plástica e manta de proteção. Materiais legados: plástico bolha, flocos de isopor e espumas — cada vez mais substituídos pelos sistemas sob demanda."},
+    {"q":"Como sei se minha embalagem de proteção está adequada?","a":"Três indicadores: índice de avarias (reclamações e devoluções por dano), custo total por pedido (material + tempo + frete) e excesso de embalagem (caixas grandes demais, material demais). Se qualquer um está fora, há dinheiro na mesa — e o diagnóstico gratuito mostra onde."},
+    {"q":"Embalagem de proteção aumenta o custo do frete?","a":"Depende do material. Soluções infladas adicionam gramas; papel adiciona mais peso, mas ambos podem reduzir o frete total ao permitir caixas menores e eliminar devoluções por avaria — que custam duas viagens."}
+  ],
+  "related": [
+    {"href":"/solucoes/","title":"Todas as Soluções","desc":"O portfólio completo: ar, papel, estruturas e máquinas."},
+    {"href":"/guias/como-escolher-embalagem-de-protecao/","title":"Como Escolher","desc":"O método de decisão em 6 critérios."},
+    {"href":"/guias/como-reduzir-avarias-no-transporte/","title":"Reduzir Avarias","desc":"O método em 5 passos contra danos no transporte."},
+    {"href":"/comparativos/","title":"Comparativos","desc":"Materiais lado a lado, com tabelas técnicas."},
+    {"href":"/protecao-para-transporte/","title":"Proteção para Transporte","desc":"Os riscos da cadeia logística e como neutralizá-los."},
+    {"href":"/automacao-de-embalagem/","title":"Automação","desc":"Sistemas que produzem proteção sob demanda."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>Por que a embalagem de proteção virou disciplina técnica</h2>
+      <p>Enquanto o e-commerce brasileiro multiplicava o volume de encomendas, cada pacote passou a trocar de mãos entre 6 e 12 vezes entre a expedição e a entrega — esteiras, caminhões, centros de distribuição, last mile. Cada troca é uma oportunidade de queda, compressão ou vibração. A embalagem de proteção (em inglês, <strong>protective packaging</strong>) é a engenharia que neutraliza esses riscos com o mínimo de material, espaço e custo.</p>
+      <p>Tratá-la como commodity — "põe mais plástico bolha" — custa caro nas duas direções: proteção de menos gera avaria, devolução e cliente perdido; proteção demais gera custo de material, caixas maiores e frete inflado.</p>
+
+      <h2>Os 4 riscos que a embalagem precisa vencer</h2>
+      <h3>1. Impacto</h3>
+      <p>Quedas em esteiras e manuseio. É o risco mais óbvio — e o único que muita embalagem cobre. Exige <strong>amortecimento</strong> (cushioning): <a href="/almofada-de-ar/">almofada de ar</a>, <a href="/papel-kraft/">papel crimpado</a> ou <a href="/manta-de-protecao/">manta</a>.</p>
+      <h3>2. Vibração</h3>
+      <p>Horas de estrada transferem micro-choques contínuos. Produto solto na caixa "caminha" e se danifica. Exige <strong>imobilização</strong> (block &amp; brace): o produto não pode se mover.</p>
+      <h3>3. Compressão</h3>
+      <p>Caixas empilhadas em pallets e veículos. O material interno ajuda a caixa a suportar carga — void fill estruturado faz diferença real aqui.</p>
+      <h3>4. Abrasão</h3>
+      <p>Atrito do produto com a caixa e entre itens. Danifica acabamentos mesmo sem impacto. Exige <strong>envolvimento</strong>: <a href="/papel-colmeia/">papel colmeia</a>, manta ou <a href="/colmeia-plastica/">colmeia plástica</a>.</p>
+
+      <h2>O mapa dos materiais</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Visão geral da categoria — cada material tem página completa com detalhes.</caption>
+          <thead>
+            <tr><th>Material</th><th>Função principal</th><th>Melhor para</th><th>Sustentabilidade</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><a href="/almofada-de-ar/">Almofada de ar</a></td><td>Void fill + travamento</td><td>E-commerce, alto volume</td><td class="yes">PE reciclável</td></tr>
+            <tr><td><a href="/cushion-film/">Manta multicâmara</a></td><td>Amortecimento</td><td>Superfícies e envolvimento</td><td class="yes">PE reciclável</td></tr>
+            <tr><td><a href="/papel-kraft/">Papel kraft</a></td><td>Calços + void fill</td><td>Peças pesadas, plastic-free</td><td class="yes">Coleta comum</td></tr>
+            <tr><td><a href="/papel-colmeia/">Papel colmeia</a></td><td>Envolvimento</td><td>Unboxing premium</td><td class="yes">Coleta comum</td></tr>
+            <tr><td><a href="/colmeia-plastica/">Colmeia plástica</a></td><td>Proteção 360°</td><td>Formas irregulares</td><td class="mid">Reutilizável</td></tr>
+            <tr><td><a href="/manta-de-protecao/">Manta de proteção</a></td><td>Anti-risco + amortecimento</td><td>Telas, lacas, móveis</td><td class="mid">Cadeia de plásticos</td></tr>
+            <tr><td><a href="/plastico-bolha/">Plástico bolha</a></td><td>Amortecimento (legado)</td><td>Baixo volume</td><td class="no">Difícil reciclagem</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>O conceito de sistema: material + máquina + método</h2>
+      <p>A embalagem de proteção moderna não é um material — é um <strong>sistema</strong>. As operações mais eficientes do país combinam três elementos:</p>
+      <ul>
+        <li><strong>Material dimensionado:</strong> espessura, gramatura e formato definidos pelo produto, não pelo hábito.</li>
+        <li><strong>Produção sob demanda:</strong> <a href="/maquina-de-almofada-de-ar/">insufladores</a> e <a href="/maquina-de-papel/">máquinas de papel</a> que geram proteção no ponto de uso, eliminando estoque de volume.</li>
+        <li><strong>Método de embalagem:</strong> protocolo padronizado por família de produto — quantas almofadas, onde, em que ordem.</li>
+      </ul>
+      <p>É esse tripé que entrega os resultados que aparecem nos diagnósticos: menos avarias, menos material, menos tempo por caixa. Para ver como isso se traduz em números na sua operação, o caminho é a <a href="/contato/">análise técnica gratuita</a>.</p>
+
+      <h2>Por onde continuar</h2>
+      <p>Se você está mapeando a categoria, siga para o <a href="/guias/como-escolher-embalagem-de-protecao/">guia de escolha</a>. Se o problema é dano no transporte, comece por <a href="/guias/como-reduzir-avarias-no-transporte/">como reduzir avarias</a>. Se está comparando materiais específicos, os <a href="/comparativos/">comparativos técnicos</a> têm tabelas lado a lado. E se o tema é meta ambiental, veja <a href="/embalagem-sustentavel/">embalagem sustentável</a>.</p>
+    </div>
+  </div>
+</article>

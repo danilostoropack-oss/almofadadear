@@ -1,0 +1,66 @@
+{
+  "path": "/segmentos/moveis-e-decoracao/",
+  "title": "Embalagem para Móveis e Decoração: espelhos, sofás e peças grandes",
+  "description": "Embalagem de proteção para móveis e decoração: espelhos, vidros, sofás, luminárias e cerâmicas. Como transportar peças grandes e frágeis sem avarias.",
+  "h1": "Embalagem para Móveis e Decoração: <em>grande, frágil e caro</em> — sem avarias",
+  "lead": "Móveis e decoração são o pesadelo logístico: peças grandes demais para caixas padrão, frágeis demais para viajar soltas e caras demais para avariar. Espelhos, tampos de vidro, luminárias e estofados — cada família exige um protocolo próprio de proteção.",
+  "eyebrow": "Segmento",
+  "breadcrumb": [["Início","/"],["Segmentos",null],["Móveis e Decoração",null]],
+  "og_image": "/img/espelho.webp",
+  "faq_topic": "embalagem para móveis e decoração",
+  "wa_text": "Olá! Trabalho com móveis/decoração e quero reduzir avarias no transporte.",
+  "cta_title": "Peça grande + vidro + transportadora = medo?",
+  "cta_text": "Não precisa ser. O diagnóstico gratuito monta protocolos por família — do espelho ao sofá — com o custo de cada um.",
+  "faq": [
+    {"q":"Como embalar espelho para transporte?","a":"Protocolo de vidro plano: fita em X na superfície (contém estilhaços e tensiona o vidro), manta de proteção na face, cantoneiras nas quinas (onde 80% das quebras começam), placas rígidas nas duas faces e travamento total na embalagem — o espelho não pode se mover um centímetro."},
+    {"q":"Como proteger sofá e estofados no transporte?","a":"O risco do estofado é sujeira, rasgo e amassado permanente: manta de proteção volumosa em toda a superfície, reforço nas quinas e braços (pontos de arrasto), e nunca empilhar peso sobre o assento. Pés e estruturas de madeira ganham proteção individual."},
+    {"q":"Como enviar luminária ou lustre sem quebrar?","a":"Desmonte ao máximo (cúpula, haste, cristais separados), proteja cada parte com colmeia plástica ou papel colmeia (formas irregulares), suspenda o conjunto no centro da caixa com almofadas de ar e sinalize posição vertical. Peças penduradas dentro da caixa são quebra certa."},
+    {"q":"Qual embalagem para cerâmica e vasos de decoração?","a":"Envolvimento em papel colmeia (acompanha curvas e protege o esmalte) + suspensão central com void fill abundante. Para peças múltiplas na mesma caixa, separação obrigatória — cerâmica quebra cerâmica."},
+    {"q":"Vale a pena embalagem sob medida para móveis?","a":"Para linhas de produção, sim: caixa e proteção dimensionadas reduzem cubo (frete) e avaria. Para mix variado ou peças únicas, sistemas flexíveis sob demanda (papel, ar, manta em bobina) se adaptam a qualquer formato sem ferramental."}
+  ],
+  "related": [
+    {"href":"/manta-de-protecao/","title":"Manta de Proteção","desc":"Superfícies grandes: estofados, tampos e painéis."},
+    {"href":"/papel-colmeia/","title":"Papel Colmeia","desc":"Cerâmicas, luminárias e peças de decoração."},
+    {"href":"/colmeia-plastica/","title":"Colmeia Plástica","desc":"Formas irregulares com proteção 360°."},
+    {"href":"/almofada-de-ar/","title":"Almofada de Ar","desc":"Travamento e preenchimento de grandes volumes."},
+    {"href":"/protecao-para-transporte/","title":"Proteção para Transporte","desc":"Os riscos da cadeia, do CD à entrega."},
+    {"href":"/guias/como-reduzir-avarias-no-transporte/","title":"Reduzir Avarias","desc":"O método de 5 passos para o segmento."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>Por que móveis e decoração desafiam a logística</h2>
+      <p>O segmento acumula agravantes: <strong>dimensões fora de padrão</strong> (caixas sob medida ou semi-embalado), <strong>materiais mistos na mesma peça</strong> (vidro + madeira + metal + tecido, cada um com uma fragilidade), <strong>valor unitário alto</strong> (uma avaria dói) e <strong>entrega em domicílio</strong> com escadas, portas e manuseio improvisado no último metro.</p>
+      <p>E há o fator invisível: peças grandes viajam menos protegidas <em>por dentro</em> — quanto maior a caixa, maior o vazio interno e maior a energia do movimento. O princípio de <a href="/preenchimento-de-caixas/">imobilização</a> vale dobrado aqui.</p>
+
+      <h2>Protocolos por família</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Protocolos típicos do segmento — ajustados no diagnóstico.</caption>
+          <thead>
+            <tr><th>Família</th><th>Risco dominante</th><th>Protocolo</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Espelhos e vidros planos</td><td>Quebra de quina</td><td>Fita em X + <a href="/manta-de-protecao/">manta</a> + cantoneiras + faces rígidas + travamento</td></tr>
+            <tr><td>Sofás e estofados</td><td>Sujeira, rasgo, amassado</td><td>Manta volumosa total + reforço de quinas e braços</td></tr>
+            <tr><td>Luminárias e lustres</td><td>Quebra de partes</td><td>Desmontar + <a href="/colmeia-plastica/">colmeia</a> por parte + suspensão central</td></tr>
+            <tr><td>Cerâmicas e vasos</td><td>Quebra + esmalte riscado</td><td><a href="/papel-colmeia/">Papel colmeia</a> + suspensão + separação entre peças</td></tr>
+            <tr><td>Quadros e molduras</td><td>Vidro + moldura marcada</td><td>Proteção da face + cantoneiras + travamento vertical</td></tr>
+            <tr><td>Tampos e painéis</td><td>Trinca + risco de superfície</td><td>Manta + faces rígidas + calços de <a href="/papel-kraft/">kraft</a> nas bordas</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>A regra das quinas (de novo, porque é onde tudo quebra)</h2>
+      <p>Em vidros, espelhos e tampos, <strong>as quinas concentram 80% das quebras</strong>: são o ponto de impacto das quedas e o ponto fraco estrutural do material. Protocolo mínimo: cantoneira dedicada em cada quina + a peça suspensa sem tocar nenhuma parede. Se o orçamento de proteção é limitado, gaste nas quinas primeiro.</p>
+
+      <h2>E-commerce de decoração: o teste do sortimento</h2>
+      <p>Lojas de decoração vendem de caneca a espelho de corpo inteiro — impossível ter caixa e berço sob medida para tudo. A arquitetura vencedora é <strong>flexível</strong>: bobinas de manta, <a href="/papel-colmeia/">colmeia</a> e <a href="/almofada-de-ar/">almofadas de ar</a> na bancada cobrem qualquer formato sem ferramental por SKU. Protocolo por família + shake test antes de fechar = avarias sob controle mesmo com sortimento infinito.</p>
+
+      <h2>Entrega premium começa na caixa</h2>
+      <p>Móveis e decoração vendem estética — a caixa que chega rasgada com estofado aparecendo destrói a promessa antes da montagem. Proteção robusta é também embalagem íntegra na porta do cliente: apresentação, avaliação e menos acionamento de seguro. O protocolo completo para o seu mix sai do <a href="/contato/">diagnóstico gratuito</a>.</p>
+    </div>
+  </div>
+</article>

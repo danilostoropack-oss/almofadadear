@@ -1,0 +1,66 @@
+{
+  "path": "/segmentos/autopecas/",
+  "title": "Embalagem para Autopeças: faróis, cromados e peças sem avarias",
+  "description": "Embalagem de proteção para autopeças: faróis, lanternas, retrovisores, peças cromadas e componentes. Como eliminar trincas e riscos no transporte e na reposição.",
+  "h1": "Embalagem para Autopeças: <em>trinca e risco zero</em> do CD à oficina",
+  "lead": "Autopeças unem o pior dos mundos para o transporte: <strong>plásticos que trincam, cromados que riscam, formatos irregulares</strong> e um cliente (oficina ou consumidor) que não pode esperar a reposição da reposição. O protocolo de proteção certo elimina a avaria — e o custo dela.",
+  "eyebrow": "Segmento",
+  "breadcrumb": [["Início","/"],["Segmentos",null],["Autopeças",null]],
+  "og_image": "/img/farol.webp",
+  "faq_topic": "embalagem para autopeças",
+  "wa_text": "Olá! Trabalho com autopeças e quero reduzir avarias no transporte.",
+  "cta_title": "Quantos faróis a sua operação perde por mês?",
+  "cta_text": "O diagnóstico gratuito levanta o custo real das avarias — peça + fretes + SLA — e monta o protocolo para zerá-las.",
+  "faq": [
+    {"q":"Como embalar farol para transporte sem trincar?","a":"Protocolo de duas camadas: colmeia plástica ou papel colmeia envolvendo a peça (absorve impactos diretos e acompanha o formato irregular) + almofadas de ar travando o conjunto no centro da caixa (elimina o movimento interno, causa da maioria das trincas). Nunca deixar a lente encostar na parede da caixa."},
+    {"q":"Qual embalagem evita riscos em peças cromadas?","a":"Materiais de superfície contínua e macia: manta de proteção ou papel colmeia. Plástico bolha pode imprimir o padrão das bolhas em cromados sob pressão, e flocos soltos riscam por abrasão durante a vibração do trajeto."},
+    {"q":"Como embalar autopeças para e-commerce e marketplace?","a":"Com protocolo por família de peça: leves e resistentes (filtros, palhetas) só precisam de void fill; frágeis (faróis, retrovisores) exigem envolvimento + travamento; pesadas (discos, amortecedores) pedem calços de papel kraft crimpado. Padronizar por família protege a reputação da conta no marketplace."},
+    {"q":"Embalagem retornável funciona para autopeças?","a":"Sim, em fluxos fechados (fábrica-montadora, CD-filiais): colmeia plástica reutilizável dilui o custo por dezenas de viagens. Para aftermarket e e-commerce (fluxo aberto), materiais one-way sob demanda são mais econômicos que gerir retorno."},
+    {"q":"Quanto custa uma avaria de autopeça no transporte?","a":"Muito mais que a peça: frete de ida + frete de retorno + nova peça + novo frete + oficina parada aguardando + risco de perder o cliente B2B. Em diagnósticos do setor, o custo total médio de uma avaria supera 4x o valor da peça."}
+  ],
+  "related": [
+    {"href":"/colmeia-plastica/","title":"Colmeia Plástica","desc":"Proteção 360° — o padrão para faróis e formas irregulares."},
+    {"href":"/almofada-de-ar/","title":"Almofada de Ar","desc":"O travamento que elimina o movimento interno."},
+    {"href":"/papel-kraft/","title":"Papel Kraft","desc":"Calços densos para peças pesadas e metálicas."},
+    {"href":"/embalagem-industrial/","title":"Embalagem Industrial","desc":"Fluxos B2B, interplantas e exportação."},
+    {"href":"/guias/como-reduzir-avarias-no-transporte/","title":"Reduzir Avarias","desc":"O método de 5 passos aplicado ao seu fluxo."},
+    {"href":"/manta-de-protecao/","title":"Manta de Proteção","desc":"Superfícies cromadas e pintadas sem micro-riscos."}
+  ]
+}
+---BODY---
+<article class="section bg-navy">
+  <div class="wrap">
+    <div class="prose">
+      <h2>Por que autopeças avariam tanto</h2>
+      <p>Três fatores se somam. <strong>Material:</strong> policarbonato e ABS de faróis e carenagens trincam sob impacto pontual — e a trinca pode ser invisível até a instalação. <strong>Geometria:</strong> hastes, flanges e lentes criam pontos de contato concentrado que embalagens planas não cobrem. <strong>Cadeia:</strong> a peça viaja do fabricante ao CD, do CD à loja ou oficina, muitas vezes re-embalada no caminho por quem não conhece o protocolo original.</p>
+      <p>O resultado aparece no indicador que todo gestor do setor conhece: devolução por avaria — e o custo real de cada uma (peça + dois fretes + SLA estourado + cliente irritado) costuma superar <strong>4x o valor da peça</strong>.</p>
+
+      <h2>Protocolos por família de peça</h2>
+      <div class="table-scroll">
+        <table class="comp-table">
+          <caption>Protocolos típicos — o diagnóstico ajusta para as suas peças e trajetos.</caption>
+          <thead>
+            <tr><th>Família</th><th>Risco dominante</th><th>Protocolo</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Faróis e lanternas</td><td>Trinca de lente</td><td><a href="/colmeia-plastica/">Colmeia</a> envolvendo + <a href="/almofada-de-ar/">ar</a> travando; lente longe das paredes</td></tr>
+            <tr><td>Retrovisores</td><td>Quebra de espelho + risco</td><td>Envolvimento 360° + suspensão central na caixa</td></tr>
+            <tr><td>Cromados e acabamentos</td><td>Micro-riscos</td><td><a href="/manta-de-protecao/">Manta</a> de superfície contínua + void fill</td></tr>
+            <tr><td>Carenagens e para-choques</td><td>Trinca + empeno</td><td>Envolvimento + calços posicionais; caixa sob medida</td></tr>
+            <tr><td>Discos, amortecedores, pesados</td><td>Impacto de queda</td><td>Calços de <a href="/papel-kraft/">kraft crimpado</a>; peça imobilizada</td></tr>
+            <tr><td>Filtros, palhetas, leves</td><td>Movimento interno</td><td><a href="/preenchimento-de-caixas/">Void fill</a> de ar simples</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>O detalhe que muda tudo: a quina da caixa</h2>
+      <p>Quedas em esteiras de triagem acontecem majoritariamente <strong>de quina</strong> — toda a energia concentrada em um ponto. Se a peça estiver encostada naquela quina por dentro, a trinca é certa. Por isso o princípio central do protocolo automotivo é a <strong>suspensão central</strong>: a peça flutua no meio da caixa, com almofadas de ar em todas as faces, e a lente ou superfície crítica nunca encosta em parede.</p>
+
+      <h2>Aftermarket e marketplace: o novo campo de batalha</h2>
+      <p>Com a explosão da venda de autopeças online, peças projetadas para viajar em pallets fechados agora viajam <strong>unitizadas por transportadora</strong> — a cadeia mais agressiva que existe. Vendedores de marketplace são penalizados pela plataforma a cada reclamação de avaria. O protocolo por família de peça, com material sob demanda na bancada, é o que mantém a nota da conta e a margem: detalhamos a arquitetura em <a href="/embalagem-para-ecommerce/">embalagem para e-commerce</a>.</p>
+
+      <h2>Fluxos fechados: a conta do retornável</h2>
+      <p>Fábrica→montadora e CD→filiais rodam as mesmas rotas semanalmente — o cenário perfeito para <a href="/colmeia-plastica/">colmeia plástica retornável</a>, que dilui o custo em dezenas de ciclos e elimina o descarte na ponta. O diagnóstico compara one-way vs retornável com os volumes do seu fluxo.</p>
+    </div>
+  </div>
+</article>
