@@ -1,13 +1,16 @@
 {
   "name": "Almofada de Ar — Embalagens de Proteção",
   "short_name": "Almofada de Ar",
-  "description": "Especialista em almofada de ar, papel colmeia e embalagens de proteção para e-commerce, indústria e logística.",
+  "description": "Especialista em almofada de ar para embalagem: air pillows, cushion film, void fill e filmes compostáveis certificados.",
   "start_url": "/",
   "display": "browser",
   "background_color": "#0a0f1e",
   "theme_color": "#0a0f1e",
   "lang": "pt-BR",
   "icons": [
-    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/favicon-32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/img/icone-almofada-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ]
 }
