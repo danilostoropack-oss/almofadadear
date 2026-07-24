@@ -35,8 +35,8 @@
     });
   }
 
-  /* Chave do Web3Forms vinculada a contato@almofadadear.com.br */
-  var WEB3FORMS_ACCESS_KEY = '3075a4a3-c792-4660-92a0-2b755495375e';
+  /* Chave do Web3Forms — leads direcionados para danilo.domingos@storopack.com */
+  var WEB3FORMS_ACCESS_KEY = '673e8457-837d-4d0e-a6bb-18a0267b4e93';
 
   window.submitModal = function () {
     var nome = ((document.getElementById('mNome') || {}).value || '').trim();
@@ -64,7 +64,7 @@
         (empresa ? '\nEmpresa: ' + empresa : '') +
         (segmento ? '\nSegmento: ' + segmento : '') +
         (msg ? '\nDetalhes: ' + msg : '');
-      location.href = 'mailto:contato@almofadadear.com.br?subject=' +
+      location.href = 'mailto:danilo.domingos@storopack.com?subject=' +
         encodeURIComponent('Solicita\u00e7\u00e3o de an\u00e1lise \u2014 ' + nome) +
         '&body=' + encodeURIComponent(corpo);
       done();
@@ -78,7 +78,7 @@
         access_key: WEB3FORMS_ACCESS_KEY,
         subject: 'Nova solicita\u00e7\u00e3o de diagn\u00f3stico \u2014 ' + nome,
         from_name: 'Site Almofada de Ar',
-        to: 'contato@almofadadear.com.br',
+        to: 'danilo.domingos@storopack.com',
         replyto: email,
         nome: nome,
         email: email,
